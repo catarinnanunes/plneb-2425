@@ -72,14 +72,13 @@ def anagram_classes(words):
         sorted_word = ''.join(sorted(w)) # o sorted cria uma lista. 
         if sorted_word not in classes:
             classes[sorted_word]=[]
-        else:
-            classes[sorted_word].append(w)
+        classes[sorted_word].append(w)
     return classes
 
 
 
 # Testes
-if __name__ == "__main__":
+def run_testes():
     print("1- 'hello' reversed:", reverse("hello"))
     print("2- Contagem de 'a'/'A' em 'Abracadabra':", count_aA("Abracadabra"))
     print("3- Contagem de vogais em 'Hello World':", count_vowels("Hello World"))
@@ -91,4 +90,65 @@ if __name__ == "__main__":
     print("9- Verifica anagramas:\n 'listen' e 'silent': ", is_anagram("listen", "silent"), "\n","'hello' e 'world': ", is_anagram("hello", "world"))
     words_list = ["listen", "silent", "enlist", "rat", "tar", "art"]
     print("10- Tabela de classes de anagramas:", anagram_classes(words_list))
-    
+
+def menu():
+    while True:
+        print("\n--- Menu ---")
+        print("1. Reverter uma string")
+        print("2. Contar 'a' e 'A' numa string")
+        print("3. Contar vogais numa string")
+        print("4. Converter string para minúsculas")
+        print("5. Converter string para maiúsculas")
+        print("6. Verificar se uma string é capicua")
+        print("7. Verificar se duas strings estão balanceadas")
+        print("8. Contar ocorrencias de uma string noutra string")
+        print("9. Verificar se duas strings são anagramas")
+        print("10. Gerar tabela de classes de anagramas")
+        print("11. Mostrar testes pré-feitos")
+        print("0. Sair")
+        escolha = input("Escolha uma opção: ")
+
+        if escolha == "1":
+            s = input("Digite uma string: ")
+            print(f"String revertida: {reverse(s)}")
+        elif escolha == "2":
+            s = input("Digite uma string: ")
+            print(f"Número de 'a' e 'A': {count_aA(s)}")
+        elif escolha == "3":
+            s = input("Digite uma string: ")
+            print(f"Número de vogais: {count_vowels(s)}")
+        elif escolha == "4":
+            s = input("Digite uma string: ")
+            print(f"String em minúsculas: {to_lower(s)}")
+        elif escolha == "5":
+            s = input("Digite uma string: ")
+            print(f"String em maiúsculas: {to_upper(s)}")
+        elif escolha == "6":
+            s = input("Digite uma string: ")
+            print(f"É capicua? {is_capicua(s)}")
+        elif escolha == "7":
+            s1 = input("Digite a primeira string: ")
+            s2 = input("Digite a segunda string: ")
+            print(f"As strings estão balanceadas? {is_balanced(s1, s2)}")
+        elif escolha == "8":
+            s1 = input("Digite a substring: ")
+            s2 = input("Digite a string principal: ")
+            print(f"Número de ocorrências: {count_ocorrences(s1, s2)}")
+        elif escolha == "9":
+            s1 = input("Digite a primeira string: ")
+            s2 = input("Digite a segunda string: ")
+            print(f"São anagramas? {is_anagram(s1, s2)}")
+        elif escolha == "10":
+            words = input("Digite uma lista de palavras separadas por vírgula: ").split(',')
+            words = [word.strip() for word in words]  # remover espacos em branco
+            print(f"Tabela de classes de anagramas: {anagram_classes(words)}")
+        elif escolha == "11":
+            run_testes()
+        elif escolha == "0":
+            print("A Sair")
+            break
+        else:
+            print("Opção inválida. Tente novamente.")
+
+if __name__ == "__main__":
+    menu()

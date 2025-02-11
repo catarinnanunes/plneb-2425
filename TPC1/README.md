@@ -43,3 +43,12 @@ Este repositório contém um ficheiro Python (`TPC1.py`) que implementa várias 
 10. **`anagram_classes(words)`**:
     - **Descrição**: Dada uma lista de palavras, retorna um dicionário onde as chaves são as palavras ordenadas alfabeticamente e os valores são listas de palavras que são anagramas entre si.
     - **Exemplo**: `anagram_classes(["listen", "silent", "enlist", "rat", "tar", "art"])` retorna `{'eilnst': ['listen', 'silent', 'enlist'], 'art': ['rat', 'tar', 'art']}`.
+
+### Menu
+Ao executar o ficheiro, será exibido um menu. As opções incluem:
+
+- Testar funções individualmente (opções 1 a 10).
+
+- **Executar testes pré-feitos** (opção 11), que mostram os resultados esperados para cada função sem necessidade de interação.
+
+- Sair do programa (opção 0).
