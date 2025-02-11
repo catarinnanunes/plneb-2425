@@ -1,6 +1,6 @@
 # TPC1 - Manipulação de strings
 
-Este repositório contém um ficheiro Python (`TPC1.py`) que implementa várias funções para manipulação de strings. Abaixo está uma descrição das funcionalidades disponíveis.
+Esta pasta contém um ficheiro Python (`TPC1.py`) que implementa várias funções para manipulação de strings. Abaixo está uma descrição das funcionalidades disponíveis.
 
 ## Funções Implementadas
 
