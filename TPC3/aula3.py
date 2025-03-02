@@ -15,8 +15,6 @@ texto = re.sub(r"[^\f]\n\f", r"\n", texto)  # qualquer caracter (exceto \f) segu
 
 # MARCAR com @
 texto = re.sub(r'\n\n', r'\n\n@', texto)
-# texto = re.sub(r'\n\n+', '\n\n@', texto)  # Marcar conceitos com "@"
-
 
 # EXTRAIR CONCEITOS
 # em vez de: conceitos_raw =re.findall(r'@(.*)\n([^@]*)',texto)
