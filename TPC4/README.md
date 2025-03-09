@@ -4,7 +4,7 @@ Este trabalho consiste na criação de uma página simples em HTML e CSS dedicad
 
 ## Estilo e Layout
 
-- Utiliza a fonte **Lucida Sans **;
+- Utiliza a fonte Lucida Sans;
 - Fundo com imagem fixa 
 - Caixas de textos com fundo branco e translúcido;
 - Secção de imagens organizada em grelha;
