@@ -4,7 +4,7 @@ A funcionalidade de pesquisa foi desenvolvida para ser simples e eficiente. Esta
 
 **Pesquisar por Termos**:
 
-O utilizador pode escreve um termo no campo de pesquisa.
+O utilizador pode escrever um termo no campo de pesquisa.
 
 O sistema procura o termo na designação e na descrição dos conceitos.
 
