@@ -1,0 +1,68 @@
+{% extends 'layout.html'%}
+
+
+{% block head %}
+<title> Pesquisar </title>
+{%endblock%}
+
+
+{%block body%}
+<div class="container mt-5">
+    <!-- Título da página -->
+    <h1 class="text-center mb-4">Resultados da Pesquisa</h1>
+
+    <!-- Formulário de pesquisa -->
+    <div class="row justify-content-center mb-4">
+        <div class="col-md-6">   
+        <!-- col - no sistema grid do bootstrap, o layout é dividido em 12 colunas.
+        md é um breakpoint - o md refere-se as tabelas medias 
+        Ocupa 6 colunas (metade da largura) em telas médias e maiores. -->
+            <form class="form-inline d-flex justify-content-center" action="/pesquisar" method="GET">
+                <input class="form-control mr-2" type="search" name="termo" placeholder="Pesquisar" aria-label="Pesquisar" value="{{ termo }}">
+                <button class="btn btn-outline-success" type="submit">Pesquisar</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Resultados da pesquisa -->
+    {% if resultados %}
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <ul class="list-group">
+                    {% for designacao, descricao in resultados %}
+                        <li class="list-group-item mb-3">
+
+                            {% if designacao.lower() == termo %}
+                                <a href="/conceitos/{{ designacao }}"><strong>{{ designacao }}</strong></a>:
+                            {%else%}
+                                <a href="/conceitos/{{ designacao }}"> {{ designacao }} </a>:
+                            {% endif %}
+
+                            {% set palavras = descricao.split() %}
+                            {% for palavra in palavras %}
+                                {% if palavra == termo %}
+                                    <strong>{{ palavra }}</strong>
+                                {% else %}
+                                    {{ palavra }}
+                                {% endif %}
+
+                        {% endfor %}
+
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    {% else %}
+
+        <!-- Mensagem caso não haja resultados -->
+        <div class="row justify-content-center">
+            <div class="col-md-6 text-center">
+                <p class="text-muted">Nenhum resultado encontrado para "{{ termo }}".</p>
+            </div>
+        </div>
+    {% endif %}
+</div>
+
+
+{%endblock%}
