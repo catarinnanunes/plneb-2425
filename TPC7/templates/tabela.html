@@ -1,0 +1,27 @@
+{% extends 'layout.html'%}
+<title>Tabela de Conceitos</title>
+<link href="https://cdn.datatables.net/2.2.2/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+
+{% block head %}
+{%endblock%}
+
+
+{%block body%}
+<table id="tabela_conceitos" class="display">
+    <thead>
+        <tr>
+            <th>Designação</th>
+            <th>Descrição</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for conceito in conceitos %}
+        <tr>
+            <td>{{ conceito.designacao }}</td>
+            <td>{{ conceito.descricao }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{%endblock%}
+
