@@ -1,0 +1,3816 @@
+{
+    "Ação": {
+        "Traduções": {
+            "es": "acción",
+            "en": "action"
+        },
+        "Descrição": "Operação que resulta em produto voltado para atender aos objetivos de um programa.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Pode ser um projeto, uma atividade, uma operação especial, um financiamento ou uma transferência a outro ente da Federação ou a pessoa física ou jurídica, na forma de subsídios, subvenções, auxílios, contribuições, doações, entre outros.",
+            "Os produtos resultantes da ação podem ser bens ou serviços."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Atividades",
+            "Programa"
+        ]
+    },
+    "Accountability": {
+        "Traduções": {
+            "es": "rendición de cuentas; accountability",
+            "en": "accountabillity"
+        },
+        "Descrição": "Conjunto de mecanismos que permitem aos gestores da organização prestar contas dos planejamentos e execuções da área, bem como serem responsabilizados pelo resultado de suas ações.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Acesso à informação": {
+        "Traduções": {
+            "es": "acceso a la información",
+            "en": "access to information"
+        },
+        "Descrição": "Direito de obter dados, processados ou não, contidos em qualquer meio, suporte ou formato.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Contribui para: produzir e transmitir conhecimento, diminuir a corrupção, ampliar a eficiência do poder público e aumentar a participação social.",
+            "É um direito dos cidadãos e dever do Estado regulamentado pela Lei n.º 12.527, de 18 de novembro de 2011, chamada Lei de Acesso à Informação (LAI)."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Dado",
+            "Disseminação da informação",
+            "Documentação da informação",
+            "Gestão da informação",
+            "Gestão do conhecimento",
+            "Informação"
+        ]
+    },
+    "Ações de saúde": {
+        "Traduções": {
+            "es": "acciones de salud",
+            "en": "health actions"
+        },
+        "Descrição": "Ações que abrangem promoção, prevenção, diagnóstico, tratamento, recuperação e reabilitação em saúde, com execução de acordo com princípios organizativos do Sistema Único de Saúde (SUS).",
+        "Género": "fem",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "Devem considerar, em seu planejamento, as necessidades de saúde da população em questão (país, estado, Distrito Federal ou município), bem como a identificação dos problemas do sistema de saúde, e os marcos jurídico-normativos do Sistema Único de Saúde (SUS).",
+            "Em alguns casos, o termo poderá ser encontrado associado a serviços de saúde (por exemplo: ações e serviços de saúde), porém, a depender do contexto e do uso, não se trata necessariamente de um sinônimo."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Ação"
+        ]
+    },
+    "Ações intersetoriais": {
+        "Traduções": {
+            "es": "acciones intersectoriales",
+            "en": "intersectoral actions"
+        },
+        "Descrição": "Processos articulados entre distintos setores do governo e/ou da sociedade, em que são considerados objetivos, estratégias e recursos de cada parte, implicando a troca e a construção coletiva de saberes e práticas entre os envolvidos.",
+        "Género": "fem",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "estabelecem vínculos de corresponsabilidade e cogestão, na tentativa de equacionar problemas complexos para o alcance de resultados mais eficientes e eficazes."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Acompanhamento": {
+        "Traduções": {
+            "es": "seguimiento",
+            "en": "follow-up"
+        },
+        "Descrição": "Observação da evolução de um processo ou fenômeno, realizado por exame, medição e análise.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Monitoramento"
+        ]
+    },
+    "Agenda estratégica": {
+        "Traduções": {
+            "es": "planificación estratégica",
+            "en": "strategic agenda"
+        },
+        "Descrição": "Intervenção que reúne um conjunto de temas ou problemas a serem enfrentados em um período específico, para orientação e monitoramento de ações prioritárias em determinada área de atuação.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "No setor público, pode nortear a política de Estado, seja em nível nacional ou em cada um dos demais entes federativos (estados, Distrito Federal e municípios).",
+            "Exemplo: Política Nacional de Saúde, Política Estadual de Saúde, Política Municipal de Saúde, Agenda Transversal e Multissetorial da Primeira Infância."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Agenda política"
+        ]
+    },
+    "Agenda política": {
+        "Traduções": {
+            "es": "agenda política",
+            "en": "political agenda"
+        },
+        "Descrição": "Intervenção que reúne um conjunto de temas ou problemas públicos, a serem enfrentados em um período específico, considerados importantes pelo grupo que está no comando do Estado, podendo nortear sua política de governo.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "nem toda agenda política é considerada estratégica, por isso existe uma pressão constante por ajustes e modificações da parte daqueles que não veem nela suas demandas contempladas."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Agenda estratégica"
+        ]
+    },
+    "Agregação de dados": {
+        "Traduções": {
+            "es": "agregación de datos",
+            "en": "data aggregation"
+        },
+        "Descrição": "Processo de coletar, combinar e relacionar dados de várias fontes para resumir ou refinar informações.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "AIR": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "Análise de Impacto Regulatório",
+        "Remissivas": []
+    },
+    "Alocação de recursos": {
+        "Traduções": {
+            "es": "asignación de recursos",
+            "en": "allocation of resources"
+        },
+        "Descrição": "Distribuição dos recursos disponíveis, sejam orçamentários, financeiros, físicos, humanos, intelectuais ou tecnológicos, com finalidade específica.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [
+            "Destinação de recursos"
+        ],
+        "Notas": [
+            "Termo muito utilizado nos campos da economia, gestão de projetos e gestão orçamentária, nos quais os recursos são escassos e as demandas são altas.",
+            "Para uma eficiente alocação de recursos, é necessário estabelecer critérios para a destinação de forma estratégica.",
+            "No campo da saúde pública, a alocação de recursos precisa de um planejamento integrado, que considere aspectos como: equidade, humanização, situação epidemiológica e socioeconômica do território, eficiência e sustentabilidade, a fim de proporcionar aos cidadãos o acesso a bens e serviços de qualidade.",
+            "Para a gestão orçamentária, devem-se observar, como diretrizes na alocação de recursos, as informações sobre a execução física das ações orçamentárias e os resultados de avaliações e do monitoramento de políticas públicas e programas de governo."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Análise": {
+        "Traduções": {
+            "es": "análisis",
+            "en": "analysis"
+        },
+        "Descrição": "Exame detalhado de algo para conhecer e descrever melhor sua natureza, funções, relações e causas.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Análise baseada em evidências": {
+        "Traduções": {
+            "es": "estudio basado en la evidencia",
+            "en": "evidence based analysis"
+        },
+        "Descrição": "Processo de verificação cujas bases analíticas são sustentadas em indícios confiáveis e válidos para subsidiar a tomada de decisão a partir do conhecimento acadêmico e empírico.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Evidências para tomada de decisão",
+            "Tomada de decisão"
+        ]
+    },
+    "Análise de dados": {
+        "Traduções": {
+            "es": "análisis de datos",
+            "en": "data analysis"
+        },
+        "Descrição": "Processamento, apresentação tabular e gráfica e interpretação de dados com o objetivo de transformá-los em informação, gerar conhecimento e auxiliar na tomada de decisões.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "tem por função responder a uma série de questionamentos relacionados ao objeto e ao contexto analisados."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Análise de Impacto Regulatório": {
+        "Traduções": {
+            "es": "análisis del impacto regulatorio",
+            "en": "regulatory impact analysis"
+        },
+        "Descrição": "Procedimento analítico, realizado previamente à edição de atos normativos a partir da definição de problema regulatório, que contém informações e dados sobre os prováveis efeitos desses atos, para verificar a razoabilidade do seu impacto e subsidiar a tomada de decisão.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [
+            "AIR"
+        ],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Evidências para tomada de decisão",
+            "Tomada de decisão"
+        ]
+    },
+    "Análise de indicadores": {
+        "Traduções": {
+            "es": "análisis de indicadores",
+            "en": "assessment of indicators"
+        },
+        "Descrição": "Processo analítico que verifica a implementação e a utilização de um indicador ou de um conjunto de indicadores previstos em determinada intervenção pública.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "tem como objetivo gerar conhecimento sobre o objeto mensurado e o potencial de utilização para influenciar na tomada de decisão em relação às intervenções monitoradas e avaliadas."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Análise de risco": {
+        "Traduções": {
+            "es": "análisis de riesgo",
+            "en": "risk analysis"
+        },
+        "Descrição": "Processo de compreender a natureza e determinar o nível de risco, de modo a subsidiar a avaliação e seu tratamento, analisando causas, fontes e consequências, observado o custo-benefício em relação ao resultado final esperado.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "nesse processo, devem-se observar a compreensão e o nível do risco analisado para se tomar decisões, em especial: a) se determinado risco precisa de tratamento e prioridade; b) se determinada atividade deve ser realizada ou descontinuada; e c) se controles internos devem ser implementados ou, se já existirem, se devem ser modificados, mantidos ou eliminados."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Gestão de risco",
+            "Risco"
+        ]
+    },
+    "Análise de situação em saúde": {
+        "Traduções": {
+            "es": "análisis de la situación de salud",
+            "en": "health situational analysis"
+        },
+        "Descrição": "Processo analítico-sintético que permite identificar, descrever, priorizar e explicar o perfil de saúde-doença de determinada população, com o objetivo de formular estratégias para atender às necessidades e determinar prioridades de ação ou intervenção.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Análise situacional"
+        ]
+    },
+    "Análise de viabilidade": {
+        "Traduções": {
+            "es": "análisis de viabilidad",
+            "en": "feasibility analysis"
+        },
+        "Descrição": "Processo de identificação da disponibilidade de determinados tipos de recursos utilizados para o desencadeamento e a continuidade das intervenções que devem ser realizadas para potencializar as oportunidades e reduzir os obstáculos em cada momento no processo decisório.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Análise estratégica": {
+        "Traduções": {
+            "es": "análisis estratégico",
+            "en": "strategic analysis"
+        },
+        "Descrição": "Processo de diagnóstico organizacional e de pertinência das intervenções, nos níveis interno e externo à organização, a fim de formular um planejamento para a tomada de decisão e para o cumprimento de objetivos.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Essencial para apreciar a suficiência e a adequação da intervenção em relação aos problemas apresentados pelo contexto local.",
+            "A pertinência de uma intervenção depende, fundamentalmente, do contexto (epidemiológico, sociocultural, sanitário, financeiro, político ou geográfico), dos atores envolvidos e do alinhamento entre objetivos e interesses aos quais estão relacionadas as intervenções em análise."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Análise ex-ante": {
+        "Traduções": {
+            "es": "análisis ex-ante",
+            "en": "ex-ante analysis"
+        },
+        "Descrição": "Processo de análise de intervenções públicas a partir do seu nascedouro, em seu estágio de elaboração, a fim de verificar se respondem a um problema bem delimitado e pertinente.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Tem o intuito de orientar a decisão para que ela recaia sobre a alternativa mais efetiva, eficaz e eficiente.",
+            "Contribui para que as decisões alocativas sejam tomadas a partir de critérios transparentes, baseados em análises técnicas robustas."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Análise ex-post"
+        ]
+    },
+    "Análise ex-post": {
+        "Traduções": {
+            "es": "análisis ex-post",
+            "en": "ex-post analysis"
+        },
+        "Descrição": "Processo de análise de intervenções públicas a partir de seu andamento ou conclusão, a fim de propor seu aprimoramento, suspensão ou substituição.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Possibilita acessar os pontos críticos de uma intervenção e conhecer, com elevado grau de confiança, o impacto, o retorno e a eficiência dela.",
+            "Pode ocorrer durante a implementação de uma intervenção, analisando seu processo, ou depois de sua finalização, analisando seu impacto.",
+            "É instrumento relevante para a tomada de decisões ao longo da execução da intervenção, indicando o que deve ser aprimorado, bem como para uma melhor alocação de recursos entre diferentes intervenções."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Análise ex-ante"
+        ]
+    },
+    "Análise prospectiva": {
+        "Traduções": {
+            "es": "análisis prospectivo",
+            "en": "prospective analysis"
+        },
+        "Descrição": "Método que procura identificar e analisar possíveis cenários e acontecimentos futuros, prevendo oportunidades, ameaças, riscos e incertezas, com o objetivo de elaborar melhores estratégias institucionais e decisões políticas.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Busca compreender variáveis técnicas, sociais, econômicas e políticas, para identificar pontos relevantes na construção de cenários futuros.",
+            "Possibilita visualizar aspectos que podem ameaçar a instituição, avaliar as competências organizacionais necessárias e planejar ações futuras de maneira global."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Cenário"
+        ]
+    },
+    "Análise situacional": {
+        "Traduções": {
+            "es": "análisis de la situación",
+            "en": "situational analysis"
+        },
+        "Descrição": "Processo analítico-sintético que permite identificar, descrever, priorizar e explicar os fatores internos e externos que influenciam uma organização nos diferentes contextos, com o objetivo de formular estratégias para atender às necessidades e determinar prioridades de ação ou intervenção.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Análise de situação em saúde"
+        ]
+    },
+    "Aprendizado de máquina": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Machine learning"
+        ]
+    },
+    "Área fim": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Área finalística"
+        ]
+    },
+    "Área finalística": {
+        "Traduções": {
+            "es": "área final",
+            "en": "target area"
+        },
+        "Descrição": "Área diretamente relacionada ao desenvolvimento da gestão e da execução final das intervenções do órgão.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [
+            "Área fim"
+        ],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Área meio": {
+        "Traduções": {
+            "es": "área intermedia",
+            "en": "interim area; intermediate area"
+        },
+        "Descrição": "Área responsável por desenvolver ações, no nível intermediário, relevantes para a concretização dos objetivos finais, mas sem relação direta com a execução das intervenções do órgão.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Articulação": {
+        "Traduções": {
+            "es": "coordinación",
+            "en": "coordination"
+        },
+        "Descrição": "Ação de integrar, conectar e coordenar setores, saberes e experiências, visando superar a fragmentação de conhecimentos e estruturas sociais, e promovendo a intersetorialidade no planejamento, na realização, no monitoramento e na avaliação de intervenções públicas para alcançar efeitos sinérgicos em situações complexas.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "a intersetorialidade pressupõe a congregação de conhecimentos, experiências de áreas, grupos e pessoas, visando à elaboração de intervenções que, a partir do compartilhamento de gestão e responsabilidades, permitam reduzir desagregações das ações e dos serviços de saúde ofertados."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Atividades": {
+        "Traduções": {
+            "es": "actividades",
+            "en": "activities"
+        },
+        "Descrição": "Rotinas seguidas para alcançar o objetivo de uma intervenção.",
+        "Género": "fem",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "envolvem um conjunto de operações, realizadas de modo contínuo e permanente, que resultam em um produto (bem ou serviço) necessário à manutenção de uma ação de governo."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Ação",
+            "Política",
+            "Programa",
+            "Projeto"
+        ]
+    },
+    "Auditoria": {
+        "Traduções": {
+            "es": "auditoría",
+            "en": "audit"
+        },
+        "Descrição": "Averiguação independente e sistemática de dada matéria, baseada em normas técnicas e profissionais, na qual se confronta uma condição com determinado critério, assim como se produz uma opinião de validação ou não validação.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Avaliação": {
+        "Traduções": {
+            "es": "evaluación",
+            "en": "evaluation; assessment"
+        },
+        "Descrição": "Mensuração do valor ou do mérito de uma intervenção.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "objetiva verificar a pertinência, a eficiência, a eficácia, a efetividade, o impacto e a sustentabilidade de uma intervenção, gerando recomendações para aperfeiçoar a gestão desta."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador de eficácia",
+            "Indicador de eficiência",
+            "Indicador de efetividade"
+        ]
+    },
+    "Avaliação de desempenho individual e institucional": {
+        "Traduções": {
+            "es": "evaluación del desempeño individual y institucional",
+            "en": "individual and institutional performance assessment"
+        },
+        "Descrição": "Mensuração sistemática e contínua da atuação individual dos servidores e institucional dos órgãos de lotação dos servidores, tendo como referência metas globais e intermediárias estabelecidas por esses órgãos.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "A avaliação de desempenho individual é realizada com base em critérios e fatores relativos às competências e à atuação individual do servidor em tarefas e atividades a ele atribuídas.",
+            "A avaliação de desempenho institucional visa aferir o alcance das metas organizacionais, podendo levar em consideração o desenvolvimento de projetos e atividades prioritárias.",
+            "É utilizada para pagamento de gratificações de desempenho de servidores.",
+            "É regulamentada pelo Decreto n.º 7.133, de 19 de março de 2010."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Avaliação de impacto": {
+        "Traduções": {
+            "es": "evaluación del impacto",
+            "en": "impact assessment"
+        },
+        "Descrição": "Análise e aferição que verifica o grau de efetividade social de uma intervenção após a sua finalização.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Busca detectar mudanças que efetivamente ocorreram e em que medida elas aconteceram na direção desejada.",
+            "Analisa o que teria acontecido com os beneficiários de um projeto se eles não tivessem determinada intervenção.",
+            "Tem o desafio de construir um contrafactual plausível (um grupo semelhante ao de tratamento, mas que não recebe o tratamento) para identificar a causalidade entre a intervenção e os resultados observados."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Avaliação de processo": {
+        "Traduções": {
+            "es": "evaluación del processo",
+            "en": "process assessment"
+        },
+        "Descrição": "Análise e aferição que, durante a implementação de uma intervenção, verificam o grau de adequação de ações, atividades e procedimentos, visando identificar obstáculos para corrigir rumos.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Avaliação de resultados": {
+        "Traduções": {
+            "es": "evaluación de resultados",
+            "en": "assessment of results"
+        },
+        "Descrição": "Análise e aferição que verificam em que grau o esforço empreendido no contexto de uma intervenção produziu benefícios e transformações em seu público-alvo.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "tem enfoque na eficácia em medir o grau em que a política atinge seus objetivos e suas metas."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Análise ex-post"
+        ]
+    },
+    "Avaliação em saúde": {
+        "Traduções": {
+            "es": "evaluación en salud",
+            "en": "health assessment; health evaluation"
+        },
+        "Descrição": "Análise, aferição e emissão de juízo de valor sobre uma intervenção em saúde, com o objetivo de produzir informações que possam melhorá-la, mantê-la ou transformá-la.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Avaliação"
+        ]
+    },
+    "Banco de dados": {
+        "Traduções": {
+            "es": "banco de datos",
+            "en": "databank"
+        },
+        "Descrição": "Conjunto de dados ou de bases de dados inter-relacionados, organizados e estruturados, normalmente armazenados em sistemas computacionais, com o objetivo de otimizar o acesso, processamento, gerenciamento, modificação, cruzamento, atualização e controle de informações.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "São projetados para armazenar grandes quantidades de dados e geralmente são controlados por sistemas de gerenciamento de bancos de dados (SGBD), possibilitando o acesso simultâneo a vários usuários com rapidez e segurança.",
+            "São divididos basicamente em: banco de dados relacionais (com dados armazenados em formato de tabelas com colunas e linhas) e não relacionais (com dados como imagens, vídeos e gráficos).",
+            "Possibilitam a geração de análises, informações e conhecimento, sendo importante ferramenta no processo de monitoramento e avaliação para a tomada de decisões."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Base de dados",
+            "Big data",
+            "Dado",
+            "informação"
+        ]
+    },
+    "Base de dados": {
+        "Traduções": {
+            "es": "base de datos",
+            "en": "database"
+        },
+        "Descrição": "Coleção organizada de dados logicamente relacionados e organizados em uma estrutura de tabela com linhas e colunas.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "É projetada, construída e preenchida a partir de dados com algum significado e para um propósito específico.",
+            "É geralmente armazenada em bancos de dados, em formatos operáveis por máquina.",
+            "Nas tabelas das bases de dados, as linhas são formadas por uma lista ordenada de colunas e representam registros ou tuplas (sequências de valores), enquanto as colunas são consideradas campos nos quais são caracterizados os tipos de dados da tabela (numéricos, alfanuméricos, datas, coordenadas etc.).",
+            "São bases de dados do Departamento de Informática do Sistema Único de Saúde (DataSUS): o Sistema de Informações sobre Mortalidade (SIM), o Sistema Nacional de Agravos de Notificação (Sinan) e o Sistema de Informações sobre Nascidos Vivos (Sinasc); e bases de dados bibliográficas: a Biblioteca Virtual em Saúde (BVS) e a plataforma PubMed."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Banco de dados",
+            "Dado"
+        ]
+    },
+    "Base geográfica": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Território"
+        ]
+    },
+    "Base legal": {
+        "Traduções": {
+            "es": "base legal",
+            "en": "legal grounds"
+        },
+        "Descrição": "Conjunto de aspectos legais, fundamentado por um ou mais normativos, que embasam um objeto em discussão.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "exemplos de normativos: decretos, instruções, leis, normas, portarias, resoluções etc."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Base populacional": {
+        "Traduções": {
+            "es": "base poblacional",
+            "en": "population basis"
+        },
+        "Descrição": "Conjunto de informações que se propõem a reunir características específicas de certa natureza referentes a determinado grupo da população.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Exemplo: determinada faixa etária em dada população.",
+            "Estudos de base populacional são ferramentas relevantes para fazer estimativas sobre: condição de saúde, comportamentos relacionados à saúde, acesso e uso de serviços de saúde e morbidade referida pela população."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Benchmarking": {
+        "Traduções": {
+            "es": "benchmarking",
+            "en": "benchmarking"
+        },
+        "Descrição": "Técnica de comparação, de especificações, experiências e práticas, para auxiliar na identificação, na implementação e no aperfeiçoamento de boas práticas de gestão.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Na construção e na análise de indicadores, tem o objetivo de sugerir valores referenciais para comparação do desempenho.",
+            "Pode ser realizado interna ou externamente à unidade de análise, a partir de referenciais como mecanismos de trabalho, processos, serviços, produtos ou resultados considerados de notório destaque."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Boas práticas"
+        ]
+    },
+    "BI": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "Business Intelligence",
+        "Remissivas": []
+    },
+    "Big data": {
+        "Traduções": {
+            "es": "big data",
+            "en": "big data"
+        },
+        "Descrição": "Conjunto de dados, em sua maioria não estruturados, provenientes de diversas fontes e formatos, de complexidade, variedade e volume abundantes, que chegam aos sistemas de gerenciamento com grande velocidade.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Em função da alta complexidade, da variedade e do volume de dados, muitas vezes os sistemas tradicionais de gerenciamento não são capazes de armazená-los e de gerenciá-los, pois os dados são provenientes de diversas plataformas (físicas ou digitais, tangíveis ou intangíveis). Assim, novos sistemas de armazenamento e tratamento de dados vêm sendo constantemente desenvolvidos para gerenciálos.",
+            "O processamento do big data pode gerar informações úteis sobre os negócios das organizações, subsidiando uma melhor tomada de decisões."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Dado",
+            "Datalake"
+        ]
+    },
+    "Boas práticas": {
+        "Traduções": {
+            "es": "buenas practicas",
+            "en": "good practices"
+        },
+        "Descrição": "Requisitos essenciais que devem ser adotados para garantir a qualidade de uma intervenção.",
+        "Género": "fem",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Brainstorming": {
+        "Traduções": {
+            "es": "brainstoming; lluvia de ideas",
+            "en": "brainstorming"
+        },
+        "Descrição": "Técnica de discussão em grupo na qual todos os participantes contribuem espontaneamente com ideias, no intuito de resolver algum problema ou conceber um trabalho criativo.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [
+            "Tempestade de ideias"
+        ],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Business Intelligence": {
+        "Traduções": {
+            "es": "business intelligence; inteligencia de negocios",
+            "en": "business intelligence"
+        },
+        "Descrição": "Conjunto de aplicações, técnicas e ferramentas projetadas para auxiliar na interpretação e na transformação de uma grande quantidade de dados brutos em informações significativas e úteis para a gestão e a tomada de decisão.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [
+            "BI"
+        ],
+        "Notas": [
+            "Também conhecido em português como Inteligência de Negócios.",
+            "Combina ações de mineração, coleta, tratamento, análise e visualização de dados, com o apoio de soluções tecnológicas, para gerar mudanças positivas e eliminar a ineficiência."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Big data"
+        ]
+    },
+    "Cadeia de valor": {
+        "Traduções": {
+            "es": "cadena de valor",
+            "en": "value chain"
+        },
+        "Descrição": "Série de atividades finalísticas e de suporte, desenvolvidas pela organização, de forma interligada, com direcionamento estratégico e foco de atuação, a fim de atender às necessidades do usuário com maior eficiência e eficácia.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Possibilita averiguar, com bastante precisão, os valores gerados pelas etapas do processo finalístico da organização.",
+            "No contexto do setor industrial, tem o intuito de identificar vantagens competitivas no atendimento às necessidades dos clientes, considerando as relações com fornecedores, os ciclos de produção e a entrega de bens e serviços.",
+            "As atividades finalísticas e de suporte envolvem: insumos, processos, produtos, resultados e impactos, e são aferidas por meio do estabelecimento de indicadores, que medem o desempenho da organização.",
+            "Exemplos de atividades finalísticas (primárias): logística interna e externa, operações, marketing e venda, e assistência técnica.",
+            "Exemplos de atividades de suporte (secundárias): compras, desenvolvimento de tecnologia, gestão de recursos humanos, administração e infraestrutura."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Cálculo do indicador": {
+        "Traduções": {
+            "es": "cálculo del indicador",
+            "en": "calculation of indicators"
+        },
+        "Descrição": "Aplicação de fórmula matemática predefinida para mensurar aspectos relacionados a determinado conceito, fenômeno, problema ou resultado de uma intervenção na realidade e no tempo.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Elaboração de indicadores",
+            "Fórmula de cálculo",
+            "Indicador",
+            "Memória de cálculo"
+        ]
+    },
+    "Catálogo de intervenções": {
+        "Traduções": {
+            "es": "catálogo de intervenciones",
+            "en": "catalog of interventions"
+        },
+        "Descrição": "Ferramenta na qual as fichas de descrição das intervenções e as fichas de qualificação dos respectivos indicadores são cadastradas de forma ordenada, com o objetivo de organizar e registrar a informação sobre a intervenção.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Proporciona a visualização e a compreensão da intervenção com clareza, objetividade e descrição.",
+            "Possibilita mapear as intervenções públicas sob a responsabilidade das secretarias do Ministério da Saúde."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Ficha de descrição da intervenção",
+            "Ficha de qualificação do indicador",
+            "Intervenção"
+        ]
+    },
+    "Cenário": {
+        "Traduções": {
+            "es": "escenario",
+            "en": "scenario; situation"
+        },
+        "Descrição": "Panorama atual ou projeção hipotética do futuro que propicia a antecipação de realidades possíveis e suas variáveis para subsidiar a tomada de decisão.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "No processo de planejamento, a construção de cenários permite um cálculo antecipado dos limites e possibilidades de ação, orientando a formulação de objetivos factíveis de serem alcançados.",
+            "Pode ser favorável, com a predominância de hipóteses positivas sobre os planos de ação; ou desfavorável, com a predominância de hipóteses negativas.",
+            "O cenário atual envolve informações sobre o desempenho das ações no momento presente e sobre as entregas e realizações relativas ao progresso e ao andamento das intervenções."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Análise prospectiva"
+        ]
+    },
+    "Ciclo de políticas públicas": {
+        "Traduções": {
+            "es": "ciclo de políticas públicas",
+            "en": "cycle of public policies"
+        },
+        "Descrição": "Etapas sucessivas ou concomitantes de diagnóstico, formulação, implementação, controle, monitoramento e avaliação decorrentes de intervenções governamentais.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Possibilita visualizar os processos e investigar as relações de poder, as articulações e as práticas relacionadas às políticas.",
+            "Pode ser segmentado nas seguintes etapas: entendimento dos problemas, levantamento das alternativas, tomada de decisão, implementação, monitoramento e avaliação."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Política",
+            "Tomada de decisão"
+        ]
+    },
+    "Ciência da informação": {
+        "Traduções": {
+            "es": "ciencia de la información",
+            "en": "information science"
+        },
+        "Descrição": "Área de estudo dedicada às questões científicas e às práticas profissionais orientadas para os problemas da efetiva comunicação do conhecimento e de seus registros entre os seres humanos, nos contextos social, institucional ou individual do uso e das necessidades de informação.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Inclui os campos da editoração, comunicação, biblioteconomia e informática.",
+            "Para a manipulação das informações, utilizam-se processos e métodos de coleta, armazenamento, disseminação, publicação e recuperação, por meio de modernas tecnologias informacionais."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Informação"
+        ]
+    },
+    "Ciência de dados": {
+        "Traduções": {
+            "es": "ciencia de datos",
+            "en": "data science"
+        },
+        "Descrição": "Área de estudo, pautada na organização, na propriedade e na análise de dados, que utiliza estatística, matemática e soluções computacionais para a coleta, a detecção de padrões, a limpeza, a preparação e a organização dos dados.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "combina técnicas estatísticas, matemáticas, de mineração de dados (data mining), big data, visualização e aprendizado de máquina (machine learning)."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Big data",
+            "Dado",
+            "Machine learning"
+        ]
+    },
+    "Colegiado": {
+        "Traduções": {
+            "es": "cuerpo colegiado",
+            "en": "collegiate body"
+        },
+        "Descrição": "Instância voltada para a condução e o aprimoramento de políticas públicas, na qual os membros têm os mesmos poderes.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "De acordo com o Decreto n.º 9.759, de 11 de abril de 2019, o colegiado pode ser um conselho, um comitê, uma comissão, um grupo, uma junta, uma equipe, uma mesa, um fórum ou uma sala.",
+            "O colegiado decorre da constatação de que a tomada de decisões em ambientes pluripessoais de natureza deliberativa resulta em atos presumidamente adequados, com maior legitimidade, em razão de terem sido fruto de debate e da contraposição de ideias."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Coleta de dados": {
+        "Traduções": {
+            "es": "recolección de datos",
+            "en": "data collection"
+        },
+        "Descrição": "Processo de obtenção e apuração de dados para responder perguntas e avaliar resultados.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "pode ser contínua (na qual os eventos são registados à medida que acontecem); periódica (para eventos de ciclo em ciclo); ou ocasional (realizada sem determinação de continuidade ou período)."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Dado"
+        ]
+    },
+    "Comitê consultivo": {
+        "Traduções": {
+            "es": "comité consultivo; comité asesor",
+            "en": "advisory committee"
+        },
+        "Descrição": "Grupo formalmente constituído para aconselhar ou emitir pareceres para corpos governamentais, sociedades ou outras instituições nas ações relacionadas a políticas, programas e projetos.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Competências organizacionais": {
+        "Traduções": {
+            "es": "competencias organizacionales",
+            "en": "organizational skills"
+        },
+        "Descrição": "Capacidade de mobilizar, integrar e coordenar processos, recursos, conhecimentos e comportamentos singulares e essenciais que assegurem a realização da missão, da visão e/ou da estratégia de uma instituição.",
+        "Género": "fem",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "Distinguem o ambiente de atuação de uma instituição e contribuem para que ela construa e mantenha uma identidade e uma cultura organizacional que impulsionem o alinhamento da gestão e a execução articulada de ações.",
+            "A correta identificação, percepção e desenvolvimento dessas competências é fundamental para assegurar o alcance dos objetivos estabelecidos e dos resultados desejados pela instituição."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Compliance": {
+        "Traduções": {
+            "es": "compliance; cumplimiento",
+            "en": "compliance"
+        },
+        "Descrição": "Conformidade com as normas, os princípios éticos e a transparência, para atingir os objetivos, a qualidade na gestão das organizações e a minimização de riscos.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Os órgãos e as entidades podem estabelecer instâncias de defesa, para supervisão e monitoramento, por meio de comitês, diretorias ou assessorias específicas para tratar de riscos, controles internos, integridade e conformidade.",
+            "Os compliance risks (riscos de conformidade) estão relacionados à possível violação de leis, regulamentos, termos contratuais, padrões ou políticas internas, podendo envolver riscos materiais para alcançar os objetivos de uma organização."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Análise de risco",
+            "Gestão de risco",
+            "Risco"
+        ]
+    },
+    "Confiabilidade": {
+        "Traduções": {
+            "es": "confiabilidad; fiabilidad",
+            "en": "reliability"
+        },
+        "Descrição": "Característica dos dados e das informações obtidos a partir de fontes fidedignas, que utilizam metodologias de coleta, consolidação e análise reconhecidas e transparentes, possibilitando seu uso e rastreamento precisos.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Conjunto de dados": {
+        "Traduções": {
+            "es": "conjunto de datos",
+            "en": "dataset"
+        },
+        "Descrição": "Coleção de dados tabulados, ordenados, organizados e documentados, de forma a terem significado e poderem ser transformados em informações.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "É organizado em linhas (membros do conjunto), nas quais estão os registros dos acontecimentos, e em colunas (variáveis), nas quais estão as características dos acontecimentos.",
+            "Por ser a base utilizada pelos algoritmos para aprender, evoluir e exibir resultados, é considerado o principal insumo dos processos de análise de dados, ciência de dados e aprendizado de máquina (machine learning)."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Análise de dados",
+            "Big data",
+            "Ciência de dados",
+            "Dado",
+            "Machine learning"
+        ]
+    },
+    "Conjunto mínimo de dados": {
+        "Traduções": {
+            "es": "conjunto mínimo básico de datos",
+            "en": "minimum basic dataset"
+        },
+        "Descrição": "Menor quantidade possível de dados, a respeito das ações e dos serviços prestados em cada contato assistencial, agrupados em um formulário padronizado, que são coletados pelos estabelecimentos de saúde, públicos e privados.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "É composto por dados clínicos e administrativos.",
+            "Tem como objetivo a obtenção de uma base de dados padronizada e capaz de prestar informações assistenciais oportunas, confiáveis e comparáveis, que possam subsidiar a produção de pesquisas acadêmicas e institucionais, o monitoramento e a avaliação de intervenções de saúde, o faturamento dos serviços prestados e o planejamento da rede de atenção à saúde.",
+            "Fazem parte do Registro Eletrônico de Saúde (RES) e do Sistema Nacional de Informação em Saúde (SNIS)."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Conjunto de dados",
+            "Dado"
+        ]
+    },
+    "Controle": {
+        "Traduções": {
+            "es": "fiscalización; control",
+            "en": "inspection; control"
+        },
+        "Descrição": "Fiscalização realizada a partir de normas e padrões previamente estabelecidos e planejados, para apurar o alcance de expectativas e, se necessário, corrigir uma malversação de recursos públicos, que podem ser materiais, financeiros e humanos.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "promove exame minucioso com o objetivo de comandar, governar ou regular o funcionamento institucional."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Controle social": {
+        "Traduções": {
+            "es": "control social",
+            "en": "social control"
+        },
+        "Descrição": "Práticas de fiscalização e participação da sociedade nos processos deliberativos relacionados à formulação de políticas de saúde e de gestão.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Alguns mecanismos institucionalizados, como os Conselhos de Saúde e as Conferências de Saúde, garantem a participação e o controle social com a representatividade dos distintos atores sociais.",
+            "Visa ao benefício social e deve ser permanente para a efetivação do estado democrático.",
+            "No Sistema Único de Saúde (SUS), é regulamentado e organizado pela Lei n.º 8.142, de 28 de dezembro de 1990."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Cultura de monitoramento e avaliação": {
+        "Traduções": {
+            "es": "cultura de seguimiento y evaluación",
+            "en": "monitoring and evaluation culture"
+        },
+        "Descrição": "Conjunto de valores, conhecimentos, procedimentos, comportamentos e ações que definem os níveis de institucionalização do monitoramento e da avaliação de uma organização.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Avaliação",
+            "Institucionalização do monitoramento e da avaliação",
+            "Monitoramento"
+        ]
+    },
+    "Custo-benefício": {
+        "Traduções": {
+            "es": "costo-beneficio",
+            "en": "cost-benefit"
+        },
+        "Descrição": "Análise comparativa que considera a escolha, entre os benefícios e os recursos necessários para obtê-los, visando priorizar a tomada de decisão sobre a implementação de intervenções públicas.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Análise de viabilidade",
+            "Análise de risco",
+            "Custo-Efetividade"
+        ]
+    },
+    "Custo-efetividade": {
+        "Traduções": {
+            "es": "costo-efectividad",
+            "en": "cost-effectiveness"
+        },
+        "Descrição": "Análise, baseada em estudos científicos, que possibilita identificar as intervenções de menor custo em relação a determinado resultado social ou individual.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Tipo de análise de viabilidade e econômica.",
+            "A análise econômica engloba quatro tipos de estudos: a) custo-efetividade; b) custo-utilidade; c) custo-benefício; e d) custo-minimização."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Custo-Benefício"
+        ]
+    },
+    "Custodiante da informação": {
+        "Traduções": {
+            "es": "guardián de la información",
+            "en": "information custodian"
+        },
+        "Descrição": "Pessoa física ou jurídica, interna ou externa à organização, que detém a posse, mesmo que transitória, de informação produzida ou recebida.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Dado": {
+        "Traduções": {
+            "es": "dato",
+            "en": "data"
+        },
+        "Descrição": "Registro elementar, ainda que não organizado ou manipulado, que serve de base ou pressuposto para análise e obtenção de informações.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Pode ser um número, um texto ou uma imagem e, em geral, envolve a classificação e a rotulação de elementos em categorias.",
+            "Consiste de observações documentadas ou resultados de medições que, frequentemente, acarretam registros numéricos, expressando uma quantidade de seres, objetos ou fenômenos e suas características."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Informação",
+            "Metadados"
+        ]
+    },
+    "Dados abertos": {
+        "Traduções": {
+            "es": "datos abiertos",
+            "en": "open data"
+        },
+        "Descrição": "Dados estruturados, em formato digital e aberto, que podem ser livremente acessados, utilizados, cruzados e compartilhados por qualquer pessoa, para qualquer finalidade, estando sujeitos, no máximo, a exigências que visem a atribuir crédito à sua autoria ou à sua fonte.",
+        "Género": "masc",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "São regidos por três princípios comumente chamados de leis dos dados abertos: 1) devem poder ser encontrados e indexados na internet; 2) devem estar disponíveis em formato aberto e compreensível por máquina; e 3) não pode haver restrições para sua utilização e replicação.",
+            "Formato aberto refere-se a arquivos de configuração não proprietária, com utilização livre de patentes ou qualquer outra restrição legal, com especificação publicamente documentada, de livre conhecimento e implementação."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Dado"
+        ]
+    },
+    "Dados qualitativos": {
+        "Traduções": {
+            "es": "datos cualitativos",
+            "en": "qualitative data"
+        },
+        "Descrição": "Dados não numéricos, baseados em atributos, características, propriedades ou fenômenos.",
+        "Género": "masc",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "A descrição desses dados é feita por meio de impressões, pontos de vista e opiniões.",
+            "Podem ser classificados como nominais, para os quais não existe nenhuma ordenação nas possíveis realizações (exemplos: estado civil, sexo, cor dos olhos, etnia); ou ordinais, para os quais existe uma ordenação de resultados (exemplos: grau de instrução, classe social, estágio da doença)."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Dado"
+        ]
+    },
+    "Dados quantitativos": {
+        "Traduções": {
+            "es": "datos cuantitativos",
+            "en": "quantitative data"
+        },
+        "Descrição": "Dados em formato numérico, que representam contagens ou medidas.",
+        "Género": "masc",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "podem ser classificados como discretos, quando o número de valores possíveis é finito ou enumerável, representando uma contagem (exemplos: número de filhos, número de ovos produzidos, número de processos); ou contínuos, quando o número de valores possíveis é infinito, correspondendo a uma escala contínua sem vazios, interrupções ou saltos (exemplos: peso, altura, pressão arterial, salário)."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Dado"
+        ]
+    },
+    "Dashboard": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Painel de informação"
+        ]
+    },
+    "Datalake": {
+        "Traduções": {
+            "es": "datalake",
+            "en": "datalake"
+        },
+        "Descrição": "Repositório centralizado que armazena grandes e variados conjuntos de dados brutos em seu formato original, de múltiplas fontes, sem um modelo predefinido explícito e sem metadados definidos.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "É usado como estratégia de gerenciamento por empresas e organizações que precisam de um repositório de dados grande, abrangente e integralizado.",
+            "Os dados armazenados podem estar estruturados, semiestruturados ou não estruturados."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Big data",
+            "Dado"
+        ]
+    },
+    "Desempenho institucional": {
+        "Traduções": {
+            "es": "desempeño institucional",
+            "en": "institutional performance"
+        },
+        "Descrição": "Conjunto de características que permitem determinar o grau de eficácia de uma instituição em relação a metas, requisitos e expectativas previamente definidos.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Avaliação de desempenho individual e institucional"
+        ]
+    },
+    "Destinação de recursos": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Alocação de recursos"
+        ]
+    },
+    "Diretrizes": {
+        "Traduções": {
+            "es": "línea directriz",
+            "en": "guideline"
+        },
+        "Descrição": "Orientações que determinam e indicam um caminho a ser seguido e definem regras para se estabelecer uma intervenção.",
+        "Género": "fem",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "Podem servir de base para a avaliação da qualidade e da eficiência da intervenção.",
+            "No contexto do planejamento institucional, podem representar o escopo de uma ação governamental, devendo abrigar programas e ações constantes do Plano Plurianual (PPA)."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Disseminação da informação": {
+        "Traduções": {
+            "es": "diseminación de la información; difusión de la",
+            "en": "information dissemination"
+        },
+        "Descrição": "Transferência de informação com o objetivo de possibilitar a geração de conhecimento orientada a um público específico.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "tem por finalidade: a) tornar pública a produção de conhecimentos gerados ou organizados por uma instituição; b) promover a apropriação de informação por parte de um usuário receptor; e c) propagar a informação por vários meios e suportes, com base no esquema tradicional de emissor, canal, mensagem, receptor."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Acesso à informação",
+            "Documentação da informação",
+            "Gestão da informação",
+            "Gestão do conhecimento",
+            "Informação"
+        ]
+    },
+    "Documentação da informação": {
+        "Traduções": {
+            "es": "documentación de información",
+            "en": "information documentation"
+        },
+        "Descrição": "Seleção, registro, classificação, preservação e custódia das informações, por meio de normas, códigos e lógicas, para facilitar o acesso, o compartilhamento e a disseminação delas.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Acesso à informação",
+            "Disseminação da informação",
+            "Gestão da informação",
+            "Gestão do conhecimento",
+            "Informação"
+        ]
+    },
+    "EAS": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "Estabelecimento Assistencial de Saúde",
+        "Remissivas": []
+    },
+    "Elaboração de indicadores": {
+        "Traduções": {
+            "es": "elaboración de indicadores",
+            "en": "creation of indicators"
+        },
+        "Descrição": "Construção de medidas-síntese de registro que podem ser interpretadas quanto aos seus atributos.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Deve basear-se em critérios e padrões bem definidos e explícitos que considerem, pelo menos: a especificidade, a sensibilidade, a confiabilidade, a validade, a disponibilidade/ mensurabilidade e a relevância da informação.",
+            "Deve utilizar uma ficha técnica que descreva: o conceito, o método de cálculo, a fonte de dados, a periodicidade, a função do indicador, a forma de interpretá-lo e as suas limitações."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Cálculo do indicador",
+            "Ficha de qualificação do indicador",
+            "Fórmula de cálculo",
+            "Indicador",
+            "Memória de cálculo"
+        ]
+    },
+    "Entidades vinculadas": {
+        "Traduções": {
+            "es": "entidades vinculadas",
+            "en": "linked entities"
+        },
+        "Descrição": "Órgãos da Administração Pública indireta, vinculados a órgão da Administração Pública direta, com administração e orçamentos próprios, que devem prestar contas de suas ações.",
+        "Género": "fem",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "São autarquias, fundações públicas, empresas públicas e sociedades de economia mista.",
+            "No âmbito do Ministério da Saúde, são: a Agência Nacional de Vigilância Sanitária (Anvisa), a Agência Nacional de Saúde Suplementar (ANS), a Fundação Nacional de Saúde (Funasa), a Fundação Oswaldo Cruz (Fiocruz), a Empresa Brasileira de Hemoderivados e Biotecnologia (Hemobrás) e o Grupo Hospitalar Conceição (GHC)."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Entregas intermediárias": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "fem",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Resultados intermediários"
+        ]
+    },
+    "Escopo": {
+        "Traduções": {
+            "es": "ámbito; alcance",
+            "en": "scope"
+        },
+        "Descrição": "Conjunto de informações, características e requisitos de uma intervenção que delimita e detalha o trabalho necessário para o seu desenvolvimento.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Intervenção"
+        ]
+    },
+    "Esferas de gestão": {
+        "Traduções": {
+            "es": "nível de manejo; ámbito de gestión",
+            "en": "management level"
+        },
+        "Descrição": "Níveis de responsabilidade governamental, conforme as esferas de governo: União, estados, Distrito Federal e municípios.",
+        "Género": "fem",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "na área da saúde, as esferas de governo são representadas pelo Ministério da Saúde, na União, e pelas respectivas secretarias de saúde ou órgãos equivalentes, nos estados, no Distrito Federal e nos municípios."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Estabelecimento Assistencial de Saúde": {
+        "Traduções": {
+            "es": "centro de salud",
+            "en": "health care facility"
+        },
+        "Descrição": "Espaço físico delimitado, permanente e sob responsabilidade técnica, destinado à prestação de assistência à saúde à população.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [
+            "EAS"
+        ],
+        "Notas": [
+            "Recebe pacientes, em regime de internação ou não, para o atendimento a qualquer nível de complexidade.",
+            "Realiza ações e serviços de saúde humana."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Estratégia": {
+        "Traduções": {
+            "es": "estrategia",
+            "en": "strategy"
+        },
+        "Descrição": "Procedimento por meio do qual são articuladas e estabelecidas decisões, escolhas e trajetórias, tomando por base a integração de aspectos técnicos e políticos, para definir a forma de implementação de políticas, programas e projetos.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Evidências para tomada de decisão": {
+        "Traduções": {
+            "es": "decisiones basadas en evidencias",
+            "en": "evidence-based decision making"
+        },
+        "Descrição": "Indícios que consideram aspectos como eficácia, acurácia, efetividade, eficiência, segurança e avaliação econômica para fundamentar um conhecimento técnico-científico usado para embasar deliberações da gestão nas intervenções.",
+        "Género": "fem",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Análise baseada em evidências",
+            "Tomada de decisão"
+        ]
+    },
+    "Execução da política": {
+        "Traduções": {
+            "es": "ejecución de política",
+            "en": "policy implementation"
+        },
+        "Descrição": "Etapa do ciclo de políticas públicas em que as propostas e determinações são concretizadas em ações e se ajustam à realidade encontrada.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [
+            "Implementação da política"
+        ],
+        "Notas": [
+            "Abrange distintas deliberações para o cumprimento de uma decisão previamente definida.",
+            "É considerada uma etapa complexa, pois nela se tornam visíveis as deficiências existentes na concepção da política ou outras vulnerabilidades relacionadas ao ambiente externo."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Ciclo de políticas públicas",
+            "Implementação",
+            "Política",
+            "Política pública"
+        ]
+    },
+    "Ficha de descrição da intervenção": {
+        "Traduções": {
+            "es": "hoja de descripción de la intervención",
+            "en": "intervention description sheet"
+        },
+        "Descrição": "Instrumento técnico para detalhamento, descrição e registro padronizado das informações da intervenção com o objetivo de subsidiar as estratégias de monitoramento e avaliação no Ministério da Saúde.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "deve especificar diretrizes, objetivos, metas e normativos da intervenção."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Catálogo de intervenções",
+            "Ficha de qualificação do indicador",
+            "Intervenção"
+        ]
+    },
+    "Ficha de qualificação do indicador": {
+        "Traduções": {
+            "es": "hoja de calificación del indicador",
+            "en": "performance indicator reference sheet"
+        },
+        "Descrição": "Instrumento técnico padronizado com orientações sobre conceitos e critérios utilizados nos indicadores.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "composta por metadados que sistematizam os atributos e elementos essenciais para definir, qualificar e explicar um indicador."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Dado",
+            "Indicador",
+            "Metadados"
+        ]
+    },
+    "Fonte": {
+        "Traduções": {
+            "es": "fuente; origen",
+            "en": "source"
+        },
+        "Descrição": "Órgão ou instituição de origem do registro ou da produção sistematizada de dados e informações.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "É necessária para a apuração da fidedignidade de um indicador.",
+            "Deve vir acompanhada da data de emissão, e é desejável que tenha uma divulgação periódica."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Fontes de dados": {
+        "Traduções": {
+            "es": "fuentes de datos",
+            "en": "data sources"
+        },
+        "Descrição": "Locais em que uma organização armazena dados gerados ou coletados de diversas formas.",
+        "Género": "fem",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Dado"
+        ]
+    },
+    "Fontes de informação": {
+        "Traduções": {
+            "es": "fuentes de información",
+            "en": "sources of information"
+        },
+        "Descrição": "Publicações, ferramentas e recursos, em diversos meios e suportes, que atendam às necessidades de informação dos usuários.",
+        "Género": "fem",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "Fontes primárias são fatos oriundos diretamente da fonte e não adulterados.",
+            "Fontes secundárias trazem informação agrupada ou organizada e têm a função de facilitar o uso da informação dispersa nas fontes primárias."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Informação"
+        ]
+    },
+    "Forma de implementação": {
+        "Traduções": {
+            "es": "forma de implementación",
+            "en": "implementation method"
+        },
+        "Descrição": "Modo utilizado para executar e colocar em prática as decisões adotadas para viabilizar uma intervenção.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Está vinculada aos processos políticos.",
+            "A complexidade da dinâmica social e as particularidades culturais, econômicas e sociais têm impacto nas prioridades estabelecidas e, portanto, na forma de implementação de uma intervenção."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Fórmula de cálculo": {
+        "Traduções": {
+            "es": "fórmula de cálculo",
+            "en": "calculation formula"
+        },
+        "Descrição": "Expressão matemática que combina as variáveis e os elementos de um indicador para obtenção de seu resultado.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Cálculo do indicador",
+            "Elaboração de indicadores",
+            "Memória de cálculo"
+        ]
+    },
+    "Formulação de políticas": {
+        "Traduções": {
+            "es": "formulación de políticas",
+            "en": "policy formulation; policy development"
+        },
+        "Descrição": "Processo de definição de objetivos, ações e metas a serem alcançados para solucionar determinado problema.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "inclui a análise da situação inicial; o desenho da imagem-objetivo em um prazo determinado; a formulação de proposições de ações embasadas em princípios e diretrizes; a análise de coerência (interna e externa) dessas proposições; a análise de viabilidade de execução das ações propostas; e a formalização das políticas em leis, normas, planos, programas e projetos."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Ciclo de políticas públicas",
+            "Meta",
+            "Objetivo",
+            "Política"
+        ]
+    },
+    "Gestão da informação": {
+        "Traduções": {
+            "es": "gestión de la información",
+            "en": "information management"
+        },
+        "Descrição": "Processo geralmente apoiado pela tecnologia que, além da identificação de necessidades de informação, envolve a organização, o armazenamento, o desenvolvimento de produtos e serviços, a distribuição, o uso e a recuperação da informação.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Tem por missão tratar do conteúdo, da segurança, do acesso e da disponibilidade da informação.",
+            "Apoia a política de gerenciamento na tomada de decisão e na evolução da estrutura organizacional.",
+            "Dá suporte ao processo decisório e amplia as possibilidades de formulação de estratégias nas organizações."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Acesso à informação",
+            "Disseminação da informação",
+            "Documentação da informação",
+            "Gestão do conhecimento",
+            "Informação",
+            "Informação em saúde"
+        ]
+    },
+    "Gestão de risco": {
+        "Traduções": {
+            "es": "gestión de riesgos",
+            "en": "risk management"
+        },
+        "Descrição": "Processo de caráter permanente, estabelecido, direcionado e monitorado pela alta administração, que sistematiza, estrutura e coordena atividades, eventos ou situações que possam afetar o alcance dos objetivos da instituição.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "tem como objetivo fornecer uma segurança razoável para o alcance dos objetivos da instituição."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Análise de risco",
+            "Risco"
+        ]
+    },
+    "Gestão do conhecimento": {
+        "Traduções": {
+            "es": "gestión del conocimiento",
+            "en": "knowledge management"
+        },
+        "Descrição": "Gerenciamento de tecnologias e processos com o objetivo de aplicar o conhecimento nas organizações, por meio de melhores práticas no uso da informação, para melhorar seu desempenho.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "o gerenciamento inclui: criar, selecionar, capturar, registrar, identificar, organizar, arquivar, compartilhar e analisar de forma estruturada, colaborativa, integrativa, sistemática e lógica a informação produzida, além de obter o retorno efetivo do uso do conhecimento para a organização."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Acesso à informação",
+            "Disseminação da informação",
+            "Documentação da informação",
+            "Gestão da informação",
+            "Informação"
+        ]
+    },
+    "Gestão estratégica": {
+        "Traduções": {
+            "es": "gestión estratégica",
+            "en": "strategic management"
+        },
+        "Descrição": "Conjunto de decisões que são realizadas a partir de análises profundas dos ambientes interno e externo e, em longo prazo, determinam o desempenho de uma instituição.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Gestão tripartite": {
+        "Traduções": {
+            "es": "gestión tripartita",
+            "en": "tripartite management; management shared among three"
+        },
+        "Descrição": "Gestão compartilhada e articulada entre os três níveis de entes federados com vistas à implementação de intervenções públicas.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "a gestão compartilhada na saúde é condição necessária, visto que o Sistema Único de Saúde (SUS) se configura como uma rede regionalizada e hierarquizada e em um contexto de autonomia dos entes federados, que são responsáveis tanto pelas ações e pelos serviços de saúde quanto pelo financiamento deles."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Gestor de informação em saúde": {
+        "Traduções": {
+            "es": "gestor de información en salud",
+            "en": "health information manager"
+        },
+        "Descrição": "Profissional da informação com responsabilidade e habilidade para gerenciar a coleta, o processamento, o registro, a disseminação e o uso da informação, a fim de fornecer subsídios para a tomada de decisão em saúde.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "como parte de sua atuação, o profissional precisa ter capacidade para desenvolver recursos informacionais e disseminar a informação, com o intuito de facilitar o acesso e a geração de conhecimento."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Governabilidade": {
+        "Traduções": {
+            "es": "gobernabilidad",
+            "en": "governability"
+        },
+        "Descrição": "Capacidade de gerenciar e decidir sobre o andamento de determinada intervenção, levando em consideração os recursos disponíveis para a execução de suas ações.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "os recursos podem ser políticos, financeiros, materiais e/ou humanos."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Governança pública": {
+        "Traduções": {
+            "es": "gobernanza publica",
+            "en": "public governance"
+        },
+        "Descrição": "Mecanismo de liderança, estratégia e controle, que compreende a avaliação, o direcionamento e o monitoramento da gestão, a fim de conduzir políticas públicas e prestar serviços de interesse à sociedade.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Governo aberto": {
+        "Traduções": {
+            "es": "gobierno abierto",
+            "en": "open government"
+        },
+        "Descrição": "Cultura de governança, centrada no cidadão, que utiliza ferramentas, políticas e práticas inovadoras e sustentáveis para promover a transparência, a capacidade de resposta e a responsabilização do governo.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "É baseado em quatro princípios: transparência; prestação de contas e accountability (responsabilização); participação do cidadão; e tecnologia e inovação.",
+            "Incentiva a participação das partes interessadas (stakeholders) no apoio à democracia e ao crescimento inclusivo."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Accountability",
+            "Governança pública",
+            "Partes interessadas",
+            "Transparência"
+        ]
+    },
+    "Grau de implantação": {
+        "Traduções": {
+            "es": "grado de implantación",
+            "en": "level of implementation; degree of implementation"
+        },
+        "Descrição": "Mensuração do nível de operacionalização de uma intervenção em saúde, tendo como base o planejado.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Implantação",
+            "Implementação"
+        ]
+    },
+    "Implantação": {
+        "Traduções": {
+            "es": "implantación",
+            "en": "implantation"
+        },
+        "Descrição": "Processo pelo qual uma intervenção é iniciada, introduzida, adotada ou estabelecida.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Implementação"
+        ]
+    },
+    "Implementação": {
+        "Traduções": {
+            "es": "implementación",
+            "en": "implementation"
+        },
+        "Descrição": "Processo de operacionalização de uma intervenção previamente implantada, concretizado por atividades que permitem transformar intenções gerais em ações e resultados.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Implantação"
+        ]
+    },
+    "Implementação da política": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [
+            "Execução da política"
+        ],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Indicador": {
+        "Traduções": {
+            "es": "indicador",
+            "en": "indicator"
+        },
+        "Descrição": "Medida-síntese, de registro, que permite mostrar e mensurar aspectos relacionados a determinado conceito, fenômeno, problema ou resultado de uma intervenção.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Permite gerar informações, bem como identificar e aferir a situação de uma política pública, operacionalizando sua observação e possibilitando o acompanhamento de sua evolução no tempo.",
+            "A idoneidade de um indicador está diretamente relacionada à qualidade e à precisão da informação por ele fornecida.",
+            "Pode ser: taxa, razão, contagem, coeficiente, proporção, incidência, registro administrativo, pesquisa amostral, estatística, entre outros."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Medida-síntese"
+        ]
+    },
+    "Indicador analítico": {
+        "Traduções": {
+            "es": "indicador analítico",
+            "en": "analytical indicator"
+        },
+        "Descrição": "Medida-síntese que descreve aspectos específicos da realidade de forma clara, rápida e objetiva.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [
+            "Indicador simples"
+        ],
+        "Notas": [
+            "exemplos: número de consultas médicas na atenção básica; número de leitos hospitalares."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Indicador sintético",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador complexo": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador sintético"
+        ]
+    },
+    "Indicador de desempenho": {
+        "Traduções": {
+            "es": "indicador de desempeño",
+            "en": "performance indicator"
+        },
+        "Descrição": "Medida-síntese que expressa a capacidade produtiva de entregas e avalia processos durante determinado período.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Pode ser utilizado para avaliar pessoas, organizações, serviços, produtos, sistemas, entre outros.",
+            "Exemplos: tempo médio de atendimento nas Unidades Básicas de Saúde (UBS); proporção de gestantes com pelo menos seis consultas de pré-natal realizadas, entre a 1ª e a 20ª semana gestacional."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador de economicidade": {
+        "Traduções": {
+            "es": "indicador de economicidad",
+            "en": "savings indicator"
+        },
+        "Descrição": "Medida-síntese que expressa os custos dos insumos e os recursos alocados em relação aos benefícios.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Envolve uma análise de viabilidade econômica.",
+            "A economicidade é um princípio expresso no artigo 70 da Constituição Federal de 1988, que busca obter um resultado esperado com o menor custo possível, mantendo a qualidade e a celeridade na prestação do serviço ou no trato com os bens públicos.",
+            "Exemplo: valor do repasse para estruturação dos serviços de radioterapia."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador de efetividade": {
+        "Traduções": {
+            "es": "indicador de efectividad",
+            "en": "effectiveness indicator"
+        },
+        "Descrição": "Medida-síntese que expressa o alcance dos objetivos finalísticos de uma intervenção com otimização de recursos e esforços.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "A efetividade é considerada a junção da eficácia com a eficiência. Trata-se de atingir os objetivos planejados, utilizando os recursos da melhor forma possível.",
+            "Exemplo: taxa de mortalidade infantil; tempo de espera em lista para transplante."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Indicador de eficácia",
+            "Indicador de eficiência",
+            "Indicador de impacto",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador de eficácia": {
+        "Traduções": {
+            "es": "indicador de eficácia",
+            "en": "efficacy indicator"
+        },
+        "Descrição": "Medida-síntese que expressa o alcance dos objetivos finalísticos de uma intervenção em condições ideais de estruturas físicas, equipamentos e serviços.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "A eficácia está diretamente relacionada à qualidade dos resultados ou efeitos esperados, independentemente dos custos e do tempo que isso acarreta.",
+            "Exemplo: cobertura vacinal de poliomielite inativada e pentavalente; cobertura populacional de equipes de atenção primária."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Indicador de efetividade",
+            "Indicador de eficiência",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador de eficiência": {
+        "Traduções": {
+            "es": "indicador de eficiencia",
+            "en": "efficiency indicator"
+        },
+        "Descrição": "Medida-síntese que expressa a relação entre os resultados obtidos por uma intervenção e os seus custos.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "A eficiência está diretamente relacionada à racionalidade e à produtividade. É o processo de executar exatamente o que foi planejado.",
+            "Exemplo: produção de vacina contra HPV; número de consultas especializadas realizadas e pagas por região de saúde."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Eficácia",
+            "Eficiência",
+            "Efetividade",
+            "Indicador",
+            "Indicador de efetividade",
+            "Indicador de eficácia",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador de esforço": {
+        "Traduções": {
+            "es": "indicador de esfuerzo",
+            "en": "effort indicator"
+        },
+        "Descrição": "Medida-síntese que expressa, por meio de métricas óbvias e objetivas, o empenho dedicado à execução de uma intervenção, aferindo seu efeito após um tempo determinado.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Permite verificar a causa antes de o efeito acontecer.",
+            "Pode ser classificado como indicador de execução, eficiência ou insumos.",
+            "Para calculá-lo, geralmente são necessárias informações que, na maioria das vezes, não estão na base de dados da organização e exigem regras de contagem e novos instrumentos para que sejam coletadas.",
+            "Exemplo: número de ligações atendidas pela Ouvidoria do Ministério da Saúde; proporção de residências visitadas em, pelo menos, quatro ciclos de visitas domiciliares para controle da dengue."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Indicador de execução",
+            "Indicador de eficiência",
+            "Indicador de insumos",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador de excelência": {
+        "Traduções": {
+            "es": "indicador de excelencia",
+            "en": "excellence indicator"
+        },
+        "Descrição": "Medida-síntese que expressa se o resultado da intervenção alcançou a expectativa ou o padrão esperados.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Tipo de indicador de esforço que demonstra o desempenho.",
+            "Exemplo: número de Distritos Sanitários Especiais Indígenas (Dse",
+            "com acesso a medicamento garantido; número de exames citopatológicos do colo do útero realizado em mulheres de 25 a 64 anos."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador de desempenho",
+            "Indicador de esforço",
+            "Indicador de resultado",
+            "Indicador de execução",
+            "Indicador de economicidade",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador de execução": {
+        "Traduções": {
+            "es": "indicador de ejecución; indicador de implementación",
+            "en": "implementation indicator"
+        },
+        "Descrição": "Medida-síntese que expressa o quanto uma etapa da intervenção foi realizada.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [
+            "Indicador de progresso"
+        ],
+        "Notas": [
+            "exemplo: proporção de cura de casos novos de tuberculose pulmonar com confirmação laboratorial; percentual de municípios que realizam no mínimo seis grupos de ações de Vigilância Sanitária."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Indicador de desempenho",
+            "Indicador de esforço",
+            "Indicador de resultado",
+            "Indicador de execução",
+            "Indicador de economicidade",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador de gestão": {
+        "Traduções": {
+            "es": "indicador de gestión",
+            "en": "management indicator"
+        },
+        "Descrição": "Medida-síntese que permite acompanhar e avaliar as diferentes fases do ciclo de gestão das políticas públicas, averiguando os aspectos decorrentes de seus processos de implementação em determinada população, área geográfica e período.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Como está diretamente relacionado às etapas do ciclo de gestão de uma política pública, ele pode ser: de insumo (antes), de processo (durante), de produto (depois), de resultado (depois) e de impacto (depois).",
+            "Exemplo: gasto público com saúde em proporção ao Produto Interno Bruto (PIB); número de Unidades de Pronto Atendimento (UPAs) implantadas no município."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Indicador de impacto",
+            "Indicador de insumo",
+            "Indicador de processo",
+            "Indicador de produto",
+            "Indicador de resultado",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador de impacto": {
+        "Traduções": {
+            "es": "indicador de impacto",
+            "en": "impact indicator"
+        },
+        "Descrição": "Medida-síntese, de natureza abrangente e multidimensional, que permite mensurar resultados em longo prazo.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Afere efeitos e desdobramentos mais gerais, previstos ou não, positivos ou negativos, que decorrem da implantação e da implementação de programas, projetos e políticas.",
+            "Mede a efetividade, por meio da obtenção de produtos úteis, com economicidade e prazo determinado.",
+            "Na epidemiologia, incidência e mortalidade são comumente utilizadas como indicadores de impacto.",
+            "Exemplo: taxa de mortalidade infantil; número de internações por condições sensíveis à atenção básica (ICSAB) no Sistema Único de Saúde (SUS)."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador de infraestrutura": {
+        "Traduções": {
+            "es": "indicador de infraestructura",
+            "en": "infrastructure indicator"
+        },
+        "Descrição": "Medida-síntese quantitativa que permite mensurar a disponibilidade de equipamentos, serviços e edificações necessários para a execução de processos, atividades e intervenções.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "exemplos: número de cadeiras odontológicas disponíveis em Unidades Básicas de Saúde (UBS); número de leitos disponíveis, por especialidade, em um hospital ou em uma área geográfica."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Indicador de insumo",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador de insumo": {
+        "Traduções": {
+            "es": "indicador de insumo; indicador de aporte",
+            "en": "input indicator"
+        },
+        "Descrição": "Medida-síntese que permite mensurar a disponibilidade de recursos materiais, humanos, financeiros e administrativos necessários para a execução de ações, atividades e processos.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "exemplos: quantidade de médicos por mil habitantes; quantidade de testes disponibilizados por tipo de testagem."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Indicador de infraestrutura",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador de processo": {
+        "Traduções": {
+            "es": "indicador de proceso",
+            "en": "process indicator"
+        },
+        "Descrição": "Medida-síntese que exprime o esforço contínuo de utilização dos insumos alocados na obtenção de resultados.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "exemplos: proporção de gestantes com seis consultas de pré-natal ou mais durante a gravidez."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Indicador de produto",
+            "Indicador de resultado",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador de produto": {
+        "Traduções": {
+            "es": "indicador de producto",
+            "en": "product indicator"
+        },
+        "Descrição": "Medida-síntese que permite mensurar, em curto prazo, o alcance das metas físicas e o efeito e a mudança de políticas, programas e projetos, possibilitando avaliar a capacidade de entrega de benefícios, bens ou serviços à população.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "exemplos: quantidade de Unidades Básicas de Saúde (UBS) construídas; percentual de consultas de pré-natal realizadas."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Indicador de processo",
+            "Indicador de resultado",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador de progresso": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador de execução"
+        ]
+    },
+    "Indicador de resultado": {
+        "Traduções": {
+            "es": "indicador de resultado",
+            "en": "outcome indicator"
+        },
+        "Descrição": "Medida-síntese que expressa, direta ou indiretamente, em médio prazo, o efeito e a mudança de políticas, programas e projetos, possibilitando avaliar a capacidade de alcance de metas e objetivos planejados para a população.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Tem particular importância no contexto da gestão pública orientada a resultados.",
+            "Exemplos: taxa de sobrevivência pós-transplante; taxa de sepse pós-operatória."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Indicador de processo",
+            "Indicador de produto",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador de saúde": {
+        "Traduções": {
+            "es": "indicador de salud",
+            "en": "health indicator"
+        },
+        "Descrição": "Medida-síntese que permite aferir informações, de ordem quantitativa ou qualitativa, sobre certos atributos e dimensões das condições de saúde da população e de desempenho do sistema de saúde, em determinada área geográfica e em período delimitado.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "exemplo: mortalidade proporcional por idade em menores de 1 ano de idade; incidência absoluta de febre amarela no Brasil em determinado período."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador simples": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador analítico"
+        ]
+    },
+    "Indicador sintético": {
+        "Traduções": {
+            "es": "indicador sintético",
+            "en": "synthetic indicator"
+        },
+        "Descrição": "Medida-síntese que tem a capacidade de sistematizar e combinar várias dimensões da realidade em uma mesma medida, oferecendo parâmetros para a tomada de decisão.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [
+            "Indicador complexo"
+        ],
+        "Notas": [
+            "Constituído por indicadores analíticos ou por muitas variáveis, possibilita a comparabilidade por meio de um ranqueamento.",
+            "Pode mensurar a qualidade de vida e o nível de vulnerabilidade de uma população com a criação de índices compostos que considerem diferentes fatores sociais e econômicos.",
+            "Exemplos: Índice de Desenvolvimento Humano (IDH); Índice de Condições de Qualidade de Vida (ICQV)."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Indicador analítico",
+            "Medida-síntese"
+        ]
+    },
+    "Indicador social": {
+        "Traduções": {
+            "es": "indicador social",
+            "en": "social indicator"
+        },
+        "Descrição": "Medida-síntese com significado social relevante, em geral de ordem quantitativa, que aponta, indica, relaciona e exprime, em termos operacionais, condições ou mudanças importantes da sociedade.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "exemplo: taxa de fecundidade total; taxa de mortalidade infantil por causas previsíveis."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Medida-síntese"
+        ]
+    },
+    "Índice": {
+        "Traduções": {
+            "es": "índice",
+            "en": "index"
+        },
+        "Descrição": "Valor numérico que representa um conjunto de medidas e permite a interpretação e o agrupamento de informações complexas.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Informações complexas são aquelas de difícil compreensão ou entendimento.",
+            "Exemplo: Índice de Desenvolvimento Humano (IDH)."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Índice de referência": {
+        "Traduções": {
+            "es": "índice de referencia",
+            "en": "reference index"
+        },
+        "Descrição": "Valor que expressa a situação de um indicador e sua data de apuração.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "consiste na aferição de um indicador, em dado momento, a partir de uma unidade de medida escolhida."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador"
+        ]
+    },
+    "Informação": {
+        "Traduções": {
+            "es": "información",
+            "en": "information"
+        },
+        "Descrição": "Conjunto de dados organizados que fazem referência a um acontecimento, fato ou fenômeno e tem a finalidade de reduzir incertezas e incrementar conhecimentos sobre um assunto de interesse.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "pode ser codificada, transmitida e interpretada, de forma a aumentar a probabilidade de compreensão da realidade que pretende representar."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Dado"
+        ]
+    },
+    "Informação em saúde": {
+        "Traduções": {
+            "es": "información de salud",
+            "en": "health information"
+        },
+        "Descrição": "Conjunto de dados transformado em conhecimento comunicado, utilizado como instrumento de apoio decisório para o planejamento, a gestão, a organização e a avaliação nos vários níveis que constituem o Sistema Único de Saúde (SUS).",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "seu desenvolvimento está vinculado à priorização política do uso de informações estratégicas para a tomada de decisão em saúde."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Informação estratégica": {
+        "Traduções": {
+            "es": "información estratégica",
+            "en": "strategic information"
+        },
+        "Descrição": "Informação qualificada, essencial e determinante, que se mostra apta a reduzir o grau de incerteza e ampliar a celeridade na tomada de decisão.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Tem valor agregado e relevante para o seu usuário, possibilitando, em um processo dinâmico, agilidade no caminho entre a reflexão e a ação.",
+            "As instituições responsáveis pela sua produção devem participar de um processo de cooperação técnica constante e edificado a partir de mecanismos estáveis de articulação interinstitucional."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Estratégia",
+            "Informação"
+        ]
+    },
+    "Institucionalização do monitoramento e avaliação": {
+        "Traduções": {
+            "es": "institucionalización del seguimiento y evaluación",
+            "en": "institutionalization of monitoring and evaluation"
+        },
+        "Descrição": "Processo de consolidação de valores, conhecimentos, procedimentos, comportamentos e ações de monitoramento e avaliação, que transforma ações espontâneas, desorganizadas e discricionárias em operações estruturadas e formalmente constituídas.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "está intimamente relacionada ao nível de capacidade de modernização da gestão, pressupondo a indução, o estímulo e a incorporação cotidiana de práticas de monitoramento e avaliação no interior das instituições."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Instrumentos de gestão": {
+        "Traduções": {
+            "es": "instrumentos de gestión",
+            "en": "management instruments; management tools"
+        },
+        "Descrição": "Ferramentas de apoio à atividade e à responsabilidade de gerenciar intervenções e sistemas.",
+        "Género": "masc",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "Na área da saúde, auxiliam a gestão dos sistemas de saúde (municipal, estadual ou nacional), apoiando o exercício das funções de coordenação, articulação, negociação, planejamento, acompanhamento, controle, avaliação e auditoria.",
+            "Exemplos: Plano de Saúde, Programação Anual de Saúde, Relatório de Gestão."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Intercâmbio de informação": {
+        "Traduções": {
+            "es": "intercambio de información",
+            "en": "information exchange"
+        },
+        "Descrição": "Troca de informações caracterizada pela reciprocidade e pela inclusão de informações contextualizadas, oportunas e pertinentes em ambientes colaborativos.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "tem como desafio a manutenção de um fluxo informativo sustentável, a contextualização das fontes de informação e a adoção de terminologias uniformes e adequadas."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Acesso à informação",
+            "Disseminação da informação"
+        ]
+    },
+    "Interoperabilidade da informação em saúde": {
+        "Traduções": {
+            "es": "interoperabilidad de la información en salud",
+            "en": "health information interoperability"
+        },
+        "Descrição": "Capacidade que sistemas, ferramentas e aplicações têm de se comunicar, trocar dados e utilizar informações, sem a necessidade de intervenção humana, com o objetivo de otimizar processos, reduzir custos e melhorar a qualidade da atenção à saúde.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Interpretação do indicador": {
+        "Traduções": {
+            "es": "interpretación del indicador",
+            "en": "indicator interpretation"
+        },
+        "Descrição": "Análise e compreensão dos dados e das informações apresentados por um indicador, bem como de seu significado.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador"
+        ]
+    },
+    "Intervenção": {
+        "Traduções": {
+            "es": "intervención",
+            "en": "intervention"
+        },
+        "Descrição": "Interferência governamental com intenção de mudar determinada situação e o seu resultado.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "pode ocorrer por meio de políticas, programas, planos, projetos, ações, atividades etc."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Limitação do indicador": {
+        "Traduções": {
+            "es": "limitación del indicador",
+            "en": "limitation of the indicator"
+        },
+        "Descrição": "Fragilidades e outros aspectos que restringem e delimitam o indicador, devendo ser considerados em sua criação e adoção.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "pode direcionar ou limitar a avaliação de uma situação e estar relacionada a: apuração dos dados, fonte, fórmula de cálculo, interpretação e temporalidade."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Fonte",
+            "Fórmula de cálculo"
+        ]
+    },
+    "Linha de base": {
+        "Traduções": {
+            "es": "línea de base",
+            "en": "baseline"
+        },
+        "Descrição": "Observação ou valor que representa o estágio de referência inicial de uma quantidade mensurável.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Na medicina, é a informação encontrada no início de um estudo ou outro valor conhecido inicial usado para comparação com dados posteriores.",
+            "Seu conceito é essencial para a prática da assistência à saúde, a fim de estabelecer um significado relativo e não absoluto dos dados.",
+            "Serve para medir a condição anterior à intervenção pública, municiando o gestor com informações da situação dos indicadores que deverão ser afetados com a implementação de tal intervenção.",
+            "É o ponto de referência a partir do qual será possível medir e comparar o planejamento com as alterações feitas no decorrer do projeto."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Machine learning": {
+        "Traduções": {
+            "es": "aprendizaje automático; machine learning",
+            "en": "machine learning"
+        },
+        "Descrição": "Inteligência artificial que utiliza uma série de técnicas estatísticas, probabilísticas e de otimização para permitir que computadores possam iniciar e executar processos de aprendizagem e detectar padrões difíceis de discernir quando expostos a novos dados.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [
+            "Aprendizado de máquina"
+        ],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Big data",
+            "Ciência de dados",
+            "Dado"
+        ]
+    },
+    "Marco lógico": {
+        "Traduções": {
+            "es": "marco lógico",
+            "en": "logical framework"
+        },
+        "Descrição": "Conjunto de elementos que definem os componentes ou os estágios de uma intervenção.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [
+            "Matriz lógica"
+        ],
+        "Notas": [
+            "é utilizado no início ou em momentos-chave do planejamento, do monitoramento ou da avaliação de uma intervenção."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Matriz de indicadores": {
+        "Traduções": {
+            "es": "matriz de indicadores",
+            "en": "matrix of indicators"
+        },
+        "Descrição": "Conjunto organizado de indicadores que permitem a visualização de suas características essenciais de forma padronizada.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Pressupõe a necessidade de revisão periódica e aperfeiçoamento continuado.",
+            "Geralmente, é estabelecida a partir de linhas e colunas."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Matriz de informação estratégica"
+        ]
+    },
+    "Matriz de informação estratégica": {
+        "Traduções": {
+            "es": "matriz de información estratégica",
+            "en": "strategic information matrix"
+        },
+        "Descrição": "Ferramenta de organização das informações destinadas a subsidiar o processo de tomada de decisão, permitindo a uma instituição aprender e se adaptar a mudanças internas e externas.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "dispõe elementos ordenadamente, como: resultados dos indicadores atrelados às políticas de saúde, atores envolvidos, e outras variáveis táticas."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Matriz lógica": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Marco lógico"
+        ]
+    },
+    "Medida-síntese": {
+        "Traduções": {
+            "es": "medida de síntesis",
+            "en": "synthesis measure"
+        },
+        "Descrição": "Composição parametrizada que contém informações relevantes sobre determinados atributos e dimensões.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "os indicadores são considerados medidas-síntese."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Parâmetro"
+        ]
+    },
+    "Memória de cálculo": {
+        "Traduções": {
+            "es": "memoria de cálculo",
+            "en": "calculation method"
+        },
+        "Descrição": "Detalhamento do método utilizado para calcular um indicador.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Cálculo do indicador",
+            "Elaboração de indicadores",
+            "Fórmula de cálculo"
+        ]
+    },
+    "Mensuração": {
+        "Traduções": {
+            "es": "medición; mensuración",
+            "en": "measurement"
+        },
+        "Descrição": "Cálculo ou medição realizada a partir de uma padronização de medidas.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Meta": {
+        "Traduções": {
+            "es": "meta",
+            "en": "goal"
+        },
+        "Descrição": "Especificação e quantificação de um objetivo que representa o estado futuro do desempenho esperado nas ações governamentais com recortes temporais e territoriais.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "é uma ação temporal e estritamente ligada a prazos, ou seja, precisa ser realizada de forma regular para alcançar o objetivo proposto, de forma organizada e planejada."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Objetivo"
+        ]
+    },
+    "Metadados": {
+        "Traduções": {
+            "es": "metadatos",
+            "en": "metadata"
+        },
+        "Descrição": "Registros básicos, de baixa granularidade, utilizados para identificar, localizar, compreender e gerenciar determinado conjunto de dados, podendo conter informações sobre a estrutura ou a descrição do seu conteúdo.",
+        "Género": "masc",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "São considerados os dados dentro do dado.",
+            "Podem ser relacionados em diferentes categorias, de acordo com a funcionalidade, tais como: descritividade, padronização, interoperabilidade, modularidade, reflexibilidade, visibilidade, flexibilidade, automatização, administração e preservação."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Dado",
+            "Informação"
+        ]
+    },
+    "Método": {
+        "Traduções": {
+            "es": "método",
+            "en": "method"
+        },
+        "Descrição": "Forma de proceder, sistemática e racionalmente, ao longo de um caminho, visando alcançar um resultado desejado que se impõe aos diferentes processos necessários.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "apresenta característica e possibilidade de reprodutibilidade passível de refutação ou antítese dos resultados obtidos."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Metodologia"
+        ]
+    },
+    "Metodologia": {
+        "Traduções": {
+            "es": "metodología",
+            "en": "methodology"
+        },
+        "Descrição": "Estudo científico organizado dos métodos.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "não deve ser confundida com os métodos propriamente ditos."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Método"
+        ]
+    },
+    "Metodologia de avaliação": {
+        "Traduções": {
+            "es": "metodología de evaluación",
+            "en": "evaluation methodology"
+        },
+        "Descrição": "Percurso fundamentado em regras básicas, estabelecidas cientificamente, para desenvolver uma avaliação.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "o aspecto científico refere-se à adoção de teorias e conceitos reconhecidos."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Método",
+            "Metodologia"
+        ]
+    },
+    "Modelo de avaliação": {
+        "Traduções": {
+            "es": "modelo de evaluación",
+            "en": "assessment model; evaluation model"
+        },
+        "Descrição": "Instrumento estruturado de gestão que objetiva auxiliar na emissão de juízo de valor sobre uma intervenção ou um sistema.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "É o vocabulário e a expressão simbólica máxima de uma linguagem sistêmica.",
+            "Permite simular o comportamento de uma intervenção ou sistema a partir de alterações em uma ou mais variáveis e, com isso, planejar ações e reações específicas para alcançar situações desejadas.",
+            "Pode ser voltado à avaliação de políticas públicas, a partir de matriz de indicadores, contemplando as distintas fases do processo de implementação dos programas e dos objetivos a que se destinam.",
+            "O modelo de avaliação da Organização Mundial da Saúde (OMS) identifica quatro funções para o alcance dos objetivos de um sistema de saúde: prestação de serviços de saúde; geração de recursos; financiamento; e condução e orientação do sistema."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Avaliação",
+            "Avaliação em saúde"
+        ]
+    },
+    "Modelo de gestão": {
+        "Traduções": {
+            "es": "modelo de gestión",
+            "en": "management model"
+        },
+        "Descrição": "Conjunto de estratégias adotadas por uma organização para coordenar a equipe na execução das tarefas e na obtenção de resultados.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Modelo lógico": {
+        "Traduções": {
+            "es": "modelo lógico",
+            "en": "logic model"
+        },
+        "Descrição": "Representação visual da estrutura lógica de uma intervenção.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "É composto por insumos, atividades, produtos, resultados e impactos.",
+            "Descreve como os componentes essenciais de uma intervenção levam aos resultados esperados e a subsequentes impactos, articulando as ligações causais entre o trabalho a ser realizado e o que se deseja alcançar com ele.",
+            "Permite a identificação de falhas lógicas na concepção da intervenção, como redundâncias, atividades inconsistentes e/ou expectativas causais irrealistas."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Marco lógico"
+        ]
+    },
+    "Monitoramento": {
+        "Traduções": {
+            "es": "monitoreo",
+            "en": "monitoring"
+        },
+        "Descrição": "Acompanhamento sistemático e contínuo da evolução de um processo ou fenômeno, realizado por observação, medição e análise constantes.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "além de identificar, solucionar e reduzir problemas para a correção de rumos, o monitoramento visa obter informações, em tempo oportuno, para subsidiar a tomada de decisão."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Normativa": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Normativo"
+        ]
+    },
+    "Normativo": {
+        "Traduções": {
+            "es": "norma; normativo",
+            "en": "regulation"
+        },
+        "Descrição": "Instrumento utilizado para determinar regras, preceitos, padrões e modelos que caracterizam normas e condutas.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [
+            "Normativa"
+        ],
+        "Notas": [
+            "Os atos normativos têm uma ordem geral do executivo que visa à aplicação correta da lei. Por exemplo: emendas à Constituição, leis complementares, leis delegadas, leis ordinárias, decretos-lei, medidas provisórias, decretos legislativos, resoluções, portarias e instruções normativas.",
+            "As instruções normativas são atos meramente administrativos, que têm por finalidade completar o que já está posto em uma portaria de um superior hierárquico, em um decreto presidencial ou em uma portaria interministerial, não podendo inovar o ordenamento jurídico.",
+            "Os textos normativos são constituições, declarações, códigos penais, regulamentos, estatutos, entre outros."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Objetivo": {
+        "Traduções": {
+            "es": "objetivo",
+            "en": "target; objective"
+        },
+        "Descrição": "Resultado que se quer alcançar.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Corresponde à transformação ou à mudança da realidade que se propõe modificar.",
+            "De forma ampla, pode ser considerado como valor, finalidade ou expectativa de um órgão, que determina o tipo de estratégia e de estrutura a ser adotada."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Ação",
+            "Meta"
+        ]
+    },
+    "Objetivos estratégicos": {
+        "Traduções": {
+            "es": "objetivos estratégicos",
+            "en": "strategic objectives"
+        },
+        "Descrição": "Objetivos definidos a partir do processamento de grandes premissas que declaram as escolhas políticas orientadoras de uma administração.",
+        "Género": "masc",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "Declaram e comunicam quais aspectos da realidade se pretende transformar diretamente.",
+            "Referem-se à declaração do que se quer ao final de um período considerado."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Estratégia",
+            "Objetivo"
+        ]
+    },
+    "Orçamento": {
+        "Traduções": {
+            "es": "presupuesto",
+            "en": "budget"
+        },
+        "Descrição": "Instrumento de planejamento constituído de plano financeiro detalhado que representa uma projeção e um fluxo previsto dos ingressos e das aplicações de recursos a serem usados na execução de atividades específicas, em determinado período.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Órgãos colegiados": {
+        "Traduções": {
+            "es": "órganos colegiados",
+            "en": "collegiate bodies"
+        },
+        "Descrição": "Instâncias permanentes, de deliberação e pactuação, existentes em cada esfera de governo e integrantes da estrutura básica dos ministérios, das secretarias dos estados, do Distrito Federal e dos municípios.",
+        "Género": "masc",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "No Ministério da Saúde, os Conselhos de Saúde devem assegurar a participação (da população, dos trabalhadores e dos gestores) no planejamento, no acompanhamento, na fiscalização, na avaliação e no controle da execução das políticas, dos serviços e das ações de saúde, no âmbito de atuação de cada unidade, em conformidade com os princípios e as diretrizes dispostos na legislação sanitária.",
+            "As Comissões Intergestores Regional, Bipartite e Tripartite são instâncias colegiadas de pactuação consensual entre os entes federativos para definição das regras da gestão compartilhada do Sistema Único de Saúde (SUS)."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Pacto": {
+        "Traduções": {
+            "es": "pacto",
+            "en": "pact"
+        },
+        "Descrição": "Acordo ou convenção, realizado entre pessoas ou instituições, com um objetivo em comum.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Pactuação"
+        ]
+    },
+    "Pactuação": {
+        "Traduções": {
+            "es": "negociación",
+            "en": "agreement; negotiation"
+        },
+        "Descrição": "Compromisso mútuo estabelecido em uma parceria de pessoas ou instituições com um objetivo comum.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "a instituição do Sistema Único de Saúde (SUS) e o estabelecimento de competências conjuntas a todos os entes federados implicaram a criação de comissões intergestores (tripartite, bipartites e regionais), como fóruns para discussão e planejamento de políticas públicas, em regime de cooperativismo e de pactuação."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Órgãos colegiados",
+            "Pacto"
+        ]
+    },
+    "Painel de informação": {
+        "Traduções": {
+            "es": "panel de información",
+            "en": "dashboard; information panel"
+        },
+        "Descrição": "Ferramenta de gestão que apresenta informações visualmente organizadas de um conjunto de indicadores que devem ser acompanhados de forma sistemática e contínua, a fim de facilitar o monitoramento, a análise e a avaliação do desempenho de uma intervenção e contribuir para o processo de tomada de decisão.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [
+            "Dashboard"
+        ],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Painel de monitoramento": {
+        "Traduções": {
+            "es": "panel de monitoreo",
+            "en": "monitoring panel"
+        },
+        "Descrição": "Ferramenta de gestão que permite o acompanhamento sistemático, contínuo e oportuno de uma intervenção a partir da visualização de indicadores específicos cuja variação temporal pode auxiliar na verificação da situação.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Possibilita a identificação de ocorrências ou desempenhos fora do esperado, municiando o gestor a tomar decisões apropriadas de forma a manter ou promover mudanças nas situações encontradas.",
+            "Apresenta a disposição de uma série histórica, possibilitando a observação de tendências capazes de orientar, a partir da verificação de decréscimos ou incrementos, correções na direção desejada."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador",
+            "Monitoramento",
+            "Painel de informação",
+            "Tomada de decisão"
+        ]
+    },
+    "Parâmetro": {
+        "Traduções": {
+            "es": "parámetro",
+            "en": "baseline; parameter"
+        },
+        "Descrição": "Padrão ou regra que estabelece critério, relação ou comparação entre termos.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "é necessário para avaliar e julgar a evolução de um indicador."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Partes interessadas": {
+        "Traduções": {
+            "es": "partes interesadas; stakeholders",
+            "en": "stakeholders"
+        },
+        "Descrição": "Atores internos e externos, sejam pessoas, grupos ou organizações, que podem impactar ou ser impactados pelas ações da instituição, com o intuito de promover um envolvimento eficaz dos agentes.",
+        "Género": "fem",
+        "Número": "pl",
+        "Sinónimos": [
+            "Stakeholders"
+        ],
+        "Notas": [
+            "exemplos: clientes, fornecedores, parceiros, empregados, comunidade."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Pesquisa avaliativa": {
+        "Traduções": {
+            "es": "investigación evaluativa",
+            "en": "evaluation research"
+        },
+        "Descrição": "Investigação crítica que utiliza a aplicação sistemática de métodos científicos para avaliar uma situação problemática ou uma intervenção.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Avaliação"
+        ]
+    },
+    "Planejamento": {
+        "Traduções": {
+            "es": "planificación",
+            "en": "planning"
+        },
+        "Descrição": "Instrumento de gestão constituído por um processo de elaboração de um plano para estabelecer antecipadamente ações que visem organizar soluções para alcançar objetivos.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Envolve a identificação de adversidades, prioridades de intervenção, ações, tempos, recursos e atores interessados.",
+            "Tarefa de gestão que consiste em prospectar o que é necessário fazer para mudar condições insatisfatórias, evitar que condições satisfatórias se deteriorem e melhorá-las no futuro."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Plano"
+        ]
+    },
+    "Planejamento em saúde": {
+        "Traduções": {
+            "es": "planificación en salud",
+            "en": "health planning"
+        },
+        "Descrição": "Prática de gestão e racionalização das ações de saúde, constituída por processo que permite avaliar o passado e definir o futuro a partir de proposições viáveis, orientadas por metas e objetivos, para alcançar melhor qualidade de vida e maiores níveis de saúde e bem-estar da população.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "consiste em desenhar, executar, acompanhar e avaliar um conjunto de propostas para o setor de saúde, visando à intervenção sobre um recorte de realidade."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Meta",
+            "Objetivo",
+            "Planejamento"
+        ]
+    },
+    "Planejamento estratégico": {
+        "Traduções": {
+            "es": "planificación estratégica",
+            "en": "strategic planning"
+        },
+        "Descrição": "Método de planejamento constituído por um processo sistêmico de estabelecimento e articulação de decisões e trajetórias, a partir de uma condição presente, para alcançar objetivos de longo prazo, com maior efetividade dos resultados e mais eficiência na administração dos recursos.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Considera a análise das condições externas e internas à organização, suas premissas e evolução esperada.",
+            "Deve levar em conta a complexidade, as variações e as situações imprevisíveis da realidade social.",
+            "Comumente observa as seguintes etapas: a) identificação, seleção e priorização dos problemas; b) descrição do problema; c) explicação do problema; d) definição da situação objetivada; e) identificação das operações necessárias ao enfrentamento do problema; f) análise de viabilidade; e g) implementação."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Estratégia",
+            "Meta",
+            "Objetivo",
+            "Planejamento"
+        ]
+    },
+    "Planejamento governamental": {
+        "Traduções": {
+            "es": "planificación gubernamental",
+            "en": "government planning"
+        },
+        "Descrição": "Processo sistemático e permanente da Administração Pública voltado para a definição e a implementação de intervenções públicas.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "o Plano Plurianual (PPA), a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA) são instrumentos do planejamento e do orçamento governamental."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Plano": {
+        "Traduções": {
+            "es": "plan",
+            "en": "plan"
+        },
+        "Descrição": "Agrupamento sistematizado de medidas e ações políticas, sociais ou econômicas, estabelecidas com um propósito específico.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "é elaborado antes de se realizar uma ação, com o objetivo de dirigi-la e encaminhá-la."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Ação"
+        ]
+    },
+    "Política": {
+        "Traduções": {
+            "es": "política",
+            "en": "policy"
+        },
+        "Descrição": "Articulação de ações, metas, planos e programas traçados para solucionar um problema identificado a partir de uma demanda social ou nas esferas de governo.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "é uma atividade da governança, do Estado e das relações de poder."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Meta",
+            "Plano",
+            "Programa",
+            "Projeto"
+        ]
+    },
+    "Política implementada": {
+        "Traduções": {
+            "es": "política implementada",
+            "en": "implemented policy"
+        },
+        "Descrição": "Política com instrumento normativo próprio e plano de trabalho com objetivos, metas e indicadores definidos, cuja execução é acompanhada regularmente por seus gestores.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "A publicação do normativo deve estar válida e conter a definição das diretrizes e dos objetivos da política.",
+            "No âmbito do Ministério da Saúde, deve ser previamente pactuada na Comissão Intergestores Tripartite (CIT)."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Política",
+            "Política pública",
+            "Política pública de saúde"
+        ]
+    },
+    "Política pública": {
+        "Traduções": {
+            "es": "política pública",
+            "en": "public policy"
+        },
+        "Descrição": "Conjunto de intervenções e diretrizes provenientes de atores governamentais, com o objetivo de resolver um problema público que requer, utiliza ou afeta os recursos públicos.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "É uma ação intencional, geralmente envolvendo vários atores e níveis de decisão, com objetivos a serem alcançados.",
+            "Sua proposição implica estratégias de execução e alocação de recursos."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Política",
+            "Política implementada",
+            "Política pública de saúde"
+        ]
+    },
+    "Política pública de saúde": {
+        "Traduções": {
+            "es": "política pública de salud",
+            "en": "health public policy"
+        },
+        "Descrição": "Aparato conceitual, no âmbito legal ou programático, destinado a definir regulamentos e incentivos que possibilitem a prestação de serviços de saúde, a elaboração e a execução de programas de saúde e o acesso a eles, com a responsabilidade de melhorar a qualidade de vida da população.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Orienta-se pela definição de objetivos, diretrizes, responsabilidades institucionais e parâmetros de monitoramento e avaliação, cujo desdobramento se traduz no conjunto de programas, projetos e ações de promoção, de prevenção e de recuperação da saúde da população.",
+            "É fruto de uma construção coletiva, pactuada na Comissão Intergestores Tripartite (CIT) e destinada a tornar públicas as intenções de atuação da União, dos estados, dos municípios e do Distrito Federal que dizem respeito ao Sistema Único de Saúde (SUS)."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Política",
+            "Política implementada",
+            "Política pública"
+        ]
+    },
+    "Política social": {
+        "Traduções": {
+            "es": "política social",
+            "en": "social policy"
+        },
+        "Descrição": "Conjunto de propostas de intervenção sobre problemas relacionados com o desenvolvimento social de determinado país, estado ou município, incluindo as políticas de educação, saúde, habitação, transporte, cultura, esporte e lazer.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Tem potencial de impactar positivamente as condições de vida, trabalho e saúde da população, atuando, principalmente, nas áreas de seguridade social, saúde, educação, emprego, saneamento, habitação e estrutura fundiária.",
+            "Deve ser redistributiva, equalizadora de oportunidades, emancipatória e preventiva."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Política",
+            "Política pública"
+        ]
+    },
+    "Problema": {
+        "Traduções": {
+            "es": "problema",
+            "en": "problem; issue"
+        },
+        "Descrição": "Situação indesejável ou fora dos padrões da normalidade a ser solucionada e que geralmente se configura como um sintoma ou um efeito resultante de uma causa raiz.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Pode ser identificado como uma dificuldade superável no alcance de determinado objetivo, demanda não satisfeita ou carência.",
+            "Uma boa identificação do problema e de seus descritores é fundamental para definir ações aptas a solucioná-lo."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Processo": {
+        "Traduções": {
+            "es": "proceso",
+            "en": "process"
+        },
+        "Descrição": "Sequência de atividades, contínuas, sucessivas e interligadas, com o objetivo de alcançar um efeito final previsto.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Processo decisório": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Tomada de decisão"
+        ]
+    },
+    "Produção de conhecimento": {
+        "Traduções": {
+            "es": "produción de conocimiento",
+            "en": "knowledge production"
+        },
+        "Descrição": "Processo cognitivo de construção de conteúdo e atribuição de sentido a partir de saberes científicos e populares, por meio de interações entre os atores.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Ocorre em alianças de aprendizagem que podem influenciar seu processo e os resultados.",
+            "Não é considerada algo neutro, mas cheio de conflitos, concessões e interesses em disputa."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Produto": {
+        "Traduções": {
+            "es": "producto",
+            "en": "product"
+        },
+        "Descrição": "Bem ou serviço quantificável resultante de uma ação.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Ação",
+            "Atividades"
+        ]
+    },
+    "Programa": {
+        "Traduções": {
+            "es": "programa",
+            "en": "program"
+        },
+        "Descrição": "Instrumento de organização da ação governamental, mensurado por indicadores, com vistas ao enfrentamento de um problema e à concretização de um objetivo.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Como parte de uma política, articula um conjunto coerente de ações (orçamentárias ou não) necessárias e suficientes para enfrentar um problema, de modo a superar ou evitar as causas identificadas e aproveitar as oportunidades existentes.",
+            "É estruturado por projetos e atividades com variados graus de interdependência."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Atividades",
+            "Projeto"
+        ]
+    },
+    "Projeto": {
+        "Traduções": {
+            "es": "proyecto",
+            "en": "project"
+        },
+        "Descrição": "Instrumento de programação, com prazo definido, que envolve um conjunto de atividades para alcançar o objetivo de um programa, do qual resultam produtos ou serviços voltados para a expansão ou o aperfeiçoamento da atuação do governo.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Atividades",
+            "Programa"
+        ]
+    },
+    "Público-alvo": {
+        "Traduções": {
+            "es": "público objetivo",
+            "en": "target audience"
+        },
+        "Descrição": "Conjunto de indivíduos com interesses ou características em comum aos quais se destinam ações, serviços ou produtos.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [
+            "Público estratégico",
+            "Público sujeito"
+        ],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Público estratégico": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Público-alvo"
+        ]
+    },
+    "Público sujeito": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Público-alvo"
+        ]
+    },
+    "Qualidade da informação": {
+        "Traduções": {
+            "es": "calidad de la información",
+            "en": "information quality"
+        },
+        "Descrição": "Medida multidimensional inserida no processo informacional pela qual se avalia o alcance da aprendizagem e do conhecimento nos contextos organizacional e acadêmico.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Envolve dimensões como: acuracidade, temporalidade, relevância, interpretabilidade, acessibilidade, segurança.",
+            "É observada na relação entre o valor atribuído pelo usuário às propriedades presentes na informação e o padrão de qualidade desejável."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Recursos": {
+        "Traduções": {
+            "es": "recursos",
+            "en": "resources"
+        },
+        "Descrição": "Meios necessários para realizar uma intervenção.",
+        "Género": "masc",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "Podem se referir à estrutura física ou organizacional.",
+            "Podem ser físicos, materiais, financeiros, humanos, mercadológicos e administrativos."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Rede": {
+        "Traduções": {
+            "es": "red",
+            "en": "network"
+        },
+        "Descrição": "Conjunto de pessoas, instituições ou serviços que trabalham interligados em esquema de cooperação e possibilitam a circulação de informações, conhecimentos e elementos materiais ou imateriais entre seus entes, para alcançar um objetivo comum.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Referencial estratégico": {
+        "Traduções": {
+            "es": "marco estratégico",
+            "en": "strategic framework"
+        },
+        "Descrição": "Fundamentos que orientam o planejamento e compreendem a definição da missão, da visão de futuro e dos valores institucionais.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Registro": {
+        "Traduções": {
+            "es": "registro",
+            "en": "record"
+        },
+        "Descrição": "Atribuição de uma identificação a um dado, de maneira a possibilitar seu rastreamento.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Dá subsídio aos gestores para aprimorar os processos na Administração Pública e propor aperfeiçoamentos na prestação de serviços públicos.",
+            "Exemplos: históricos de pacientes, resultados de laboratórios, informações clínicas etc."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Responsável pelo monitoramento": {
+        "Traduções": {
+            "es": "responsable de monitoreo",
+            "en": "monitoring authority"
+        },
+        "Descrição": "Órgão, unidade administrativa, gestor ou colaborador encarregado de promover um acompanhamento sistemático e contínuo da evolução de processos ou fenômenos, por meio de observação, medição e análise constantes e periódicas.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Monitoramento"
+        ]
+    },
+    "Resultados intermediários": {
+        "Traduções": {
+            "es": "resultados intermedios",
+            "en": "interim results; intermediate results"
+        },
+        "Descrição": "Entregas, voltadas para o enfrentamento das causas de um problema, que precisam ser realizadas para a concretização do resultado final.",
+        "Género": "masc",
+        "Número": "pl",
+        "Sinónimos": [
+            "Entregas intermediárias"
+        ],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Atividades",
+            "Indicador de produto",
+            "Produto"
+        ]
+    },
+    "Risco": {
+        "Traduções": {
+            "es": "riesgo",
+            "en": "risk"
+        },
+        "Descrição": "Eventos ou situações potenciais cuja ocorrência pode afetar o alcance dos objetivos institucionais.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Análise de risco",
+            "Gestão de risco"
+        ]
+    },
+    "Sala de situação de saúde": {
+        "Traduções": {
+            "es": "sala de situación de salud",
+            "en": "health situation room"
+        },
+        "Descrição": "Instrumento informatizado de gerenciamento de dados e informações em saúde para a elaboração de diagnósticos situacionais que operacionalizam a construção de novas realidades ou situações.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "reúne informações advindas de diversos sistemas de saúde, tornando-as mais palatáveis e transformando-as em subsídio para: o monitoramento e a avaliação de intervenções, a criação de padrões de eficiência, a elaboração de planos de ação de melhoria contínua, a realização de inferências, prospecções e projeções situacionais, e a correção de trajetórias em busca de maior produtividade, qualidade e bons resultados assistenciais e econômicos."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Análise prospectiva",
+            "Dado",
+            "Disseminação de informação",
+            "Evidências para tomada de decisão",
+            "Informação",
+            "Sistemas de informação em saúde",
+            "Tomada de decisão"
+        ]
+    },
+    "Segurança da informação": {
+        "Traduções": {
+            "es": "seguridad de la información",
+            "en": "information security"
+        },
+        "Descrição": "Proteção contra vários tipos de ameaças à integridade, à disponibilidade e à confidencialidade da informação, a fim de garantir a continuidade dos serviços, minimizar o risco e maximizar o retorno sobre os investimentos e as oportunidades das instituições.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Envolve o estabelecimento de medidas que visam proteger sistemas informacionais, de telecomunicações ou estruturas de dados, contra acessos sem autorização, interferências, modificações, eliminações, destruições ou liberações de dados em computadores.",
+            "Inclui métodos para evitar a interferência por vírus de computador ou a invasão por pessoas não autorizadas que almejam comprometer os dados armazenados."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Serviços de saúde": {
+        "Traduções": {
+            "es": "servicios de salud",
+            "en": "health services"
+        },
+        "Descrição": "Ações de nível operacional por meio das quais se provêm os cuidados de saúde à população em um país.",
+        "Género": "masc",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "A responsabilidade pelos serviços de saúde foi atribuída ao Sistema Único de Saúde (SUS) pelos artigos 196, 197 e 198 da Constituição Federal de 1988, complementada pelo artigo 6º da Lei n.º 8.080, de 19 de setembro de 1990.",
+            "São produtos das intervenções em saúde, prestados por estabelecimentos públicos ou privados, individual ou coletivamente."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Sistemas de informação em saúde": {
+        "Traduções": {
+            "es": "sistemas de información de salud",
+            "en": "health information systems"
+        },
+        "Descrição": "Componentes inter-relacionados que coletam, processam, armazenam e distribuem informações para apoiar o processo de tomada de decisão nos âmbitos estratégico e operacional em saúde.",
+        "Género": "masc",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Informação"
+        ]
+    },
+    "Sistemática de monitoramento e avaliação em saúde": {
+        "Traduções": {
+            "es": "sistemática de seguimiento y evaluación en salud",
+            "en": "systematic approach for health monitoring and evaluation"
+        },
+        "Descrição": "Forma articulada de organização das atividades de produção, registro, acompanhamento e análise crítica de informações geradas na gestão de intervenções públicas de saúde, utilizada para a medição do grau de eficácia, de efetividade e de eficiência dessas intervenções, com a finalidade de subsidiar a tomada de decisão em saúde.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "é implementada por meio de indicadores medidos regularmente, com base em diferentes fontes de dados, que oferecem aos gestores informações sobre o desempenho do sistema de saúde, permitindo medir o alcance de objetivos e metas."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Stakeholders": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "masc",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Partes interessadas"
+        ]
+    },
+    "Tempestade de ideias": {
+        "Traduções": {
+            "es": "",
+            "en": ""
+        },
+        "Descrição": "",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Brainstorming"
+        ]
+    },
+    "Território": {
+        "Traduções": {
+            "es": "territorio",
+            "en": "territory"
+        },
+        "Descrição": "Dimensão espacial e política, na qual é exercida a soberania nacional e são operadas ações passíveis de localização georreferenciada na superfície terrestre, por meio de pontos geográficos, polígonos, mapas, cartas, plantas etc.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [
+            "Base geográfica"
+        ],
+        "Notas": [
+            "pode também assumir uma dimensão social, incorporando um sentido proveniente de seu uso e de sua ocupação."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Tomada de decisão": {
+        "Traduções": {
+            "es": "toma de decisiones",
+            "en": "decision making"
+        },
+        "Descrição": "Processo cognitivo, contínuo e dinâmico de seleção e escolha de um curso de ação para, a partir de alternativas possíveis, solucionar um problema.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [
+            "Processo decisório"
+        ],
+        "Notas": [
+            "Tem, na informação, instrumento fundamental para a elaboração de medidas capazes de atender adequadamente às demandas de uma população.",
+            "Em geral, é responsabilidade do gestor."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Informação"
+        ]
+    },
+    "Transparência": {
+        "Traduções": {
+            "es": "transparencia",
+            "en": "transparency"
+        },
+        "Descrição": "Compromisso da Administração Pública com a divulgação das suas atividades, a partir de informações confiáveis, relevantes e tempestivas, possibilitando a colaboração da sociedade com o controle das ações de seus governantes.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "É considerada um mecanismo indutor da responsabilidade nos gestores públicos.",
+            "É um dos princípios centrais que devem orientar a atividade pública e um dos pilares para a construção de um governo aberto."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Acesso à informação",
+            "Governo aberto",
+            "Informação"
+        ]
+    },
+    "Unidade de medida": {
+        "Traduções": {
+            "es": "unidad de medida",
+            "en": "unit of measurement"
+        },
+        "Descrição": "Padrão utilizado para expressar valor e empregado para informar o modo de mensuração da produção do bem ou do serviço, que permite a comparação entre grandezas.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "por convenção, é definida e adotada na forma de nomes (exemplo: unidades) e símbolos (exemplo: %)."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Unidades": {
+        "Traduções": {
+            "es": "unidad administrativa",
+            "en": "administrative unit"
+        },
+        "Descrição": "Componentes administrativos e organizacionais que integram a estrutura de um órgão ou de uma entidade.",
+        "Género": "fem",
+        "Número": "pl",
+        "Sinónimos": [],
+        "Notas": [
+            "Têm competências próprias que são desdobradas daquelas do órgão ou da entidade de que fazem parte e a que estão diretamente subordinadas.",
+            "Em geral, não têm autonomia administrativa e financeira, mas há casos em que, por força das competências que exercem, uma lei ou um regulamento lhes concede autonomias específicas necessárias ao adequado cumprimento dessas competências.",
+            "São secretarias, diretorias e outras subdivisões dos órgãos da Administração Pública."
+        ],
+        "Sigla": "",
+        "Remissivas": []
+    },
+    "Uso do indicador": {
+        "Traduções": {
+            "es": "uso del indicador",
+            "en": "use of the indicator"
+        },
+        "Descrição": "Forma e motivo principais de utilização dos dados e das informações apresentados por um indicador, devendo ser considerada para fins de análise e compreensão do indicador.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Indicador"
+        ]
+    },
+    "Valor em saúde": {
+        "Traduções": {
+            "es": "valor en salud",
+            "en": "health value"
+        },
+        "Descrição": "Característica dos resultados provenientes das ações e dos serviços de saúde ofertados aos cidadãos, considerando custos e desperdícios, para além dos desfechos clínicos.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Pode ser classificado como: valor de qualidade (profissional, organizacional e percebida por usuários e funcionários) e valor de aprendizagem.",
+            "Deve observar atributos importantes como: transparência, prestação de contas, equidade, qualidade, facilidade de acesso, acessibilidade e satisfação do usuário."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Valor público",
+            "Valor público em saúde"
+        ]
+    },
+    "Valor público": {
+        "Traduções": {
+            "es": "valor público",
+            "en": "public value"
+        },
+        "Descrição": "Atributo de um produto ou serviço que atende a necessidades ou demandas de interesse público, gerando resultado para a sociedade.",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Valor em saúde",
+            "Valor público em saúde"
+        ]
+    },
+    "Valor público em saúde": {
+        "Traduções": {
+            "es": "valor público en salud",
+            "en": "health public value"
+        },
+        "Descrição": "Característica das ações e dos serviços relacionados à promoção, à proteção e à recuperação da saúde, entregues ou a serem entregues, de forma universal e igualitária, aos usuários do Sistema Único de Saúde (SUS).",
+        "Género": "masc",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [],
+        "Sigla": "",
+        "Remissivas": [
+            "Valor em saúde",
+            "Valor público"
+        ]
+    },
+    "Visualização de dados": {
+        "Traduções": {
+            "es": "visualización de datos",
+            "en": "data visualizaton"
+        },
+        "Descrição": "Representação visual de comunicação e apresentação de dados ou de conjuntos de dados, de modo a fornecer aos usuários elementos para analisá-los e melhor compreendê-los.",
+        "Género": "fem",
+        "Número": "",
+        "Sinónimos": [],
+        "Notas": [
+            "Utiliza elementos visuais, com formatos imagéticos ou gráficos, como diagramas, mapas, infográficos, painéis, com o objetivo de facilitar a observação de tendências, exceções e padrões nos dados.",
+            "Pode ser usada para: tornar os dados atrativos e fáceis de entender, identificar tendências e situações atípicas dentro de um conjunto de dados, descrever um fato ou uma ocorrência encontrada nos dados, reforçar argumentos e destacar pontos importantes."
+        ],
+        "Sigla": "",
+        "Remissivas": [
+            "Dados",
+            "Informação",
+            "Dashboard",
+            "Painel de informação"
+        ]
+    }
+}
