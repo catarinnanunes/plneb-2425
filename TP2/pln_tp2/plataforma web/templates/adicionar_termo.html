@@ -1,0 +1,43 @@
+{% extends 'layout.html'%}
+
+
+{% block head %} 
+<title>{{title}}</title>
+{% endblock %}
+
+
+
+{% block body %}
+
+
+<div class="container mt-5">
+    <h1 class="text-center">Adicionar Novo Termo Médico</h1>
+
+    <form action="/novo_termo" method="POST"> 
+        <div class="mb-3"> 
+        <label for="termo_input" class="form-label">Termo</label>
+        <input type="text" class="form-control" id="termo_input" name="termo">
+        </div>
+        <div class="mb-3">
+            <label for="descricao_input" class="form-label">Descrição</label>
+            <input type="text" class="form-control" id="descricao_input" name="descricao">
+        </div>
+        <div class="mb-3">
+            <label for="categoria_input" class="form-label">Categoria</label>
+            <input type="text" class="form-control" id="categoria_input" name="categoria">
+        </div>
+        <button type="submit" class="btn btn-primary">Adicionar</button>
+    </form>
+
+    {% if termo %}
+        {% if categoria and descricao %}
+            <h3 class="mt-4">Novo termo "{{ termo }}":</h3>
+            <p><strong>Descrição: </strong>{{descricao}}</p>
+            <p><strong>Categoria: </strong>{{categoria}}</p>
+        {% else %}
+            <p class="mt-4 text-danger">O termo inserido já se encontra na base de dados.</p>
+        {% endif %}
+    {% endif %}
+</div>
+
+{% endblock %}

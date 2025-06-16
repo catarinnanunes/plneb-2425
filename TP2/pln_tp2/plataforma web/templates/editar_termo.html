@@ -1,0 +1,41 @@
+{% extends 'layout.html'%}
+
+
+{% block head %} 
+<title>{{title}}</title>
+{% endblock %}
+
+
+
+{% block body %}
+
+
+<div class="container mt-5">
+    <h1 class="text-center">Editar Termo Médico</h1>
+    <h2>Editar termo: {{ termo }}</h2>
+
+    <form action="/editar/{{termo}}" method="POST"> 
+        <div class="mb-3">
+            <label for="descricao_input" class="form-label">Descrição</label>
+            {% set desc = info.get("Descrição", "") %}
+            <input type="text" class="form-control" id="descricao_input" name="descricao" value="{% if desc is sequence and desc is not string and desc %}{{ desc[0] }}{% elif desc is string %}{{ desc }}{% endif %}">
+        </div>
+        <div class="mb-3">
+            <label for="categoria_input" class="form-label">Categoria</label>
+            <input type="text" class="form-control" id="categoria_input" name="categoria" value="{{info.get('Categoria', '')}}">
+        </div>
+        <button type="submit" class="btn btn-primary">Alterar</button>
+    </form>
+
+    {% if termo %}
+        {% if categoria or descricao %}
+            <h3 class="mt-4">Termo alterado "{{ termo }}":</h3>
+            <p><strong>Descrição: </strong>{{descricao}}</p>
+            <p><strong>Categoria: </strong>{{categoria}}</p>
+        {% elif not info %}
+            <p class="mt-4 text-danger">O termo inserido não existe na base de dados.</p>
+        {% endif %}
+    {% endif %}
+</div>
+
+{% endblock %}

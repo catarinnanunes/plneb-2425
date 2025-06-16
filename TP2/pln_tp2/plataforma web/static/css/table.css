@@ -1,0 +1,10 @@
+/* Cor de fundo para o header */
+#tabela_termos thead th {
+    background-color: #e4f4f7;
+    color: #000000
+}
+
+/* Cor quando se passa com o rato por cima  */
+#tabela_termos tbody tr:hover {
+    background: #baddff;
+}

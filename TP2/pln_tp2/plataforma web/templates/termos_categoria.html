@@ -1,0 +1,38 @@
+{% extends 'layout.html'%}
+
+
+{% block head %} 
+<title>{{title}}</title>
+<link rel="stylesheet" href="/static/css/table.css">
+{% endblock %}
+
+
+
+{% block body %}
+
+<div class="container mt-4"> <!--para não ir até às margens da página-->
+    <h3 class="text-center">Termos na Categoria {{categoria}}</h3>
+
+    <table id="tabela_termos" class="display">
+        <thead>
+            <tr>
+                <th class="text-center">Termo</th>
+                <th class="text-center">Descrição</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for termo, info in termos.items() %}
+            <tr> 
+                <td><a href="/termos/{{termo}}" class="list-group-item list-group-item-action" target="_blank">{{termo}}</a></td>
+                {% if info.get("Descrição") and info["Descrição"]|length > 0 %}
+                    <td>{{ info.get("Descrição")[0] }}</td>
+                {% else %}
+                    <td class="text-muted">Descrição não disponível.</td>
+                {% endif %}
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+{% endblock %}

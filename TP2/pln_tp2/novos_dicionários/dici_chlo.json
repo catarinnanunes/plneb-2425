@@ -1,0 +1,1157 @@
+{
+    "Abcesso": {
+        "Definição": "Coleção de pus bem delimitada, desenvolvida numa cavidade neoformada."
+    },
+    "Ablação": {
+        "Definição": "Extirpação cirúrgica de uma parte do corpo."
+    },
+    "Acalásia": {
+        "Definição": "Impossibilidade de relaxar uma abertura ou esfíncter."
+    },
+    "Adenoidectomia": {
+        "Definição": "Operação para ablação das adenoides."
+    },
+    "Admissão": {
+        "Definição": "Ato da responsabilidade de um profissional de saúde credenciado que estabelece o ingresso de um indivíduo num estabelecimento de saúde ou programa de saúde, com o propósito de prestação de cuidados de saúde ou de cuidados continuados integrados."
+    },
+    "Aférese": {
+        "Definição": "Corte ou remoção de uma parte de um órgão; ablação. Processo de separação de elementos do sangue, permitindo a recolha seletiva de um ou mais dos seus componentes."
+    },
+    "Alergia": {
+        "Definição": "Sensibilidade anormal do organismo perante certas substâncias."
+    },
+    "Ambulatório": {
+        "Definição": "Diz-se da doença ou do tratamento que não obriga o doente a estar permanentemente de cama. Pequena enfermaria onde se prestam os primeiros socorros. Tratamento dado aos doentes que não estão acamados."
+    },
+    "Amigdalectomia": {
+        "Definição": "Excisão de uma ou das duas amígdalas."
+    },
+    "AMTCO": {
+        "Definição": "Avaliação Multidisciplinar de Tratamento Cirúrgico da Obesidade."
+    },
+    "Anafilaxia": {
+        "Definição": "Estado de hipersensibilidade ou de reação exagerada a nova introdução de substância estranha, que ao ser administrada pela primeira vez, não provocou, ou provocou pequena, reação. O contrário de imunidade."
+    },
+    "Analgésico": {
+        "Definição": "Fármaco ou substância que combate a dor atuando ao nível do sistema nervoso central. Os analgésicos dividem-se em narcóticos, antipiréticos e antiflogísticos."
+    },
+    "Análise": {
+        "Definição": "Determinação, total ou parcial, da composição química, qualitativa ou quantitativa, de uma substância ou mistura de substâncias."
+    },
+    "Anestesia": {
+        "Definição": "Supressão temporária da sensibilidade e da consciência, mediante técnicas utilizadas em cirurgia, para fins operatórios, exploratórios, terapêuticos. Ausência ou perda de vários ou de um dos tipos da sensibilidade, em todo ou parte do corpo."
+    },
+    "Angioedema": {
+        "Definição": "Tumefação circunscrita, recidivante, que se origina nas camadas profundas da pele e das submucosas e que pode atingir tanto a pele (dedos, lábios, pálpebras ou pénis) como a árvore respiratória (laringe) ou a língua."
+    },
+    "Angiografia": {
+        "Definição": "Radiografia obtida após a injeção endovenosa de um produto rádio-opaco (substância de contraste). Denomina-se arteriografia quando aplicado no estudo das artérias, e venografia quando aplicado no estudo das veias."
+    },
+    "Angioplastia": {
+        "Definição": "Operação cirúrgica cujo objetivo é reparar um vaso sanguíneo."
+    },
+    "Anquilose": {
+        "Definição": "Estado de uma articulação móvel cujos movimentos estão diminuídos ou impossibilitados."
+    },
+    "Apneia": {
+        "Definição": "Paragem transitória da respiração, como pode acontecer após inspirações rápidas e profundas ou na uremia."
+    },
+    "Aponevrectomia": {
+        "Definição": "Excisão de uma aponevrose."
+    },
+    "Aponevrose": {
+        "Definição": "Membrana fibrosa que reveste os músculos e o crânio por baixo do couro cabeludo (aponevrose epicraniana)."
+    },
+    "Arritmologia": {
+        "Definição": "Área da cardiologia dedicada ao estudo e tratamento das arritmias."
+    },
+    "Arteriosclerose": {
+        "Definição": "Endurecimento, espessamento e perda de elasticidade das artérias devido a processo degenerativo com formação de placas de ateroma que levam à redução ou obliteração do lume do vaso; está geralmente associada a hipertensão arterial."
+    },
+    "Artrite": {
+        "Definição": "Inflamação articular que pode ser de causa infeciosa (bacteriana, vírica ou micótica), imunológica (depósito de complexos antigénio-anticorpo) ou de causa desconhecida (por exemplo, conectivites ou devida a psoríase). As artrites podem ainda classificar-se em agudas, crónicas, anafiláticas, deformantes ou exsudativas."
+    },
+    "Artrocentese": {
+        "Definição": "Punção de uma articulação."
+    },
+    "Artroclise": {
+        "Definição": "Produção de anquilose ou ancilose articular (estado em que a ou as articulações têm os movimentos diminuídos por faixas fibrosas intra-articulares, por malformações congénitas, por soldadura óssea ou por fixação cirúrgica)."
+    },
+    "Artrografia": {
+        "Definição": "Radiografia de uma articulação."
+    },
+    "Artroplastia": {
+        "Definição": "Operação que se destina a refazer as superfícies articulares numa articulação anquilosada. Cirurgia plástica das articulações."
+    },
+    "Artroscopia": {
+        "Definição": "Observação endoscópica do interior de uma articulação."
+    },
+    "Asma": {
+        "Definição": "Doença, com acessos irregulares, caracterizada por dificuldade de respirar, tosse seca e uma sensação de aperto no peito."
+    },
+    "Aterosclerose": {
+        "Definição": "Forma mais comum de arteriosclerose, caracterizada pelo depósito de lípidos na túnica média das artérias."
+    },
+    "Audiograma": {
+        "Definição": "Registo da acuidade auditiva de um indivíduo."
+    },
+    "Autoanticorpo": {
+        "Definição": "Anticorpo dirigido contra componentes teciduais do próprio organismo e que pode povocar certas manifestações patológicas."
+    },
+    "Autoimune": {
+        "Definição": "(Reação, doença) que resulta da imunização de uma pessoa contra os seus próprios constituintes."
+    },
+    "Biliar": {
+        "Definição": "Relativo ou pertencente à bílis."
+    },
+    "Biópsia": {
+        "Definição": "Remoção e exame, geralmente microscópico, de tecido de um organismo vivo para diagnóstico."
+    },
+    "Bloco operatório": {
+        "Definição": "Local, num hospital ou numa clínica, equipado para a realização de intervenções cirúrgicas."
+    },
+    "Broncoscopia": {
+        "Definição": "Método de estudo que consiste na observação direta da árvore traqueobrônquica com um instrumento o broncoscópio que permite examinar as alterações da mucosa nas diferentes situações patológicas, colher secreções, efetuar biópsias e executar tratamentos especiais (extrair corpos estranhos, fazer laserterapia, crioterapia ou braquiterapia, colocar próteses, etc.). Por meio de broncoscopia é, ainda, possível fazer fotografia ou filmar a árvore brônquica e fazer registos com câmaras de vídeo."
+    },
+    "CAAF": {
+        "Definição": "Citologia Aspirativa por Agulha Fina."
+    },
+    "Cânula": {
+        "Definição": "Instrumento tubiforme, que se aplica em operações terapêuticas, cirúrgicas, de higiene, etc., por vezes adaptado a seringas e irrigadores."
+    },
+    "Capilaroscopia": {
+        "Definição": "Observação microscópica dos capilares e da sua circulação."
+    },
+    "Cardiopatia": {
+        "Definição": "Termo genérico dado a todas as doenças cardíacas, qualquer que seja a sua etiopatogenia."
+    },
+    "Cardiopatias Congénitas": {
+        "Definição": "As cardiopatias congénitas são malformações cardíacas que ocorrem durante o desenvolvimento do coração do feto no útero materno. Estão presentes ao nascimento, embora, em alguns casos, só sejam diagnosticadas mais tarde, durante a infância ou mesmo na idade adulta."
+    },
+    "Cardioversão": {
+        "Definição": "Restauração do ritmo cardíaco para o normal, de um coração em arritmia, com uma descarga elétrica sobre o tórax."
+    },
+    "Casuística": {
+        "Definição": "Registo, quantificação e estudo dos casos de determinada doença."
+    },
+    "Cateter": {
+        "Definição": "Instrumento tubular, de dimensões variadas, para introduzir numa cavidade, num vaso ou num canal do corpo para extrair ou introduzir determinadas substâncias, líquidos ou fármacos. Pode ainda servir como meio de medir ou registar valores de pressões ou outros parâmetros intraorgânicos."
+    },
+    "Cauterização": {
+        "Definição": "Aplicação de um cautério (dispositivo ou agente destinado a destruir tecidos orgânicos doentes - fogo, ferro em brasa, eletricidade galvânica, frio, nitrato de prata ou outras substâncias químicas, etc.) ou de um cáustico com fins terapêuticos."
+    },
+    "CDI": {
+        "Definição": "Cardioversor Desfibrilhador Implantável."
+    },
+    "CDT": {
+        "Definição": "Consulta de decisão terapêutica."
+    },
+    "CECV": {
+        "Definição": "Centro de Estudos Cardiovasculares."
+    },
+    "Cefaleias": {
+        "Definição": "Dor de cabeça crónica e, muitas vezes, intermitente, de etiologia muito variada."
+    },
+    "Cefalorraquidiano": {
+        "Definição": "Relativo à cabeça e à coluna vertebral."
+    },
+    "Centro Hospitalar": {
+        "Definição": "Estabelecimento de saúde formado por um conjunto de hospitais, em que cada um deles não tem autonomia administrativa e financeira. Têm serviços comuns e ligações funcionais."
+    },
+    "Centros de Referência": {
+        "Definição": "Centro de Referência é qualquer serviço, departamento ou unidade de saúde, reconhecido como o expoente mais elevado de competências na prestação de cuidados de saúde de elevada qualidade em situações clínicas que exigem uma concentração de recursos técnicos e tecnológicos altamente diferenciados, de conhecimento e experiência, devido à baixa prevalência da doença, à complexidade no seu diagnóstico ou tratamento e/ou aos custos elevados da mesma, sendo capaz de conduzir formação pós-graduada e investigação científica nas respetivas áreas médicas."
+    },
+    "Cerebrovascular": {
+        "Definição": "Relativo ou pertencente ao cérebro e aos vasos sanguíneos que o irrigam."
+    },
+    "Cesariana": {
+        "Definição": "Intervenção cirúrgica que consiste em retirar o feto através da incisão da parede abdominal e do útero. A cesariana está, geralmente, indicada quando existe dificuldade, impossibilidade ou grande risco de vida para a mãe ou para o feto de realizar o parto por via vaginal."
+    },
+    "CHLO": {
+        "Definição": "Centro Hospitalar de Lisboa Ocidental. Integra o Hospital de São Francisco Xavier, o Hospital de Egas Moniz e o Hospital de Santa Cruz."
+    },
+    "Cifose": {
+        "Definição": "Curvatura anormal com proeminência da coluna vertebral."
+    },
+    "Cintigrafia": {
+        "Definição": "Registo em duas dimensões das radiações gama emitidas por um radionuclido, em determinada região ou tecido orgânico."
+    },
+    "Citologia": {
+        "Definição": "Parte da histologia que estuda as células quanto à sua morfologia, estrutura e funções."
+    },
+    "Citometria": {
+        "Definição": "Identificação e quantificação de células com base nas suas características físicas e químicas."
+    },
+    "Citopatologia": {
+        "Definição": "Estudo das alterações celulares provocadas pelas doenças."
+    },
+    "Citoquímica": {
+        "Definição": "Estudo da constituição química das células e das reações químicas que nela ocorrem."
+    },
+    "Clister": {
+        "Definição": "Tratamento ou meio de diagnóstico que consiste na introdução e passagem de um líquido (água ou outra substância) pelo reto através de um tubo introduzido no ânus. Os principais tipos de clisteres são: purgativo ou de limpeza; microclisteres; sedativos, nutritivos; cicatrizantes, etc."
+    },
+    "Coclear": {
+        "Definição": "Relativo ou pertencente à cóclea ou caracol do ouvido interno."
+    },
+    "Colangiografia": {
+        "Definição": "Método de estudo radiológico da vesícula e dos canais biliares por injeção intravenosa de uma substância de contraste; por injeção direta na vesícula ou nas vias biliares durante o ato operatório (colangiografia peroperatória); ou por injeção direta no parênquima hepático (colangiografia percutânea ou transparietohepática)."
+    },
+    "Colite": {
+        "Definição": "Inflamação do cólon."
+    },
+    "Colonoscopia": {
+        "Definição": "Exame visual do interior do cólon."
+    },
+    "Colostomia": {
+        "Definição": "Formação cirúrgica de uma abertura do cólon à parede abdominal e que pode ser definitiva ou transitória."
+    },
+    "Comorbilidade": {
+        "Definição": "Patologia que se desenvolve num indivíduo em simultâneo com outra preexistente."
+    },
+    "Condiloma": {
+        "Definição": "Espécie de verruga que se forma no ânus, no períneo e nas partes genitais do homem e da mulher."
+    },
+    "Congénito": {
+        "Definição": "Que foi gerado ou nasceu com o indivíduo; inato."
+    },
+    "Consentimento informado": {
+        "Definição": "O consentimento informado, esclarecido e livre, reflete o direito moral à integridade corporal e à participação ativa nas decisões sobre a sua saúde. Implica uma integração no processo de decisão quanto aos atos/intervenções de saúde que lhe são propostos, após uma partilha de conhecimentos que a tornem competente para essa decisão. Mais do que uma formalidade, deve constituir um momento de comunicação efetiva, com ponderação dos riscos e dos benefícios, promovendo a confiança nos profissionais de saúde. O produto final resultará da interação entre ambos, numa ponderação entre o possível e o aceitável para ambas as partes. Esta lógica negocial é contínua, não se esgotando no momento da aceitação."
+    },
+    "Consulta": {
+        "Definição": "Entende-se como consulta, a atividade de um profissional de saúde relacionada com um utente, de onde resulta pelo menos um diagnóstico e um plano de intervenções decorrente."
+    },
+    "Contraste": {
+        "Definição": "Substância radiopaca usada em exames radiológicos para melhorar a visibilidade de órgão, tecido ou estrutura anatómica a avaliar."
+    },
+    "Corticectomia": {
+        "Definição": "Remoção cirúrgica de uma determinada região do córtex cerebral."
+    },
+    "Corticoesteroide": {
+        "Definição": "Designação genérica de todas as substâncias, naturais ou sintéticas, que têm uma ação semelhante às das hormonas do córtex suprarrenal, e que se subdividem em mineralocorticoides e glicocorticoides."
+    },
+    "Coxartrose": {
+        "Definição": "Doença degenerativa da articulação coxofemoral, caracterizada por dor e impotência funcional e que pode ser de causa traumática, inflamatória, infeciosa, vascular e metabólica. Surge com maior frequência nos indivíduos idosos."
+    },
+    "CPRE": {
+        "Definição": "Colangiopancreatografia Retrógrada Endoscópica."
+    },
+    "Cricotirotomia": {
+        "Definição": "Incisão cirúrgica entre as cartilagens cricoide e tiroide."
+    },
+    "CRNI": {
+        "Definição": "Centro de Referência da Neurorradiologia de Intervenção."
+    },
+    "CTG": {
+        "Definição": "Cardiotocografia. Registo contínuo do ritmo cardíaco do feto e das contrações uterinas durante o parto que permite detetar a existência de sofrimento fetal."
+    },
+    "Cuidador informal": {
+        "Definição": "Pessoas que cuidam de forma regular ou permanente de outras pessoas que estejam numa situação de dependência."
+    },
+    "Cuidados paliativos": {
+        "Definição": "Cuidados de saúde holísticos, ativos que procuram melhorar a qualidade de vida dos doentes, das suas famílias/cuidadores pela prevenção e alívio do sofrimento, através da identificação precoce, diagnóstico e tratamento adequado da dor e de outros problemas, sejam estes físicos, psicológicos, sociais ou espirituais (OMS). São cuidados integrados, prestados por uma equipa interdisciplinar e baseiam-se em princípios éticos e de planeamento antecipado de cuidados, pelo que não antecipam, nem prolongam o processo de morte."
+    },
+    "Cuidados primários": {
+        "Definição": "Os cuidados de saúde primários são uma abordagem de toda a sociedade à saúde e bem-estar, centrada nas necessidades e preferências das pessoas, famílias e comunidades. Aborda os determinantes da saúde mais vastos e incide sobre os aspetos completos e interrelacionados da saúde física, mental e social e do bem-estar. Prestam cuidados completos às pessoas, de acordo com as suas necessidades de saúde durante toda a vida e não só para um conjunto de doenças específicas. Os cuidados de saúde primários asseguram que as pessoas recebem cuidados completos, desde a promoção e prevenção ao tratamento, reabilitação e cuidados paliativos, tão perto quanto possível do seu ambiente diário."
+    },
+    "Curetagem": {
+        "Definição": "Ação de raspar e limpar, com uma cureta, o interior de uma cavidade orgânica, de uma ferida ou de uma cavidade patológica."
+    },
+    "Dacriocistorrinostomia": {
+        "Definição": "Intervenção cirúrgica para efetuar uma comunicação entre o saco lacrimal e o meato médio do nariz."
+    },
+    "Deiscência": {
+        "Definição": "Separação ou abertura natural."
+    },
+    "Densitometria óssea": {
+        "Definição": "Exame que permite diagnosticar a presença (ou não) de osteoporose através da avaliação do conteúdo mineral dos ossos."
+    },
+    "Dequitadura": {
+        "Definição": "Expulsão espontânea da placenta e das membranas após a saída do feto."
+    },
+    "Dermatite": {
+        "Definição": "Inflamação da pele, denominada, em alguns casos, cutite; dermite."
+    },
+    "Dermatomiosite": {
+        "Definição": "Doença cutânea, autoimune, do grupo das colagenoses ou doenças de tecido conectivo. Evolui por surtos e manifesta-se principalmente por lesões cutâneas (placas vermelhas atróficas, edema, tumefação e dor) e alterações musculares (astenia, diminuição da força com limitação dos movimentos dos membros, dificuldade na deglutição, etc.) a que se podem associar repercussões de carácter sistémico, nomeadamente respiratórias e digestivas. Doença rara que atinge principalmente o sexo feminino."
+    },
+    "Dermatose": {
+        "Definição": "Designação genérica das doenças da pele."
+    },
+    "Dermite": {
+        "Definição": "Inflamação da pele."
+    },
+    "Desfibrilhador": {
+        "Definição": "Aparelho com que se provocam descargas elétricas, com corrente alterna ou contínua, sobre a região torácica anterior, incidindo, em especial, na área cardíaca, com a finalidade de fazer com que um ritmo cardíaco anormal volte à normalidade."
+    },
+    "Desluvamento": {
+        "Definição": "Lesão em que a pele e o tecido subcutâneo se separam da fáscia, ocorrendo principalmente nos membros."
+    },
+    "DGS": {
+        "Definição": "Direção Geral da Saúde."
+    },
+    "Diagnóstico": {
+        "Definição": "Determinação da doença depois da recolha das informações dadas pelo doente (anamnese), dos seus sinais e sintomas e dos resultados dos exames complementares efetuados (laboratoriais, radiológicos, etc.)."
+    },
+    "Dieta cetogénica": {
+        "Definição": "Tipo de alimentação com grande quantidade de gordura que leva ao aparecimento de corpos cetónicos na urina. Tem sido utilizada no tratamento de nefropatias crónicas por baciluscoli ou na epilepsia."
+    },
+    "Discalculia": {
+        "Definição": "Perturbação de origem neurológica que interfere negativamente na capacidade para compreender e manipular números."
+    },
+    "Discectomia": {
+        "Definição": "Excisão parcial ou total de um disco intervertebral herniado."
+    },
+    "Discrasia": {
+        "Definição": "Perturbação da crase sanguínea."
+    },
+    "Disfagia": {
+        "Definição": "Dificuldade em deglutir."
+    },
+    "Disgrafia": {
+        "Definição": "Incapacidade de escrever de modo correto, provocada por lesão cerebral, doença nervosa ou distúrbio neurológico."
+    },
+    "Dislipidemia": {
+        "Definição": "Anomalia quantitativa ou qualitativa dos lípidos circulantes. Conhecem-se 5 tipos de dislipidemias em função da fração lipídica alterada e da existência ou ausência de um padrão hereditário."
+    },
+    "Dismorfia": {
+        "Definição": "Malformação de um órgão ou aparelho."
+    },
+    "Dissecção": {
+        "Definição": "Isolar, por corte ou separação, para estudo, um órgão ou uma parte do corpo."
+    },
+    "Diverticulectomia": {
+        "Definição": "Ressecção cirúrgica de um divertículo, em especial do tubo digestivo."
+    },
+    "Divertículo": {
+        "Definição": "Apêndice de um órgão tubular ou de uma cavidade principal, natural ou patológico e em forma de fundo de saco ou de bolsa. Os divertículos podem ser congénitos (divertículo de Meckel) ou adquiridos (divertículo brônquico, esofágico, intestinal, da bexiga, etc)."
+    },
+    "DRC": {
+        "Definição": "Doença Renal Crónica."
+    },
+    "Dreno": {
+        "Definição": "Tubo ou outro dispositivo feito de material diverso (borracha, metal, crina, vidro, etc.) com que se efetua a drenagem de feridas, abcessos, cavidades, quistos. etc."
+    },
+    "ECG": {
+        "Definição": "Eletrocardiograma."
+    },
+    "Eco-Doppler": {
+        "Definição": "Método de estudo que utiliza o efeito Doppler sobre um feixe de ultrassons e, assim, mede as variações da velocidade de circulação sanguínea num vaso, pela análise das alterações de frequência dos ecos de retorno."
+    },
+    "Ecocardiograma": {
+        "Definição": "Método de diagnóstico cardiológico em que se aplicam os ultrassons para a obtenção de imagens das estruturas cardíaca. É particularmente útil no estudo das válvulas, da parede e volume ventriculares e na deteção de derrames pericárdicos."
+    },
+    "Ecografia": {
+        "Definição": "Método de estudo e diagnóstico que se serve da reflexão (eco) produzida pelos ultrassons para ver em tempo real estruturas e órgãos do corpo humano; ultrassonografia, ultrassom. Exame realizado através deste método."
+    },
+    "Ectópico": {
+        "Definição": "Que está fora do lugar, de que é exemplo a gravidez ectópica ou gravidez extrauterina."
+    },
+    "Eczema": {
+        "Definição": "Doença cutânea manifestada por um processo inflamatório, superficial, com características e causas diversas, muitas vezes com formações vesiculosas; dermatite."
+    },
+    "Edema": {
+        "Definição": "Infiltração de serosidade nos tecidos do organismo, que produz inchação."
+    },
+    "Eletrocardiograma": {
+        "Definição": "Representação gráfica do funcionamento do coração, baseada nas variações do potencial elétrico, nas contrações e descontrações do miocárdio."
+    },
+    "Elétrodo": {
+        "Definição": "Instrumento ou peça metálica ligada a uma corrente ou fonte de energia elétrica e que se aplica a uma parte ou região do corpo com fins terapêuticos."
+    },
+    "Eletroencefalograma": {
+        "Definição": "Registo gráfico dos ritmos elétricos cerebrais obtido por eletroencefalografia, através de elétrodos colocados sobre o couro cabeludo, diretamente em determinados pontos da calote craniana."
+    },
+    "Eletrofisiologia": {
+        "Definição": "Estudo da maneira como se comportam as funções vitais sob a ação de correntes elétricas, eletrobiologia."
+    },
+    "Eletromiografia": {
+        "Definição": "Registo gráfico das variações das correntes produzidas nos músculos em repouso ou em atividade. É especialmente útil na investigação e no diagnóstico das doenças neuromusculares."
+    },
+    "Encefálico": {
+        "Definição": "Relativo ao encéfalo."
+    },
+    "Endócrino": {
+        "Definição": "Que pertence a ou que se relaciona com a secreção interna ou endócrina. Diz-se dos órgãos ou glândulas que segregam internamente, em especial para a circulação sanguínea sistémica."
+    },
+    "Endoscopia": {
+        "Definição": "Exame dos órgãos internos do corpo, pela observação com endoscópio (designação extensiva a diferentes instrumentos, próprios para o exame visual de cavidades ou órgãos do corpo, geralmente constituídos por um tubo, rígido ou flexível, provido de sistema de iluminação)."
+    },
+    "Endovenoso": {
+        "Definição": "Que está, que se introduz ou que é aplicado no interior da veia."
+    },
+    "Enteroscopia": {
+        "Definição": "Observação direta do intestino com um enteroscópio."
+    },
+    "Enteroscópio": {
+        "Definição": "Aparelho para observar diretamente o intestino."
+    },
+    "Epicondilite": {
+        "Definição": "Inflamação do epicôndilo do úmero e tecidos circunvizinhos e que pode aparecer em certos desportistas como os tenistas e os esgrimistas."
+    },
+    "Epicutâneo": {
+        "Definição": "Que está ou que se realiza sobre a pele."
+    },
+    "Epidermólise": {
+        "Definição": "Doença congénita e familiar, caracterizada pelo descolamento agudo e difuso da epiderme sob a forma de bolhas e cistos epidérmicos de conteúdo seroso."
+    },
+    "Epilepsia": {
+        "Definição": "Doença neurológica, crónica, caracterizada por crises súbitas recorrentes e paroxísticas de convulsões, mais ou menos violentas, geralmente acompanhadas de perda da sensibilidade e do conhecimento."
+    },
+    "Episiotomia": {
+        "Definição": "Incisão cirúrgica (posterior ou lateral e mediana) da vulva para aumentar o seu orifício no momento da expulsão do feto e, assim, evitar lacerações graves do períneo."
+    },
+    "Epistáxis": {
+        "Definição": "Hemorragia nasal."
+    },
+    "Eritrócito": {
+        "Definição": "Célula anucleada do sangue que contém hemoglobina e transporta o oxigénio necessário ao organismo."
+    },
+    "Eritropoiese": {
+        "Definição": "Produção dos eritrócitos, normalmente verificada na medula óssea."
+    },
+    "ERS": {
+        "Definição": "Entidade Reguladora da Saúde."
+    },
+    "Esclerodermia": {
+        "Definição": "Doença caracterizada pelo espessamento e endurecimento da pele e dos tecidos subcutâneos."
+    },
+    "Esclerose": {
+        "Definição": "Endurecimento patológico de um tecido ou de um órgão, devido à produção excessiva de tecido conjuntivo e consecutivo aumento de colagénio e rarefação celular progressiva. A esclerose é, em geral, devida a um processo inflamatório crónico."
+    },
+    "Escleroterapia": {
+        "Definição": "Tratamento esclerosante das varizes das pernas com injeções de uma substância irritante que provoca a obliteração venosa."
+    },
+    "Esfincterotomia": {
+        "Definição": "Incisão cirúrgica de um esfíncter."
+    },
+    "Esfregaço": {
+        "Definição": "Preparado em camada fina de qualquer líquido orgânico sobre uma lâmina de vidro para observação microscópica."
+    },
+    "Esofágico": {
+        "Definição": "Relativo ou pertencente ao esófago."
+    },
+    "Esofagoscopia": {
+        "Definição": "Observação do interior do esófago com um esofagoscópio."
+    },
+    "Espirometria": {
+        "Definição": "Medição, com espirómetro, da capacidade respiratória pulmonar."
+    },
+    "Espondilartrite": {
+        "Definição": "Inflamação de uma ou várias articulações da coluna vertebral."
+    },
+    "Espondilartrose": {
+        "Definição": "Artrose de articulações vertebrais; alteração degenerativa dos discos intervertebrais que conduz à formação de osteófitos (popularmente conhecidos por bicos de papagaio); espondilose."
+    },
+    "Espondilolistese": {
+        "Definição": "Deslizamento ou deslocamento para a frente de uma vértebra sobre outra."
+    },
+    "Estadiamento": {
+        "Definição": "Determinação da fase de desenvolvimento de uma doença, em geral maligna, avaliando a sua extensão através de exames específicos (raio X, biópsia, ecografia, TAC, análises, etc.)."
+    },
+    "Estapédico": {
+        "Definição": "Relativo ou pertencente ao estribo."
+    },
+    "Estenose": {
+        "Definição": "Constrição ou aperto, congénito ou não, de qualquer orifício ou canal orgânico."
+    },
+    "Estomaterapia": {
+        "Definição": "Conjunto de medidas de higiene e terapêuticas prestadas aos doentes com um estoma viscerocutâneo (ureteropstomia, colostomia, ileostomia, etc.)."
+    },
+    "Exame": {
+        "Definição": "Observação médica cuidada que pode incluir utilização de instrumentos ou aparelhos especiais e determinados exames laboratoriais."
+    },
+    "Exérese": {
+        "Definição": "Remoção cirúrgica de um corpo estranho ou de uma parte do organismo (tumor ou tecido patológico)."
+    },
+    "Exostose": {
+        "Definição": "Excrescência óssea anormal formada na superfície óssea e que pode ser congénita, ou de causa traumática ou inflamatória."
+    },
+    "Exsudado": {
+        "Definição": "Substância ou produto, sólido ou líquido, resultante da exsudação."
+    },
+    "Faringectomia": {
+        "Definição": "Operação cirúrgica para a ablação total ou parcial da faringe."
+    },
+    "Faringoscopia": {
+        "Definição": "Exame à cavidade da faringe."
+    },
+    "Farmacocinética": {
+        "Definição": "Estudo da absorção, transformação e eliminação dos fármacos e seus metabolitos pelo organismo."
+    },
+    "Fasceíte": {
+        "Definição": "Inflamação de uma fáscia."
+    },
+    "Fáscia": {
+        "Definição": "Bainha ou membrana de tecido conjuntivo fibroso que envolve, cobre ou separa os músculos ou outras estruturas do organismo."
+    },
+    "Fibrilhação": {
+        "Definição": "Contração anormal, não coordenada, de uma fibrilha muscular (miofibrilha) do coração, do diafragma ou de outras estruturas musculares e que é caracterizada por várias, irregulares e sucessivas contrações seguidas de relaxamentos. A fibrilhação auricular é a contração anormal da aurícula cardíaca em que feixes de miofibrilhas se contraem de forma anárquica e independentemente do estímulo cardíaco fisiológico, o que pode suceder em várias situações patológicas; a fibrilhação auricular é a causa habitual da arritmia completa. A fibrilhação dos ventrículos cardíacos (fibrilhação ventricular) é causa de uma arritmia muito grave de etiologia diversa, que pode provocar a morte por paragem cardíaca."
+    },
+    "Fibroscópio": {
+        "Definição": "Instrumento com fibras óticas flexíveis, para efetuar endofibroscopias, e que são transmissoras de imagens."
+    },
+    "Fístula": {
+        "Definição": "Trajeto anormal, congénito ou adquirido, que faz comunicar um foco patológico com um órgão ou outra estrutura (interna ou externa) e por onde passa líquido orgânico normal, secreções ou pus."
+    },
+    "Flebotomia": {
+        "Definição": "Incisão de uma veia para extrair um trombo ou para fazer uma sangria."
+    },
+    "Fluoroscopia": {
+        "Definição": "Produção de uma imagem visual num alvo fluorescente, por efeito de raios X ou de outra radiação ionizante, que pode ser utilizada em diagnóstico médico (radioscopia), no exame de materiais, etc."
+    },
+    "Flutter": {
+        "Definição": "Tremor, agitação."
+    },
+    "Fonação": {
+        "Definição": "Emissão da voz ou de palavras."
+    },
+    "Fotobiológico": {
+        "Definição": "Relativo ou pertencente à fotobiologia (ramo da biologia que estuda os efeitos da luz nos seres vivos)."
+    },
+    "Gastroduodenal": {
+        "Definição": "Relativo ao estômago e ao duodeno."
+    },
+    "Gastrostomia": {
+        "Definição": "Operação cirúrgica que consiste em praticar uma abertura no estômago para introduzir alimentos."
+    },
+    "Glossectomia": {
+        "Definição": "Ressecção total ou parcial da língua."
+    },
+    "Gónada": {
+        "Definição": "Designação genérica dada às glândulas que produzem as hormonas e os gâmetas, masculinos e femininos (testículos e ovários)."
+    },
+    "Gonartrose": {
+        "Definição": "Artrose do joelho."
+    },
+    "HAPD": {
+        "Definição": "Hospital de Apoio Perinatal Diferenciado."
+    },
+    "HEM": {
+        "Definição": "Hospital de Egas Moniz."
+    },
+    "Hematopoiese": {
+        "Definição": "Formação e desenvolvimento das células sanguíneas."
+    },
+    "Hemisferectomia": {
+        "Definição": "Ressecção cirúrgica de parte ou metade do hemisfério cerebral ou do hemisfério cerebeloso."
+    },
+    "Hemodiálise": {
+        "Definição": "Método de separação de certos produtos do sangue (ureia, por exemplo) por difusão através de uma membrana semipermeável. Na hemodiálise o sangue do doente, derivado de uma artéria para uma veia, é tornado incoagulável e passado por um tubo num banho apropriado."
+    },
+    "Hemodinâmica": {
+        "Definição": "Ramo da Medicina que estuda os fenómenos mecânicos da circulação sanguínea (movimentos do sangue e forças que o impulsionam)."
+    },
+    "Hemoglobinopatia": {
+        "Definição": "Designação genérica das doenças hereditárias que se caracterizam pela presença no sangue de hemoglobinas anormais (hemoglobinas C, E, S, etc.) ou de hemoglobinas normais em quantidade excessiva (talassémia, por exemplo)."
+    },
+    "Hemóstase": {
+        "Definição": "Interrupção de uma hemorragia por meios mecânicos, físicos ou químicos. Conjunto de mecanismos fisiológicos por meio dos quais se faz a paragem de uma hemorragia (vasoconstrição, aderência e agregação plaquetária e coagulação)."
+    },
+    "Hemoterapia": {
+        "Definição": "Processo terapêutico em que o agente utilizado é o sangue ou algum dos seus elementos (por exemplo, o plasma)."
+    },
+    "Hérnia": {
+        "Definição": "Protrusão ou saliência de um ou mais órgãos, ou parte de um órgão, para além dos seus limites normais, através das paredes enfraquecidas das cavidades ou estruturas que o contêm ou através de uma fissura ou de um orifício natural ou patológico."
+    },
+    "Hidrocefalia": {
+        "Definição": "Aumento excessivo de líquido cefalorraquidiano nos ventrículos cerebrais e que pode ser devida a produção excessiva de líquido cefalorraquidiano, dificuldade de reabsorção de líquido cefalorraquidiano ou bloqueio da circulação do líquido cefalorraquidiano."
+    },
+    "Hipercolesterolemia": {
+        "Definição": "Aumento da concentração de colesterol ou colesterina no sangue, o que pode provocar complicações cardiovasculares graves. A hipercolesterolemia pode ser primitiva ou familiar (hereditária) ou adquirida (por perturbações alimentares)."
+    },
+    "Hiperplasia": {
+        "Definição": "Aumento anormal de um tecido ou das suas células."
+    },
+    "Hipocoagulação": {
+        "Definição": "Redução da capacidade de um líquido para coagular (sangue, por exemplo). Tratamento farmacológico pelo qual se diminui a capacidade de coagulação do sangue, reduzindo a possibilidade de formação de coágulos na circulação sanguínea."
+    },
+    "Hipófise": {
+        "Definição": "Pequena glândula de secreção interna situada na base do crânio, na cavidade da sela turca, constituída pelo lobo posterior (cerebral ou nervoso) e pelo lobo anterior (glandular), que exerce uma função reguladora da maior parte das glândulas de secreção interna, tendo uma influência direta no crescimento."
+    },
+    "Hipofisectomia": {
+        "Definição": "Extirpação cirúrgica da hipófise (pequena glândula de secreção interna situada na base do crânio)."
+    },
+    "Hipotálamo": {
+        "Definição": "Região cerebral, do tamanho de uma cereja, situada por baixo do tálamo, formando o pavimento do terceiro ventrículo. Representa o centro mais importante da vida vegetativa, controlando o sistema nervoso simpático e parassimpático, as atividades das vísceras, a temperatura corporal, o equilíbrio hídrico, etc. O hipotálamo está ligado à hipófise pela haste pituitária ou hipofisária."
+    },
+    "Histeroscopia": {
+        "Definição": "Endoscopia do útero."
+    },
+    "Histologia": {
+        "Definição": "Ramo da Ciência que estuda a composição e a estrutura microscópica dos tecidos e das células do organismo."
+    },
+    "Histoquímica": {
+        "Definição": "Estudo dos elementos químicos presentes nas células e nos tecidos, com recurso a corantes e indicadores, e à observação microscópica."
+    },
+    "Holter": {
+        "Definição": "Dispositivo portátil que faz a monitorização do ritmo cardíaco durante a atividade diária normal do indivíduo, habitualmente por um período de 24 horas, cujo objetivo é avaliar a presença de arritmias cardíacas e/ou outras anomalias relacionadas com o funcionamento do coração. Exame médico realizado com esse dispositivo."
+    },
+    "HSC": {
+        "Definição": "Hospital de Santa Cruz."
+    },
+    "HSFX": {
+        "Definição": "Hospital de São Francisco Xavier."
+    },
+    "Icterícia": {
+        "Definição": "Coloração amarelada da pele, mucosas e órgãos viscerais devida ao aumento do pigmento biliar (bilirrubina) no sangue. A icterícia é, muitas vezes, o primeiro e principal sinal de muitas doenças do fígado (icterícia hepática) e/ou das vias biliares (icterícia obstrutiva). Considera-se ainda a icterícia hemolítica devida a uma destruição aumentada e excessiva dos glóbulos vermelhos, com consequente aumento da bilirrubina sanguínea."
+    },
+    "Imunoalergologia": {
+        "Definição": "Especialidade médica que se dedica ao estudo e tratamento das doenças alérgicas e de doenças do sistema imunitário."
+    },
+    "Imunodeficiência": {
+        "Definição": "Incapacidade de resistir a infeções por deficiência, congénita ou adquirida, do sistema imunitário."
+    },
+    "Imunofluorescência": {
+        "Definição": "Prova imunológica em que determinado antigénio ou anticorpo é conjugado com um corante fluorescente, o que permite localizar a sua fixação orgânica com o anticorpo ou antigénio correspondente."
+    },
+    "Imunohematologia": {
+        "Definição": "Ramo da Medicina que estuda e trata os mecanismos imunológicos relativos à patogenia de certas doenças hematológicas."
+    },
+    "Imunohemoterapia": {
+        "Definição": "Especialidade médica que se dedica aos processos terapêuticos em que o agente utilizado é o sangue (ou algum dos seus elementos) e ao estudo das patologias do sistema hemostático."
+    },
+    "Inervação": {
+        "Definição": "Envio do influxo nervoso para determinada região do organismo. Distribuição dos nervos num órgão, numa estrutura ou numa região do organismo."
+    },
+    "Inotrópico": {
+        "Definição": "Relativo à força de contração das fibras musculares ou à ação dos nervos cardíacos que influem, positiva ou negativamente, sobre a musculatura cardíaca."
+    },
+    "Internamento": {
+        "Definição": "Regime de assistência a doentes em alojamento hospitalar devido à gravidade da doença ou à necessidade de tratamentos especiais."
+    },
+    "Interstício": {
+        "Definição": "Espaço existente entre duas estruturas anatómicas. Pequeno espaço existente num tecido ou num órgão."
+    },
+    "Intratecal": {
+        "Definição": "Que está situado ou que acontece no interior das membranas ou meninges que envolvem a medula."
+    },
+    "Labirintectomia": {
+        "Definição": "Ressecção cirúrgica do labirinto do ouvido."
+    },
+    "Lactação": {
+        "Definição": "Período de aleitamento. Secreção de leite."
+    },
+    "Laparotomia": {
+        "Definição": "Designação genérica de qualquer intervenção cirúrgica em que se faça uma incisão da parede abdominal."
+    },
+    "Laqueação": {
+        "Definição": "Processo cirúrgico pelo qual se liga ou aperta fortemente uma artéria, um órgão ou uma porção de tecido."
+    },
+    "Laringectomia": {
+        "Definição": "Ressecção cirúrgica parcial ou total da laringe."
+    },
+    "Laringoscopia": {
+        "Definição": "Observação da laringe com um laringoscópio (existem diversos tipos de laringoscópios, quer feitos de um tubo rígido, quer feitos de material flexível (fibrolaringoscópios)."
+    },
+    "Leucaférese": {
+        "Definição": "Extração sanguínea de leucócitos e reinjeção deste sangue no próprio doente, com a intenção terapêutica de tratar certas leucemias."
+    },
+    "Linfedema": {
+        "Definição": "Edema de uma região ou de um órgão por obstrução de um ou mais vasos linfáticos."
+    },
+    "Linfoma": {
+        "Definição": "Designação genérica dada a qualquer tipo de tumor, mais frequentemente maligno, constituído por proliferação de um tecido linfoide (doença de Burkitt, doença de Hodgkin, macromaglobulinemia primária de Waldenström, linfoma mediterrânico). Atualmente, um grande número de linfomas tem tratamento eficaz."
+    },
+    "Litíase": {
+        "Definição": "Denominação genérica dada às situações em que se forma ou se acumula ácido úrico ou ácido lítico no organismo."
+    },
+    "Lobectomia": {
+        "Definição": "Ressecção cirúrgica de um lobo de um órgão (pulmão, tiroideia, cérebro, fígado)."
+    },
+    "Luxação": {
+        "Definição": "Deslocamento anormal das extremidades articulares de dois ossos contíguos. A luxação denomina-se completa ou total quando as superfícies articulares perdem totalmente o contacto entre si, e denomina-se incompleta ou subluxação quando as superfícies articulares mantêm contacto parcial."
+    },
+    "Magnetoencefalografia": {
+        "Definição": "Técnica utilizada em neurologia, que se baseia na medição dos campos magnéticos resultantes da atividade eletromagnética do encéfalo."
+    },
+    "Mamografia": {
+        "Definição": "Exame imagiológico da mama, feito por raios X, ultrassons (ecografia) ou ressonância magnética nuclear, com a finalidade de diagnosticar alterações patológicas."
+    },
+    "MAPA 24 Horas": {
+        "Definição": "Registo da pressão arterial realizado em ambulatório durante um período de cerca de 24 horas. Tem como objetivo identificar correlações entre eventuais alterações detetadas e atividades diárias e sintomas descritos por quem faz o exame."
+    },
+    "Mastectomia": {
+        "Definição": "Ressecção cirúrgica da mama e que pode ser total ou parcial."
+    },
+    "Mastoidectomia": {
+        "Definição": "Intervenção cirúrgica que consiste na excisão do antro ou das células mastoideias."
+    },
+    "MCDT": {
+        "Definição": "Meios Complementares de Diagnóstico e Terapêutica."
+    },
+    "Melanócito": {
+        "Definição": "Célula que contém um pigmento castanho-escuro ou negro (melanina) e que se encontra sobretudo na derme, na camada basal da epiderme e na corioide."
+    },
+    "Melanoma": {
+        "Definição": "Tumor cutâneo constituído por células produtoras de melanina (pigmento melânico)."
+    },
+    "Meningocelo": {
+        "Definição": "Hérnia congénita das meninges através de uma fissura craniana ou raquidiana. Manifesta-se sob a forma de um tumor saciforme que contém líquido cefalorraquidiano."
+    },
+    "Mesoterapia": {
+        "Definição": "Método terapêutico pelo qual se introduz um medicamento em doses mínimas, por meio de agulhas extremamente finas, no ponto mais próximo da dor ou da doença."
+    },
+    "Metástase": {
+        "Definição": "Aparecimento de um foco patológico em outra localização de uma ou mais células ou de microrganismos pertencentes ao foco patológico primitivo. A deslocação e aparecimento desses ou desses focos secundários deve-se ao despreendimento e deslocação, geralmente, por via sanguínea ou linfática, dessas células ou microrganismos patológicos provenientes de tumores malignos ou de infeções."
+    },
+    "Microclister": {
+        "Definição": "Clister de pequeno volume."
+    },
+    "Mielograma": {
+        "Definição": "Radiografia da medula espinal obtida por mielografia. Contagem diferencial dos elementos celulares da medula óssea, colhidos por punção aspiração medular."
+    },
+    "Miocardiopatia": {
+        "Definição": "Designação genérica dada às doenças do miocárdio."
+    },
+    "Miotomia": {
+        "Definição": "Dissecação ou corte de músculos."
+    },
+    "Miringotomia": {
+        "Definição": "Paracentese timpânica."
+    },
+    "MMSE": {
+        "Definição": "Mini-Mental State Examination."
+    },
+    "MoCA": {
+        "Definição": "Montreal Cognitive Assessment."
+    },
+    "MyCHLO": {
+        "Definição": "Aplicação móvel do Centro Hospitalar de Lisboa Ocidental que permite aproximar e facilitar o contacto do utente com os seus serviços e reduzir a utilização de papel, receber notificações relevantes sobre as suas consultas ou exames agendados, receber instruções de preparação detalhadas para os exames a realizar, apoio ao processo de admissão do utente na consulta, entre outros."
+    },
+    "Neonatologia": {
+        "Definição": "Ramo que se ocupa dos cuidados médicos e preventivos referentes aos recém-nascidos."
+    },
+    "Neoplasia": {
+        "Definição": "Formação de um tecido novo de origem patológica. Tecido novo de origem patológica; tumor."
+    },
+    "Neurinoma": {
+        "Definição": "Tumor benigno da bainha de uma fibra nervosa, de evolução lenta, mas que pode obrigar à respetiva remoção se a sua localização causar perturbações."
+    },
+    "Neurofisiologia": {
+        "Definição": "Ramo da Ciência que estuda a fisiologia do sistema nervoso."
+    },
+    "Neuroma": {
+        "Definição": "Denominação genérica dada aos tumores derivados de células do sistema nervoso."
+    },
+    "Neuromodulação": {
+        "Definição": "Modulação da atividade neuronal ou da ação de neurotransmissores; método terapêutico que visa a alteração da atividade nervosa por meio de estimulação localizada (por via elétrica, eletromagnética, etc.) da área a tratar."
+    },
+    "Neuropsicologia": {
+        "Definição": "Parte da psicologia que tem por objeto o estudo das funções mentais e do seu relacionamento com as estruturas cerebrais, na sua qualidade de centros nervosos."
+    },
+    "Neurorradiologia": {
+        "Definição": "Radiologia cujo objetivo é o sistema nervoso central."
+    },
+    "Nistagmo": {
+        "Definição": "Movimento rápido e involuntário do globo ocular em sentido vertical, horizontal ou rotatório."
+    },
+    "Nódulo": {
+        "Definição": "Designação utilizada em Medicina para referir pequena eminência, verruga ou aumento de volume de um tecido ou de uma estrutura orgânica"
+    },
+    "Optocinético": {
+        "Definição": "Relativo à visão de objetos móveis."
+    },
+    "Ortognatia": {
+        "Definição": "Disposição da face sem os maxilares projetados para a frente e dispostos numa posição quase vertical (linha de perfil da fronte ao mento quase vertical). Estudo das causas e do tratamento das perturbações da posição correta dos ossos da mandíbula."
+    },
+    "Ortopantomografia": {
+        "Definição": "Técnica de radiografia utilizada para obter numa única chapa a imagem das duas arcadas dentárias."
+    },
+    "Ortótese": {
+        "Definição": "Dispositivo ou aparelho ortopédico de uso externo que se destina a compensar ou corrigir a alteração morfológica de um membro, de parte de um membro, de um órgão, ou a deficiência de uma função."
+    },
+    "Ostectomia": {
+        "Definição": "Ressecção total ou parcial de um osso."
+    },
+    "Osteoartropatia": {
+        "Definição": "Designação genérica dada às doenças que afetam os ossos e as articulações."
+    },
+    "Osteoartrose": {
+        "Definição": "Osteartropatia degenerativa crónica."
+    },
+    "Osteoporose": {
+        "Definição": "Alteração óssea, localizada ou difusa, que se caracteriza pelo adelgaçamento dos espaços ósseos com rarefação das trabéculas ósseas. Pode surgir com a idade (osteoporose senil) ou por traumatismos, doenças endócrinas, menopausa, imobilização prolongada, etc."
+    },
+    "Osteossíntese": {
+        "Definição": "União das extremidades dos fragmentos ósseos fraturados e sua manutenção em posição anatómica correta com auxílio de placas, fios, pregos, parafusos, etc. O material utilizado é, em geral, retirado após certo tempo, e quando a fratura está consolidada."
+    },
+    "Ostomia": {
+        "Definição": "Intervenção cirúrgica que tem como objetivo criar uma abertura artificial no corpo do paciente (por exemplo, na traqueia, no cólon, no estômago, etc.)."
+    },
+    "Otólito": {
+        "Definição": "Cada uma das concreções calcárias existentes na endolinfa do labirinto membranoso e no canal coclear de diversos vertebrados, essenciais na perceção da gravidade e na manutenção do equilíbrio e da orientação."
+    },
+    "Otoplastia": {
+        "Definição": "Cirurgia plástica ou reconstrutiva do ouvido."
+    },
+    "Oxigenoterapia": {
+        "Definição": "Utilização terapêutica do oxigénio."
+    },
+    "Pacemaker": {
+        "Definição": "Dispositivo elétrico que se implanta na parede torácica e que tem por objetivo a estimulação do coração de modo a manter um ritmo adequado; estimulador cardíaco."
+    },
+    "Palatoplastia": {
+        "Definição": "Reconstituição da abóbada palatina, geralmente para corrigir malformações congénitas do palato."
+    },
+    "Pápula": {
+        "Definição": "Lesão cutânea que consiste numa elevação circunscrita e sólida provocada por infiltração da camada superficial da derme e pela hiperplasia dos seus elementos estruturais, assim como da epiderme ou, ainda, por depósito local de substâncias metabólicas. A pápula tem pequenas dimensões (menos de 1 cm) e uma coloração rósea, avermelhada, acastanhada ou amarelada. As pápulas são as lesões elementares de diversas afeções (febres eruptivas, líquen, urticária, etc.) e pode ser muito pruriginosa, como acontece na urticária."
+    },
+    "Paracentese": {
+        "Definição": "Introdução numa cavidade de um trocarte, de uma agulha ou de um instrumento canalicular, com a intenção de extrair um líquido."
+    },
+    "Paraganglioma": {
+        "Definição": "Tumor habitualmente constituído por tecido cromorrecetor do paragânglio."
+    },
+    "Parótida": {
+        "Definição": "Glândula que segrega saliva para o interior da boca através de um canal (canal parotídeo ou canal de Stenon) que atravessa a bochecha. A parótida, a maior das glândulas salivares, está situada à frente do ouvido."
+    },
+    "Parotidectomia": {
+        "Definição": "Ressecção cirúrgica de uma parótida."
+    },
+    "Patologia": {
+        "Definição": "Ramo da Medicina que estuda as doenças e as modificações orgânicas por elas provocadas. Estado de saúde considerado anormal ou desviante; doença."
+    },
+    "Patologia do Sono": {
+        "Definição": "Parte da medicina que estuda as origens, os sintomas e a natureza das doenças do sono."
+    },
+    "Pênfigo": {
+        "Definição": "Doença cutânea, de certa gravidade, com tendência recidivante, caracterizada pelo aparecimento de bolhas e/ou vesículas cheias de líquido seroso."
+    },
+    "Perfusão": {
+        "Definição": "Injeção intravascular (em geral lenta) de um líquido com ação terapêutica."
+    },
+    "Pericardiocentese": {
+        "Definição": "Punção do pericárdio para drenagem de líquido pericárdico patológico."
+    },
+    "Peritoneu": {
+        "Definição": "Membrana serosa que reveste interiormente as paredes do abdómen e recobre os órgãos nele contidos, fixando-os às próprias paredes da cavidade abdominal."
+    },
+    "Plasmaférese": {
+        "Definição": "Saída do plasma dos capilares através das suas paredes. Remoção de determinada quantidade de sangue e separação dos seus elementos celulares por centrifugação, seguido de reinfusão desses elementos numa solução salina ou num substituto de plasma."
+    },
+    "Plastia": {
+        "Definição": "Intervenção cirúrgica para reparação de um órgão ou de uma estrutura do corpo."
+    },
+    "Pletismografia": {
+        "Definição": "Estudo das alterações de volume de um órgão ou membro motivadas pelo afluxo de sangue."
+    },
+    "Pleura": {
+        "Definição": "Membrana serosa que reveste os pulmões."
+    },
+    "Plexo": {
+        "Definição": "Denominação dada a uma rede de nervos ou de vasos (plexo nervoso braquial ou plexo venoso da coroideia, por exemplo). São conhecidos um grande número de plexos, nervosos, vasculares ou linfáticos, dos quais se assinalam alguns considerados mais dignos de referência."
+    },
+    "Policitemia": {
+        "Definição": "Aumento anormal do número de glóbulos vermelhos no sangue circulante."
+    },
+    "Polipectomia": {
+        "Definição": "Exérese cirúrgica de um pólipo."
+    },
+    "Pólipo": {
+        "Definição": "Designação genérica dada a qualquer formação tumoral (benigna ou maligna) que está ligada por uma haste ou pedículo (de comprimento e largura variados) à superfície, a partir da qual se forma. Os pólipos formam-se, geralmente, nas cavidades revestidas de membranas mucosas (bexiga, canal auditivo, fossas nasais, intestino, laringe, reto, etc.)."
+    },
+    "Polisonografia": {
+        "Definição": "Exame que permite diagnosticar distúrbios manifestados durante o sono noturno, como a apneia ou o ressonar, através do registo simultâneo e contínuo das variações em determinados parâmetros (atividade cerebral, muscular, cardíaca, respiratória, etc.)"
+    },
+    "Posologia": {
+        "Definição": "Parte da terapêutica que se ocupa das dosagens dos fármacos."
+    },
+    "Prescrição": {
+        "Definição": "Receita médica."
+    },
+    "Proctologia": {
+        "Definição": "Ramo da Medicina dedicado ao estudo da anatomia, fisiologia e patologia do reto e do ânus."
+    },
+    "Profilaxia": {
+        "Definição": "Conjunto de medidas que têm como finalidade proteger o indivíduo ou a sociedade de uma determinada doença."
+    },
+    "Proprioceção": {
+        "Definição": "Perceção do próprio corpo, o que implica a consciência da postura, das alterações de equilíbrio e do movimento."
+    },
+    "Prótese": {
+        "Definição": "Substituição de um órgão, parte de um órgão ou de estrutura anatómica por uma peça artificial (prótese acústica ou auditiva, da anca, dentária, valvular cardíaca, ocular, etc.)."
+    },
+    "Protético": {
+        "Definição": "Relativo a prótese."
+    },
+    "Pseudartrose": {
+        "Definição": "Formação de uma falsa articulação patológica entre dois fragmentos de osso de uma fratura mal consolidada. A pseudartrose tem uma mobilidade anormal."
+    },
+    "Psoríase": {
+        "Definição": "Doença cutânea caracterizada por descamação epidérmica provocada pela inflamação crónica da derme, localizada sobretudo nos cotovelos, nos joelhos e no couro cabeludo."
+    },
+    "Punção": {
+        "Definição": "Introdução de uma agulha, de um trocarte ou da ponta de um bisturi delgado ou de qualquer outro instrumento pontiagudo numa estrutura anatómica com fins diagnósticos (averiguar o tipo de líquido existente numa cavidade, colheita de material de biópsia, colheita de material para exame citológico ou bacteriológico, ou introdução de produtos de contraste radiológico) ou com fins terapêuticos (drenagem de líquido ou introdução de fármacos)."
+    },
+    "Quimioterapia": {
+        "Definição": "Método de tratamento que utiliza substâncias químicas na cura de uma doença ou para impedir a sua progressão."
+    },
+    "Quisto": {
+        "Definição": "Tumor, em regra cavitário, que contém líquido e outras substâncias."
+    },
+    "Radiografia": {
+        "Definição": "Registo fotográfico obtido por meio de radiações de comprimento de onda muito curto, como os raios X ou os raios gama, podendo também ser obtido por aplicação de neutrões, partículas alfa, eletrões ou protões."
+    },
+    "Radioscopia": {
+        "Definição": "Exame por meio da imagem formada sobre um ecrã fluorescente, de um corpo colocado entre esse ecrã e uma fonte de raios X."
+    },
+    "Raios X": {
+        "Definição": "Radiações eletromagnéticas penetrantes, de comprimento de onda muito mais curto que a luz visível. São radiações que impressionam as películas fotográficas, e a sua absorção está relacionada com a densidade e o peso atómico da substância que atravessam."
+    },
+    "Raquidiano": {
+        "Definição": "Relativo ou pertencente à coluna vertebral."
+    },
+    "Recidiva": {
+        "Definição": "Reaparecimento de uma doença num indivíduo que já sofreu dela, há mais ou menos tempo, e da qual ficou curado."
+    },
+    "Recobro": {
+        "Definição": "Ato ou efeito de recobrar (-se), recuperação. Local de um hospital onde são mantidas as pessoas que acabaram de ser submetidas a uma intervenção cirúrgica e estão a recuperar de uma anestesia."
+    },
+    "Referenciação": {
+        "Definição": "Encaminhamento para determinada especialidade, serviço, instituição, etc."
+    },
+    "Refratário": {
+        "Definição": "Que reage pouco ou não reage a um estímulo físico, químico ou de qualquer outra natureza."
+    },
+    "Renograma": {
+        "Definição": "Radiografia do rim. Curva de evolução, de captação e de eliminação renal de uma substância radioativa injetada."
+    },
+    "RENTEV": {
+        "Definição": "Registo Nacional do Testamento Vital. Sistema de informação que permite a recolha, a manutenção e a gestão do acesso aos Testamentos Vitais dos cidadãos que pretendem outorgar um documento de diretivas antecipadas de vontade (DAV). Este sistema é suportado por uma base de dados de âmbito nacional, que centraliza e mantém atualizados os Testamentos Vitais e os Procuradores de Cuidados de Saúde, garantindo aos cidadãos a sua consulta (e ao respetivo procurador de cuidados de saúde, caso exista), bem como aos médicos responsáveis pela prestação de cuidados de saúde."
+    },
+    "Ressecção": {
+        "Definição": "Intervenção cirúrgica para extração total ou parcial de um órgão ou de uma neoformação patológica."
+    },
+    "Ressincronização cardíaca": {
+        "Definição": "Procedimento clínico usado para promover a regularização do batimento cardíaco por via do implante de dispositivos capazes de assegurar a estimulação sincrónica dos ventrículos."
+    },
+    "Ressonância Magnética": {
+        "Definição": "Técnica de diagnóstico imagiológico segundo a qual, por ação de um campo magnético de frequência especial, os núcleos de hidrogénio (protões) começam a ressoar nos tecidos biológicos e permitem, assim, obter imagens anatómicas digitais da região explorada. É um método de diagnóstico de elevada qualidade, quer em cortes transversais quer em imagens tridimensionais, quer ainda em imagens helicoidais e que é praticamente isento de riscos por não utilizar radiações."
+    },
+    "Restenose": {
+        "Definição": "Formação de nova estenose após correção cirúrgica de uma estenose (válvula cardíaca, artéria coronária, árvore traqueobrônquica, etc.)."
+    },
+    "Retossigmoidoscopia": {
+        "Definição": "Exame endoscópico do reto e da ansa sigmoide do cólon."
+    },
+    "RGPD": {
+        "Definição": "Regulamento Geral de Proteção de Dados"
+    },
+    "Rinite": {
+        "Definição": "Inflamação da mucosa das fossas nasais; coriza."
+    },
+    "Rinometria": {
+        "Definição": "Medição das dimensões do nariz e das fossas nasais. Medição da permeabilidade das fossas nasais."
+    },
+    "Rinoplastia": {
+        "Definição": "Intervenção cirúrgica plástica para modificar a forma e/ou o tamanho do nariz."
+    },
+    "Rinotomia": {
+        "Definição": "Incisão cirúrgica no nariz."
+    },
+    "Roncopatia": {
+        "Definição": "Condição daquele que, ao respirar durante o sono, emite um som cavo e ruidoso, causado pela vibração do palato e das paredes da faringe."
+    },
+    "RSE": {
+        "Definição": "Registo de Saúde Eletrónico. Visa reunir informação essencial de cada cidadão para a melhoria da prestação de cuidados de saúde; o RSE é construído por dados clínicos recolhidos eletronicamente para cada Cidadão e produzidos por entidades que prestam cuidados de saúde."
+    },
+    "RX": {
+        "Definição": "Raio-X."
+    },
+    "Saciforme": {
+        "Definição": "Com a forma de um saco."
+    },
+    "Sacroilíaco": {
+        "Definição": "Relativo ou pertencente ao sacro e ao osso ilíaco."
+    },
+    "Schwanoma": {
+        "Definição": "Tumor benigno, encapsulado, formado essencialmente por células de substância branca da bainha de Schwann (membrana muito fina, transparente e estriada que envolve a mielina das fibras nervosas cerebroespinhais e o cilindreixo das fibras amielínicas)."
+    },
+    "Screening": {
+        "Definição": "Despistagem, rastreio."
+    },
+    "Senologia": {
+        "Definição": "Ramo da Ciência que estuda a glândula mamária."
+    },
+    "Septoplastia": {
+        "Definição": "Intervenção cirúrgica para corrigir deformações ou desvios do septo nasal."
+    },
+    "Septotomia": {
+        "Definição": "Incisão cirúrgica de um septo (geralmente o septo nasal)."
+    },
+    "Síndrome": {
+        "Definição": "Conjunto de sintomas e de sinais que coexistem em determinada doença e que a definem clinicamente."
+    },
+    "Sinovial": {
+        "Definição": "Que está relacionado com a sinóvia (líquido, mais ou menos incolor e transparente, viscoso, existente nas cavidades articulares e nas bainhas tendinosas, e que atua como lubrificante. É composto, essencialmente, de mucina e de sais minerais)."
+    },
+    "Sinusoscopia": {
+        "Definição": "Observação dos seios nasais por transiluminação."
+    },
+    "SNS": {
+        "Definição": "Serviço Nacional de Saúde."
+    },
+    "Sonda": {
+        "Definição": "Tubo ou estilete para explorar feridas, evacuar uma cavidade."
+    },
+    "Soroterapia": {
+        "Definição": "Método de tratamento em que se administra soro de indivíduos ou animais imunizados contra uma determinada doença infeciosa."
+    },
+    "Stent": {
+        "Definição": "Anglicismo frequente que designa uma neoprótese tubular, de calibre muito pequeno, que se introduz, por cateterismo periférico, nas artérias coronárias para impedir a estenose. Na atualidade, utilizam-se stents impregnados de substâncias antiagregantes plaquetárias para evitar a obstrução da prótese e a reestenose arterial."
+    },
+    "Subdural": {
+        "Definição": "Que está situado ou que acontece debaixo da dura-máter."
+    },
+    "Tamponamento": {
+        "Definição": "Introdução de um tampão, seco ou embebido num fármaco, numa ferida ou cavidade natural, para suster uma hemorragia, por compressão, ou para absorver exsudados ou secreções excessivas."
+    },
+    "Taquicardia": {
+        "Definição": "Atividade cardíaca anormal, com excessiva frequência das pulsações."
+    },
+    "Taxas Moderadoras": {
+        "Definição": "Pequena importância em dinheiro paga pelo utente que beneficia de uma consulta ou outro cuidado de saúde, com a exceção de casos de internamento e/ou de intervenção cirúrgica."
+    },
+    "Telemedicina": {
+        "Definição": "Diagnóstico e tratamento de doenças sem deslocação física de doentes e profissionais de saúde, através do recurso a computadores ou outros meios de telecomunicação."
+    },
+    "Tendinose": {
+        "Definição": "Alteração degenerativa de um tendão."
+    },
+    "Terapêutica": {
+        "Definição": "Ramo da Medicina que trata da cura das doenças."
+    },
+    "Termocoagulação": {
+        "Definição": "Coagulação de tecidos sangrantes com aplicação de correntes elétricas de alta frequência."
+    },
+    "Testamento Vital": {
+        "Definição": "Forma de expressar diretivas antecipadas de vontade pelas quais se manifesta antecipadamente a vontade consciente, livre e esclarecida, no que respeita aos cuidados de saúde que o outorgante deseja receber, ou não receber, no caso de, por qualquer razão, se encontrar incapaz de expressar a sua vontade pessoal e autonomamente."
+    },
+    "Tilt test": {
+        "Definição": "O teste de inclinação ou teste de tilt é um exame que avalia a resposta da frequência cardíaca e da pressão arterial à posição de pé."
+    },
+    "Timpanoplastia": {
+        "Definição": "Intervenção cirúrgica reconstrutiva da membrana do tímpano ou dos ossículos da caixa do tímpano."
+    },
+    "Tireoglosso": {
+        "Definição": "Que é relativo ou pertencente à glândula tiroide e à língua."
+    },
+    "TMRG": {
+        "Definição": "Tempos Máximos de Resposta Garantidos."
+    },
+    "Tomografia Axial Computorizada": {
+        "Definição": "Técnica radiológica que permite obter radiografias seriadas em cortes ou planos paralelos."
+    },
+    "Toracentese": {
+        "Definição": "Punção da parede do tórax."
+    },
+    "Toxoplasmose": {
+        "Definição": "Doença parasitária, de sintomatologia complexa e variável, que, no caso de ser contraída durante a gravidez, pode provocar malformações no feto ou mesmo a morte."
+    },
+    "Transcutâneo": {
+        "Definição": "Através da pele."
+    },
+    "Transfusão": {
+        "Definição": "Perfusão direta (intravenosa ou intra-arterial) de grandes volumes de sangue ou dos seus componentes (glóbulos vermelhos, plaquetas ou glóbulos brancos) para compensar grandes perdas de sangue e/ou para corrigir algumas anemias graves."
+    },
+    "Transplante": {
+        "Definição": "Tecido ou órgão transplantado ou enxertado."
+    },
+    "Traqueotomia": {
+        "Definição": "Incisão cirúrgica na parede da traqueia."
+    },
+    "Triagem": {
+        "Definição": "Classificação de indivíduos que foram levados a um hospital ou a um Centro de Saúde, segundo as suas patologias ou segundo a gravidade da sua situação clínica."
+    },
+    "Tricotomia": {
+        "Definição": "Raspagem ou remoção da pilosidade existente em área do corpo que vai ser sujeita a cirurgia ou intervenção similar."
+    },
+    "Trombectomia": {
+        "Definição": "Extirpação cirúrgica de um trombo vascular."
+    },
+    "Trombo": {
+        "Definição": "Coágulo de sangue que se forma no interior de um vaso."
+    },
+    "Tromboembolismo": {
+        "Definição": "Obstrução de um vaso sanguíneo provocada pela passagem contínua de coágulos sanguíneos provenientes de uma trombose vascular localizada antes dessa obstrução."
+    },
+    "Trombólise": {
+        "Definição": "Dissolução de um coágulo existente na corrente sanguínea."
+    },
+    "UAVC": {
+        "Definição": "Unidade de Acidentes Vasculares Cerebrais."
+    },
+    "UCA": {
+        "Definição": "Unidade de Cirurgia Ambulatória."
+    },
+    "UCEP": {
+        "Definição": "Unidade de Cuidados Especiais Pediátricos."
+    },
+    "UCI": {
+        "Definição": "Unidade de Cuidados Intensivos."
+    },
+    "UCIN": {
+        "Definição": "Unidade de Cuidados Intensivos Neonatais."
+    },
+    "UCINT": {
+        "Definição": "Unidade de Cuidados Intermédios Médicos."
+    },
+    "UCPA": {
+        "Definição": "Unidade de Cuidados Pós-Anestésicos."
+    },
+    "UIC": {
+        "Definição": "Unidade de Insuficiência Cardíaca Aguda."
+    },
+    "Úlcera": {
+        "Definição": "Solução de continuidade, de difícil cicatrização, que ocorre no revestimento cutâneo ou numa mucosa."
+    },
+    "Ultrassonografia": {
+        "Definição": "Técnica de localização, medição e delimitação de estruturas de localização profunda, através do reflexo e da medição de ondas ultrassónicas de alta frequência."
+    },
+    "UNICARD": {
+        "Definição": "Unidade de Cuidados Intensivos Cardíacos."
+    },
+    "UNICARV": {
+        "Definição": "Unidade de Hemodinâmica e Intervenção Cardiovascular."
+    },
+    "UNICOR": {
+        "Definição": "Unidade de Cuidados Coronários."
+    },
+    "Ureterostomia": {
+        "Definição": "Intervenção cirúrgica em que se põem em comunicação duas partes do uréter para restabelecer a sua permeabilidade."
+    },
+    "Uretrocistografia": {
+        "Definição": "Radiografia da uretra e da bexiga após injeção de um produto radiopaco."
+    },
+    "Urgência": {
+        "Definição": "Prestação de cuidados médicos em situações de emergência. Serviço ou setor de um hospital onde se prestam cuidados médicos e cirúrgicos a doentes ou feridos necessitados de cuidados imediatos."
+    },
+    "Uropatia": {
+        "Definição": "Designação genérica dada às doenças do aparelho urinário."
+    },
+    "Urticária": {
+        "Definição": "Doença cutânea alérgica que se caracteriza pela erupção de pápulas, ligeiramente elevadas, rosadas, avermelhadas ou vermelho-esbranquiçadas, muito pruriginosas ou que provocam sensação de queimadura. As pápulas têm dimensões variáveis e podem ser localizadas ou generalizadas. A urticária é uma doença alérgica e que se manifesta devido a uma reação a qualquer substância a que o indivíduo é hipersensível (agentes físicos como o calor ou o frio; alimentos como chocolate, marisco, morangos ou ovos; fármacos; inalação de substâncias alergénicas, parasitas, picadas de insetos como melgas, pulgas ou percevejos, etc.)."
+    },
+    "Utente": {
+        "Definição": "Pessoa que utiliza bens ou serviços públicos ou privados."
+    },
+    "Valvuloplastia": {
+        "Definição": "Intervenção cirúrgica para reparar uma válvula."
+    },
+    "Vascular": {
+        "Definição": "Que é composto por vasos. Que é relativo ou pertencente a um vaso."
+    },
+    "Ventriculografia": {
+        "Definição": "Radiografia dos ventrículos cardíacos, após injeção de um produto radiopaco."
+    },
+    "Videonistagmograma": {
+        "Definição": "Observação e registo de nistagmos efetuado com recurso a câmara(s) de vídeo."
+    },
+    "Viscossuplementação": {
+        "Definição": "Produto injetável intra-articular que tem por base o ácido hialurónico, componente do líquido sinovial. É usado para lubrificar as articulações do joelho, protegendo-as de qualquer impacto."
+    },
+    "Vitíligo": {
+        "Definição": "Doença de etiologia desconhecida que se manifesta por alterações cutâneas e que apresenta zonas descoradas e esbranquiçadas (por ausência local de pigmento melânico), bem limitadas por zonas de pele mais escura. Os pelos ou cabelos nascidos nas zonas despigmentadas são brancos."
+    }
+}

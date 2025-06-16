@@ -1,0 +1,170 @@
+{% extends 'layout.html'%}
+
+{% block head %} 
+<title>{{title}}</title> 
+{% endblock %}
+
+{% block body %}
+
+<div class="container mt-4 mb-4">
+  <div class="card shadow-sm">
+    <div class="card-body">
+      <h2 class="card-title mb-4">{{ termo|capitalize }}</h2>
+      
+      <div class="row">
+        <div class="col-md-6">
+          <p><strong>Categoria:</strong> {{ info.get("Categoria", "—") }}</p>
+          <p><strong>Categoria Lexical:</strong> {{ info.get("Categoria Lexical", "—") }}</p>
+          <p><strong>Género:</strong> {{ info.get("Género", "—") }}</p>
+          <p><strong>Número:</strong> {{ info.get("Número", "—") }}</p>
+        </div>
+        <div class="col-md-6">
+          <p><strong>Siglas:</strong> 
+            {% if info.get("Sigla") and info["Sigla"]|length > 0 %}
+              {{ info["Sigla"]|join(", ") }}
+            {% else %}
+              <span class="text-muted">Não disponível</span>
+            {% endif %}
+          </p>
+          <p><strong>Número CAS:</strong> 
+            {% if info.get("Número CAS") and info["Número CAS"]|length > 0 %}
+              {{ info["Número CAS"]|join(", ") }}
+            {% else %}
+              <span class="text-muted">Não disponível</span>
+            {% endif %}
+          </p>
+          <p><strong>Denominação Comercial:</strong> {{ info.get("Denominação Comercial", "—") }}</p>
+        </div>
+      </div>
+
+      <hr>
+
+      <p><strong>Descrição:</strong>
+        {% if info.get("Descrição") and info["Descrição"]|length > 0 %}
+          <ul>
+            {% for desc in info["Descrição"] %}
+              <li>{{ desc }}</li>
+            {% endfor %}
+          </ul>
+        {% else %}
+          <span class="text-muted">Descrição não disponível.</span>
+        {% endif %}
+      </p>
+
+      {% if info.get("Descricao_pt") %}
+        <p><strong>Descrição em Português:</strong>
+          {% if info["Descricao_pt"]|length > 0 %}
+            <ul>
+              {% for desc in info["Descricao_pt"] %}
+                <li>{{ desc }}</li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            <span class="text-muted">Descrição não disponível.</span>
+          {% endif %}
+        </p>
+      {% endif %}
+
+      <p><strong>Termos Populares:</strong>
+        {% if info.get("termo_popular") and info["termo_popular"]|length > 0 %}
+          <ul>
+            {% for termo_pop in info["termo_popular"] %}
+              <li>{{ termo_pop }}</li>
+            {% endfor %}
+          </ul>
+        {% else %}
+          <span class="text-muted">Não disponível.</span>
+        {% endif %}
+      </p>
+
+      {% if info.get("Traduções") %} 
+        <div class="mb-3">
+          <strong>Traduções:</strong>
+          <ul>
+            {% for lingua, traducao in info.get("Traduções", {}).items() %}
+              <li>
+                <strong>{{ lingua }}:</strong>
+                {% if traducao is string %}
+                  {{ traducao }}
+                {% else %}
+                  {{ traducao | join(", ") }}
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+
+      {% if info.get("Notas") and info["Notas"]|length > 0 %} 
+        <div class="mb-3">
+          <strong>Notas:</strong>
+          <ul>
+            {% for nota in info["Notas"] %}
+              <li>{{ nota }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+
+      {% if info.get("inf_encicl") %}
+        <p><strong>Informação Enciclopédica:</strong> {{ info.get("inf_encicl") }}</p>
+      {% endif %}
+
+      {% if info.get("citacoes") and info["citacoes"]|length > 0 %}
+        <p><strong>Citações:</strong> {{ info["citacoes"]|join(", ") }}</p>
+      {% endif %}
+
+      {% if sinonimos_links %}
+        <p><strong>Sinónimos:</strong> 
+          {% for sinonimo, target in sinonimos_links %}
+            {% if target %}
+              <a href="/termos/{{target}}" class="badge bg-primary text-light">{{ target }}</a>
+            {% else %}
+              <span class="badge bg-secondary text-light">{{ sinonimo }}</span>
+            {% endif %}
+            {% if not loop.last %}, {% endif %}
+          {% endfor %}
+        </p>
+      {% endif %}
+
+      {% if entrada_principal %}
+        <p><strong>Entrada Principal:</strong>
+          {% if entrada_principal[1] %}
+            <a href="/termos/{{ entrada_principal[1] }}" class="badge bg-secondary text-light">{{ entrada_principal[1] }}</a>
+          {% else %}
+            <span class="badge bg-secondary text-light">{{ entrada_principal[0] }}</span>
+          {% endif %}
+        </p>
+      {% endif %}
+      
+      {% if remissivas_links %}
+        <p><strong>Remissivas:</strong>
+          {% for remissiva, target in remissivas_links %}
+            {% if target %}
+              <a href="/termos/{{ target }}" class="badge bg-info text-dark">{{ target }}</a>
+            {% else %}
+              <span class="badge bg-info text-dark">{{ remissiva }}</span>
+            {% endif %}
+            {% if not loop.last %}, {% endif %}
+          {% endfor %}
+        </p>
+      {% endif %}
+
+      {% if info.get("Similares") and info["Similares"]|length > 0 %}
+        <p><strong>Termos similares:</strong>
+          {% for similar in info["Similares"] %}
+            <a href="/termos/{{similar}}" class="badge bg-warning text-dark">{{ similar }}</a>{% if not loop.last %}, {% endif %} 
+          {% endfor %}
+        </p>
+      {% endif %}
+
+      <div class="mt-4">
+        <a href="/editar/{{termo}}" class="btn btn-primary me-2">Editar termo</a>
+        <button type="button" onclick="delete_termo('{{termo}}')" class="btn btn-danger me-2">Apagar termo</button>
+        <a href="/termos" class="btn btn-secondary">Voltar</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

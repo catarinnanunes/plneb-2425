@@ -1,0 +1,113 @@
+{
+    "Anticorpos": {
+        "Definição": "Proteínas específicas (imunoglobulinas) produzidas pelo organismo para combater infeções. A produção de anticorpos faz parte dos mecanismos de defesa do nosso sistema imunitário contra agressores (antigénios), por exemplo, vírus, bactérias, fungos, parasitas, entre outros."
+    },
+    "Automonitorização de sintomas": {
+        "Definição": "Verificação, pelo próprio, se tem sintomas de doença. No caso da covid-19 refere-se, mais frequentemente, a febre, tosse e dificuldade respiratória."
+    },
+    "Comorbilidade": {
+        "Definição": "Ocorrência simultânea, ou coexistência, de mais do que uma doença na mesma pessoa. Normalmente o termo comorbilidade é aplicado a doenças crónicas."
+    },
+    "Cordão sanitário": {
+        "Definição": "Medida de impedimento de deslocações para fora ou para dentro de uma determinada área geográfica para conter a transmissão e disseminação de uma infeção."
+    },
+    "Coronavírus": {
+        "Definição": "designação comum dos vírus da família Coronaviridae. Diversos coronavírus são causa de doença, tanto no homem como nos animais. O coronavírus que causa a doença covid-19 tem o nome de SARS-CoV-2 e foi identificado no homem pela primeira vez em 2019, em Wuhan, na China."
+    },
+    "Covid-19": {
+        "Definição": "Nome abreviado (do inglês coronavírus disease 2019) dado à doença provocada pelo coronavírus SARS-CoV-2. O nome não abreviado em português é doença por coronavírus 2019."
+    },
+    "Dever cívico de recolhimento domiciliário": {
+        "Definição": "O nosso dever como cidadãos de permanecermos em casa sempre que possível e assim contribuirmos para diminuir a probabilidade de contágio e limitar a disseminação da covid-19."
+    },
+    "Distanciamento social": {
+        "Definição": "Recomendação de manter propositadamente uma distância física de segurança (cerca de 2 metros) de outras pessoas com o objetivo de diminuir a probabilidade de contágio e limitar a disseminação da covid-19."
+    },
+    "Endemia": {
+        "Definição": "Nível base de uma doença numa região ou país, significando que a doença existe sempre, sendo os casos geralmente em número baixo e relativamente constante."
+    },
+    "EPI": {
+        "Definição": "Equipamento de proteção individual. Os EPI dos profissionais de saúde são, por exemplo, luvas, aventais, batas, fatos, máscaras, óculos, protetores faciais, respiradores e protetores de sapatos, entre outros."
+    },
+    "Epidemia": {
+        "Definição": "Aumento súbito e pronunciado do número de casos de uma doença em várias regiões ou países, superior ao que seria de esperar num determinado período."
+    },
+    "Etiqueta respiratória": {
+        "Definição": "Estas medidas pretendem limitar a disseminação de gotículas que são expelidas com os espirros ou tosse e consistem em proteger o nariz e a boca com o antebraço ou com um lenço descartável (e deitá-lo no lixo sem o reutilizar) sempre que se espirra ou tosse. As medidas de etiqueta respiratória além de serem uma prática de higiene que deve ser usada em qualquer situação, assumem particular importância quando aquelas gotículas podem ser veículo de um microrganismo contagioso como o vírus da covid-19."
+    },
+    "Fomite": {
+        "Definição": "qualquer objeto que possa ser veículo de transmissão de uma infeção, como, por exemplo, uma maçaneta de uma porta ou um botão de elevador."
+    },
+    "Grupos de risco": {
+        "Definição": "Grupos de pessoas com maior risco de infeção e de gravidade da doença por determinadas características. Para a covid-19, são grupos de risco as pessoas com mais de 70 anos, as pessoas com doenças crónicas e pessoas com o sistema imunitário comprometido devido a tratamentos que têm esse efeito ou a doenças como a sida."
+    },
+    "Higiene das mãos": {
+        "Definição": "Lavar bem as mãos com água e sabão durante pelo menos 20 segundos ou com uma solução alcoólica (com pelo menos 70% de álcool), várias vezes por dia."
+    },
+    "Isolamento": {
+        "Definição": "Medida de afastamento e limitação de movimentos usada para pessoas com infeção confirmada, de modo e interromper o contágio e a disseminação da doença."
+    },
+    "Pandemia": {
+        "Definição": "Disseminação mundial de uma epidemia."
+    },
+    "Período de incubação": {
+        "Definição": "Período entre a exposição a um microrganismo que causa uma doença e o aparecimento de sintomas da doença. Para a covid-19, o período de incubação é de 1 a 14 dias."
+    },
+    "Portador assintomático": {
+        "Definição": "Pessoa que está infetada, mas não manifesta sintomas da doença."
+    },
+    "Quarentena ou isolamento profilático": {
+        "Definição": "Medida de afastamento e restrição de movimentos aplicada a pessoas saudáveis que possam ter estado expostas a casos de doença e ter sido contagiadas, tendo como objetivo global interromper uma possível via de transmissão da doença. A duração da quarentena é equivalente ao período de incubação da doença pela qual a quarentena é realizada. No caso da covid-19, são 14 dias. Se a doença não se manifestar durante a quarentena, é provável que não tenha havido contágio. Se, pelo contrário, durante o período de quarentena a doença se manifestar, confirma-se que houve contágio e a quarentena permitiu quebrar a transmissão da infeção. Se uma pessoa ficar doente durante a quarentena, ficará depois em isolamento até estar curada."
+    },
+    "Quartos de pressão negativa": {
+        "Definição": "Espaços usados para isolamento em doenças infeciosas em que, por ventilação e organização dos acessos ao espaço, é mantida uma pressão inferior à pressão habitual (pressão atmosférica). Como o ar flui dos locais de maior pressão para os de menor pressão, criando uma pressão mais baixa num espaço que está contaminado, o ar flui para dentro desse espaço, mas não para fora, não contaminando assim outros locais."
+    },
+    "R": {
+        "Definição": "Número médio de casos de infeção originados a partir de um caso numa população, quando toda esta é suscetível (R0) ou não implicando suscetibilidade de toda a população (Re)."
+    },
+    "SARS-CoV-2": {
+        "Definição": "Nome abreviado do coronavírus que causa a doença covid-19 e que significa severe acute respiratory syndrome (síndrome respiratória aguda grave) – coronavírus – 2. O SARS-CoV-2 foi identificado no homem pela primeira vez em 2019, em Wuhan, na China."
+    },
+    "Síndrome": {
+        "Definição": "conjunto de sintomas que em conjunto podem estar relacionados ou caracterizar uma doença."
+    },
+    "Surto": {
+        "Definição": "O mesmo que epidemia, mas aplicado a uma área geográfica mais limitada. Por exemplo, a covid-19 começou com um surto em Wuhan na China."
+    },
+    "Taxa de letalidade de uma doença": {
+        "Definição": "Calculada dividindo o número de mortes devidas a uma doença e o número de casos dessa doença diagnosticados na mesma população e período. Normalmente é apresentada em percentagem."
+    },
+    "Taxa de mortalidade específica por uma causa": {
+        "Definição": "Calculada dividindo o número de mortes atribuídas a uma causa específica numa população num determinado período pela população no mesmo período. Normalmente é apresentada por 100 000 habitantes."
+    },
+    "Temperatura axilar": {
+        "Definição": "Temperatura corporal medida com um termómetro colocado debaixo do braço (na axila)."
+    },
+    "Temperatura timpânica": {
+        "Definição": "Temperatura corporal medida com um termómetro colocado no ouvido."
+    },
+    "Teste PCR para covid-19": {
+        "Definição": "Teste que pesquisa a presença de vírus SARS-CoV-2 numa amostra de biológica (habitualmente secreções nasais)."
+    },
+    "Teste serológico para covid-19": {
+        "Definição": "Teste que pesquisa a presença de anticorpos contra o vírus SARS-CoV-2 numa amostra de sangue."
+    },
+    "Transmissão na comunidade": {
+        "Definição": "Transmissão de uma doença numa determinada região sem ser possível associar os casos novos a casos já conhecidos, ou seja, sem existir uma explicação concreta sobre a forma como as novas infeções acontecem."
+    },
+    "Transmissão direta": {
+        "Definição": "Transmissão pessoa a pessoa, de pessoas infetadas para pessoas não infetadas. As gotículas contendo vírus, libertadas pelas pessoas infetadas quando tossem ou espirram, atingem diretamente e contagiam pessoas não infetadas. Neste caso, para evitar a infeção, são mais relevantes as medidas de etiqueta respiratória e o distanciamento físico."
+    },
+    "Transmissão indireta": {
+        "Definição": "Transmissão por contacto com objetos e superfícies contaminadas. As gotículas das secreções respiratórias de pessoas infetadas contaminam superfícies e objetos. As pessoas não infetadas mexem nestas superfícies e objetos e depois mexem na cara contagiando-se, e contagiando depois pessoas não infetadas. Neste caso, para evitar a infeção, são mais relevantes as medidas de etiqueta respiratória, não contaminação de superfícies e objetos, e a lavagem frequente das mãos que levamos à cara, automaticamente, várias vezes durante o dia."
+    },
+    "Vacina": {
+        "Definição": "Medicamento que induz o sistema imunitário a produzir imunidade (resistência) contra uma doença. As vacinas contêm o microrganismo que causa a doença numa forma e quantidade que não provoca a doença, mas que permite induzir a resposta do sistema imunitário."
+    },
+    "Ventilador": {
+        "Definição": "Equipamento que ajuda os doentes a respirar quando estes não conseguem fazê-lo por si. Há diversos tipos de ventiladores."
+    },
+    "Zaragatoa": {
+        "Definição": "Haste ou vareta com um material absorvente – por exemplo esponja, fios tipo pincel, algodão - numa das extremidades. Pode ser usada para obter amostras ou para aplicar medicamentos. No caso da covid-19 usa-se uma zaragatoa que é introduzida nas narinas para recolher secreções onde será pesquisada a presença do vírus que causa a doença."
+    }
+}

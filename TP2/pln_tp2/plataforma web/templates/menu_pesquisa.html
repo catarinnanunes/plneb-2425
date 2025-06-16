@@ -1,0 +1,71 @@
+{% extends 'layout.html'%}
+
+
+{% block head %} 
+<title>{{title}}</title> 
+{% endblock %}
+
+
+
+{% block body %}
+
+<div class="container mt-5">
+    <h1 class="text-center">Menu de Pesquisa</h1>
+    
+    <form action="/pesquisa" method="GET" class="mt-4">
+        <div class="form-floating mb-4">
+            <input type="text" name="pesquisa" class="form-control" id="pesquisa_input" placeholder="Insira um termo..." value="{{ pesquisa }}">
+            <label for="pesquisa_input">Pesquisa</label>
+        </div>
+        <div class="row mb-3 align-items-center">
+            <div class="col-auto">  <!-- pesquisar em todo os campos vs só no termo em si -->
+                <label for="search_area_input" class="form-check-label me-2">Pesquisar só nos termos</label>
+                <input type="checkbox" {% if search_area == 'on' %} checked {% endif %} class="form-check-input" id="search_area_input" name="search_area">
+            </div>
+            <div class="col-auto">
+                <label for="word_boundary_input" class="form-check-label me-2">Palavras completas</label>
+                <input type="checkbox" {% if word_boundary == 'on' %} checked {% endif %} class="form-check-input" id="word_boundary_input" name="word_boundary">
+            </div>
+            <div class="mb-3 mt-3 d-flex align-items-center">
+            <label for="categoria" class="me-2 mb-0">Categoria:</label>
+            <select class="form-select w-auto" id="categoria" name="categoria">
+                <option value="">Todas</option>
+                {% for cat in categorias %}
+                    <option value="{{ cat }}">{{ cat }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        </div>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+            <button type="submit" class="btn btn-primary">Pesquisar</button>
+        </div>
+    </form>
+
+    {% if pesquisa %}
+        {% if resultados %}
+            <h3 class="mt-4">Resultados para "{{ pesquisa }}":</h3>
+            <ul class="list-group mt-2">
+                {% for termo, descricao in resultados.items() %}
+                    <li class="list-group-item">
+                        <p><strong>Termo:</strong> {{termo | safe }}</p>
+                        <p><strong>Descrição:</strong>
+                        {% if descricao|length > 0 %}
+                            {{ (descricao | join("; ") ) | safe}}
+                        {% else %}
+                            <span class="text-muted">Descrição não disponível.</span>
+                        {% endif %} 
+                        </p>
+                        <a href="/termos/{{termo|striptags }}" class="btn btn-outline-primary btn-sm mb-1">Consultar Informação Completa</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p class="mt-4 text-danger">Nenhum resultado encontrado.</p>
+        {% endif %}
+    {% else %}
+        <p class="mt-4">Os resultados irão aparecer aqui.</p>
+    {% endif %}
+</div>
+
+{% endblock %}
+
